@@ -39,8 +39,8 @@ Mathieu Rajerison, du service GTIE (Géomatique, Trafics, ITS et Exploitation) d
 [Licence Ouverte Etalab](https://www.etalab.gouv.fr/licence-ouverte-open-licence)
 
 ### :thumbsup: Remerciements, crédits
-- L'École Nationale des Techniciens de l'Équipement d'Aix en Provence (ENTE)
-- Le Comité Régional d'Information Géographique de la région Sud (CRIGE PACA)
-- DataSud
-- OpenDataFrance
+- [L'École Nationale des Techniciens de l'Équipement d'Aix en Provence (ENTE)](http://www.ente.developpement-durable.gouv.fr/aix-en-provence-r41.html)
+- [Le Centre Régional d'Information Géographique de la région Sud (CRIGE PACA)](http://www.crige-paca.org/)
+- [DataSud](https://www.datasud.fr/)
+- [OpenDataFrance](http://www.opendatafrance.net/)
 - [teamopendata.org](https://teamopendata.org)
