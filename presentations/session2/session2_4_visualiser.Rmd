@@ -1,8 +1,8 @@
 ---
-title: "OpenData > Exo"
+title: "OpenData (Exos)"
 subtitle: "Visualiser"
 author: "CEREMA Med > Mathieu Rajerison"
-date: "<span style='font-size:0.5em;'>02/08/2018</span>"
+date: "<span style='font-size:0.5em;'>06/02/2019</span>"
 output:
   xaringan::moon_reader:
     css: ["../css/my_css.css", "../css/my_css_session2.css", "default", "default-fonts"]
@@ -13,6 +13,12 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+      
+---
+class: center, middle, inverse
+
+# `r icon::fa("pencil-alt", size = 1)` À vous de jouer
+
 ---
 class: center, middle
 
@@ -103,7 +109,7 @@ class:exo
 <div class=file>`r icon::fa("file", size = 1)` Prendre le fichier : <a href=https://trouver.datasud.fr/dataset/epanouissement-de-tous-les-etres-humains-indicateurs-de-developpement-durable>indicateurs de développement durable sur l'épanouissement des êtres humains</a></div>
 
 ##Exo 10
-&#9658; Comparer, sous forme de camembert, la situation de la région par rapport au territoire national pour ce qui est de :
+&#9658; Comparer, sous forme de graphique en barres, la situation de la région par rapport au territoire national pour ce qui est de :
 
 - la part des déplacements domicile-travail effectués en voiture (%)
 

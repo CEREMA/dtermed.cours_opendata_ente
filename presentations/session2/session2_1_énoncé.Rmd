@@ -1,8 +1,8 @@
 ---
-title: "OpenData > Exo"
+title: "OpenData (Exos)"
 subtitle: "Votre mission, si vous l'acceptez"
 author: "CEREMA Med > Mathieu Rajerison"
-date: "<span style='font-size:0.5em;'>02/08/2018</span>"
+date: "<span style='font-size:0.5em;'>06/02/2019</span>"
 output:
   xaringan::moon_reader:
     css: ["../css/my_css.css", "../css/my_css_session2.css", "default", "default-fonts"]

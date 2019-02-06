@@ -1,8 +1,8 @@
 ---
-title: "OpenData > Exo"
+title: "OpenData (Exos)"
 subtitle: "Outils pour explorer et visualiser la Data"
 author: "CEREMA Med > Mathieu Rajerison"
-date: "<span style='font-size:0.5em;'>02/08/2018</span>"
+date: "<span style='font-size:0.5em;'>06/02/2019</span>"
 output:
   xaringan::moon_reader:
     css: ["../css/my_css.css", "../css/my_css_session2.css", "default", "default-fonts"]
@@ -71,8 +71,18 @@ En particulier, LibreOffice Calc permet de créer des tableaux statistiques et de
 
 LibreOffice découle de la suite OpenOffice.
 
-## WTFCSV, CSVLint
-Pour rappel, les outils en ligne [WTFCSV](https://databasic.io/en/wtfcsv/) et [CSVLint](https://csvlint.io/) ne sont pas des tableurs mais ils permettent d'avoir un aperçu de fichiers CSV et d'effectuer quelques contrôles qualité avant leur ouverture dans un tableur.
+---
+## Outils en ligne
+Il existe un certain nombre d'outils en ligne qui permettent de "savoir ce qui se passe dans son CSV", dont voici un extrait:
+
+- [WTFCSV](https://databasic.io/en/wtfcsv/)
+- [Dive](https://dive.media.mit.edu/)
+- [CSVLint](https://csvlint.io/)
+
+[WTFCSV](https://databasic.io/en/wtfcsv/) permet de représenter simplement et de façon immédiate le contenu de ses données. [Dive](https://dive.media.mit.edu/), dans le même style, créé par le MIT, paraît beaucoup plus avancé, et devrait vous permettre de vous plonger avec facilité dans vos données.L'outil [CSVLint](https://csvlint.io/), lui, est plus ciblé contrôle Qualité des données. On l'utilisera pour savoir si une donnée est bien structurée, par exemple, avant de la transmettre à autrui.
+
+##Tad
+[Tadviewer](https://www.tadviewer.com/) est tout simplement un visualiseur de données CSV. Il permet facilement de construire des requêtes, d'explorer la donnée par de multiples facettes, de façon simple.
 
 ---
 class: middle, center, inverse
