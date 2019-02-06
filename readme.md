@@ -29,7 +29,8 @@ Supports de cours sur l'Open Data réalisés en 2018 pour les apprenants de l'EN
 Mathieu Rajerison, du service GTIE (Géomatique, Trafics, ITS et Exploitation) du CEREMA Med (Centre d'Études et d'Expertise sur les Risques, l'Environnement, la Mobilité et l'Améngament de la région Méditerranée)
 
 ### Version
-24 août 2018
+- Dernière MAJ : 06/02/19
+- Création : 24 août 2018
 
 ### Format
 - Source : format [R Markdown](https://rmarkdown.rstudio.com/), librairie [xaringan](https://github.com/yihui/xaringan)
