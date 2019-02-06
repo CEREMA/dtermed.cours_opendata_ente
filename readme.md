@@ -1,7 +1,7 @@
 # Une journée de formation sur l'Open Data<br>  
 
 
-:bookmark_tabs: Supports de cours sur l'Open Data réalisés en 2018 pour les apprenants de l'ENTE d'Aix-en-Provence (École Nationale des Techniciens de l'Équipement)  
+Supports de cours sur l'Open Data réalisés en 2018 pour les apprenants de l'ENTE d'Aix-en-Provence (École Nationale des Techniciens de l'Équipement)  
 
 ![](images/LogoENTE_small.jpg)
 ![](images/Logo_CEREMA_small.png)
