@@ -1,7 +1,7 @@
 # Une journée de formation sur l'Open Data<br>  
 
 
-Supports de cours sur l'Open Data réalisés en 2018 pour les apprenants de l'ENTE d'Aix-en-Provence (École Nationale des Techniciens de l'Équipement)  
+:bookmark_tabs: Supports de cours sur l'Open Data réalisés en 2018 pour les apprenants de l'ENTE d'Aix-en-Provence (École Nationale des Techniciens de l'Équipement)  
 
 ![](images/LogoENTE_small.jpg)
 ![](images/Logo_CEREMA_small.png)
@@ -33,7 +33,7 @@ CEREMA Med > Mathieu Rajerison, du service GTIE (Géomatique, Trafics, ITS et Ex
 
 ### Format
 - Source : format [R Markdown](https://rmarkdown.rstudio.com/), librairie [xaringan](https://github.com/yihui/xaringan)
-- Généré : HTML
+- Généré : HTML & PDF
 
 ### Licence
 [Licence Ouverte Etalab](https://www.etalab.gouv.fr/licence-ouverte-open-licence)
