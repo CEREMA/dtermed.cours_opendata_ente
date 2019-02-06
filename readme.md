@@ -1,4 +1,4 @@
-#Une journée de formation sur l'Open Data<br>  
+# Une journée de formation sur l'Open Data<br>  
 
 
 Supports de cours sur l'Open Data réalisés en 2018 pour les apprenants de l'ENTE d'Aix-en-Provence (École Nationale des Techniciens de l'Équipement)  
@@ -24,14 +24,14 @@ Supports de cours sur l'Open Data réalisés en 2018 pour les apprenants de l'EN
 - [Cartographier](https://datagistips.github.io/cours_data_ente/prez/session2/session2_5_cartographier.html)
 - [Outils (annexe)](https://datagistips.github.io/cours_data_ente/prez/session2/session2_6_annexe_outils.html)
 
-##Réalisation
-###Auteur des supports
+## Réalisation
+### Auteur des supports
 CEREMA Med > Mathieu Rajerison, du service GTIE (Géomatique, Trafics, ITS et Exploitation)
 
-###Version
+### Version
 24 août 2018
 
-###Format
+### Format
 - Source : format [R Markdown](https://rmarkdown.rstudio.com/), librairie [xaringan](https://github.com/yihui/xaringan)
 - Généré : HTML
 
