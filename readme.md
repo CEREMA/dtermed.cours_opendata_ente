@@ -7,7 +7,7 @@
 ![](images/Logo_CEREMA_small.png)
 
 
-## Session 1 (cours) ½j 
+## Session 1 (cours) ½j :books:
 - Généralités sur la Data  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_1_data.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_1_data.pdf)
 - Fondements et contexte législatif entourant l'OpenData  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_2_fondements.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_2_fondements.pdf)
 - Les portails OpenData  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_3_portails.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_3_portails.pdf)
@@ -16,7 +16,7 @@
 - Rendez-vous avec la Data  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_6_rdv_data.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_6_rdv_data.pdf)
 - Quizz  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_7_quizz.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_7_quizz.pdf)
 
-## Session 2 (travaux pratiques) ½j 
+## Session 2 (travaux pratiques) ½j :computer:
 - Énoncé du défi  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_1_énoncé.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session2_1_énoncé.pdf)
 - Accéder à la donnée et en prendre connaissance  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_2_acceder_prendre_connaissance.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session2_2_acceder_prendre_connaissance.pdf)
 - Explorer  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_3_explorer.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session2_3_explorer.pdf)
@@ -38,7 +38,7 @@ Mathieu Rajerison, du service GTIE (Géomatique, Trafics, ITS et Exploitation) d
 ### Licence
 [Licence Ouverte Etalab](https://www.etalab.gouv.fr/licence-ouverte-open-licence)
 
-### Remerciements, crédits
+### :thumbsup: Remerciements, crédits
 - L'École Nationale des Techniciens de l'Équipement d'Aix en Provence (ENTE)
 - Le Comité Régional d'Information Géographique de la région Sud (CRIGE PACA)
 - DataSud
