@@ -8,21 +8,21 @@
 
 
 ## Session 1 (cours) ½j 
-- [Généralités sur la Data](https://datagistips.github.io/cours_data_ente/prez/session1/session1_1_data.html)
-- [Fondements et contexte législatif entourant l'OpenData](https://datagistips.github.io/cours_data_ente/prez/session1/session1_2_fondements.html)
-- [Les portails OpenData](https://datagistips.github.io/cours_data_ente/prez/session1/session1_3_portails.html)
-- [Les acteurs de l'OpenData](https://datagistips.github.io/cours_data_ente/prez/session1/session1_4_acteurs.html)
-- [Avant de vous présenter à la Data](https://datagistips.github.io/cours_data_ente/prez/session1/session1_5_avant_data.html)
-- [Rendez-vous avec la Data](https://datagistips.github.io/cours_data_ente/prez/session1/session1_6_rdv_data.html)
-- [Quizz](https://datagistips.github.io/cours_data_ente/prez/session1/session1_7_quizz.html)
+- Généralités sur la Data [HTML](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_1_data.html)
+- Fondements et contexte législatif entourant l'OpenData [HTML](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_2_fondements.html)
+- Les portails OpenData [HTML](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_3_portails.html)
+- Les acteurs de l'OpenData [HTML](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_4_acteurs.html)
+- Avant de vous présenter à la Data [HTML](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_5_avant_data.html)
+- Rendez-vous avec la Data [HTML](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_6_rdv_data.html)
+- Quizz [HTML](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_7_quizz.html)
 
 ## Session 2 (travaux pratiques) ½j 
-- [Énoncé du défi](https://datagistips.github.io/cours_data_ente/prez/session2/session2_1_énoncé.html)
-- [Accéder à la donnée et en prendre connaissance](https://datagistips.github.io/cours_data_ente/prez/session2/session2_2_acceder_prendre_connaissance.html)
-- [Explorer](https://datagistips.github.io/cours_data_ente/prez/session2/session2_3_explorer.html)
-- [Visualiser](https://datagistips.github.io/cours_data_ente/prez/session2/session2_4_visualiser.html)
-- [Cartographier](https://datagistips.github.io/cours_data_ente/prez/session2/session2_5_cartographier.html)
-- [Outils (annexe)](https://datagistips.github.io/cours_data_ente/prez/session2/session2_6_annexe_outils.html)
+- [Énoncé du défi](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_1_énoncé.html)
+- [Accéder à la donnée et en prendre connaissance](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_2_acceder_prendre_connaissance.html)
+- [Explorer](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_3_explorer.html)
+- [Visualiser](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_4_visualiser.html)
+- [Cartographier](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_5_cartographier.html)
+- [Outils (annexe)](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_6_annexe_outils.html)
 
 ## Réalisation
 ### Auteur des supports
