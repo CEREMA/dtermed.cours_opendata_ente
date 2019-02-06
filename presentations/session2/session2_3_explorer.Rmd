@@ -1,0 +1,193 @@
+---
+title: "OpenData > Exo"
+subtitle: "Explorer"
+author: "CEREMA Med > Mathieu Rajerison"
+date: "<span style='font-size:0.5em;'>02/08/2018</span>"
+output:
+  xaringan::moon_reader:
+    css: ["../css/my_css.css", "../css/my_css_session2.css", "default", "default-fonts"]
+    seal: true
+    lib_dir: libs
+    self_contained: true
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+class: center, middle
+
+# Créer un tableau depuis les instructions suivantes :
+
+- Aix-en-Provence compte 141438 habitants. Son code INSEE est 13090 et elle appartient aux Bouches-du-Rhône.
+- Marseille appartient au même département. Elle compte 850726 habitants. Son code INSEE est 13055
+- Nice (06088) est une commune des Alpes-Maritimes. Elle compte 343304 habitants.
+
+---
+class: center, middle
+
+# Récupérer la population par département sur la région PACA et en faire un tableau en faisant apparaître également le code INSEE de chaque département
+
+---
+class: center, middle
+
+# Quelle caractéristique de l'OpenData peut influencer la façon de structurer la donnée ?
+
+--
+Voici les consignes de réalisation d'un tableau pour que ce dernier soit traitable par une machine :
+
+- Souvent, un logiciel s'attend à ce qui est le plus conventionnel, soit que les variables, champs apparaissent en colonnes, et les entités, enregistrements, en lignes
+- Noms de champs courts, voire abréviés, pour faciliter le travail des programmeurs
+- Pas d'espaces, ni d'accents dans les noms d'attributs, ni de majuscules, sinon les logiciels de traitement peuvent planter
+
+---
+class: center, middle
+
+# Refaire le tableau en respectant ces préceptes
+
+---
+class: center, middle
+
+# Quel est le département le plus peuplé
+# Quelle est la population totale en PACA ?
+
+
+
+<!-- --- -->
+<!-- class: center, middle -->
+
+<!-- # Prendre les données de population à Marseille, Aix en Provence, Nice et en faire un tableau -->
+
+<!-- --- -->
+<!-- class: center, middle -->
+
+<!-- # Quelle ville compte le plus d'habitants ? -->
+
+<!-- --- -->
+<!-- class: center, middle -->
+
+<!-- # Rechercher sur Internet les informations sur Toulon et compléter le tableau -->
+
+<!-- --- -->
+<!-- class: center, middle -->
+
+<!-- # Calculer le nombre d'habitants total sur ces 4 villes -->
+
+---
+class: center, middle, inverse
+
+# `r icon::fa("table", size = 1)` Opérations de base sous Excel ou LibreOffice
+
+###Rappel de quelques fonctions utiles avant de commencer
+
+---
+
+## Trier un tableau de données
+- Sélectionner le tableau à trier en incluant les noms de colonnes
+- Aller dans `Données > Trier`
+- Dire que la première ligne contient les en-têtes de colonnes
+
+<center><img src=../images/trier1.png width=80%></img></center>
+
+---
+- Réaliser le tri
+
+![](../images/trier2.png)
+
+---
+## Calculer des statistiques agrégées
+### Moyenne
+- Se positionner sur une cellule qui contiendra la valeur de moyenne
+
+- Cliquer sur le bouton `Fonction`
+
+![](images/fonction.png)
+
+- Choisir la fonction souhaitée, dans notre cas la `MOYENNE`
+
+---
+
+- Dire quelle est la plage des valeurs dont on souhaite calculer la moyenne : tracer un rectangle englobant les valeurs souhaitées
+
+<center><img src=../images/moyenne.png width=70%></img></center>
+
+On peut faire de même pour calculer des sommes, etc...
+
+
+---
+class: center, middle, inverse
+
+# Indicateurs de développement durable sur l'épanouissement des êtres humains 
+
+[`r icon::fa("file", size = 2, colour = "rgb(249, 38, 114);")` Cliquez ici pour accéder au dataset](https://trouver.datasud.fr/dataset/epanouissement-de-tous-les-etres-humains-indicateurs-de-developpement-durable)
+
+---
+class: exo
+
+##Exo 4
+&#9658; <u>Revue post-téléchargement</u>
+
+1. Combien de fichiers trouve-t-on dans le lot de données ? Sont-ils tous différents ? Combien de jeux de données différents trouve-t-on en réalité ?
+
+2. Dans quel jeu de données retrouve-t-on autant d'informations que citées dans la documentation ? A quel niveau géographique : région, département ?
+
+3. Quel jeu de données comprend des données précises ? Y retrouve-t-on l'intégralité des indicateurs ?</div>
+
+---
+class:exo
+
+##Exo 5
+&#9658; <u>Structure des fichiers</u>
+
+1. Dans le fichier synthese, les variables apparaissent-elles en colonnes ou en lignes ? Et dans les autres Fichiers ?
+
+2. Dans le fichier detail, que signifie à votre avis la valeur *nd* dans l'onglet sur la qualité de l'air ?</div>
+
+---
+class:exo
+
+##Exo 6
+&#9658; <u>Contenu</u>
+
+1. Comment se situe **PACA par rapport à la France** par rapport à l'exposition au bruit ?
+
+2. Après les Bouches-du-Rhône, dans quel département est-on le plus exposé au bruit ?
+
+3. **Classer les communes** en fonction de la qualité de l'air en 2012 et dire quelles communes sont les 3 communes les plus polluées et les 3 communes les moins polluées</div>
+
+---
+class: center, middle, inverse
+
+# Populations exposées au dépassement des valeurs de référence des PM10, NO2 et O3
+
+[`r icon::fa("file", size = 2, colour = "rgb(249, 38, 114);")` Cliquez ici pour accéder au dataset](https://trouver.datasud.fr/dataset/indicateurs-communaux-de-qualite-de-lair-en-region-sud-provence-alpes-cote-dazur)
+
+---
+class:exo
+
+##Exo 7
+&#9658; <u>Revue des données</u>
+
+- A quoi correspond ISA ?
+
+---
+class:exo
+
+##Exo 8
+&#9658; <u>Contenu</u>
+
+1. Quelle est la moyenne de l'ISA pour la région PACA ?
+
+2. Quelle commune a le plus fort ISA ?</div>
+
+---
+class:exo
+
+<div class=file>`r icon::fa("exclamation", size = 1)` Ajouter les informations du fichier d'exposition à la pollution de 2013 au tableau actuel de 2017</div>
+
+##Exo 9
+&#9658; <u>Contenu</u>
+
+1. Des arrondissements de Marseille ont-ils connu une évolution négative de l'indicateur ISA ?
+
+2. Pour Marseille, quels sont les deux arrondissements qui ont connu la plus forte dégradation de leur qualité de l'air ?

@@ -1,0 +1,379 @@
+---
+title: "OpenData"
+subtitle: "La Data, c'est quoi ?"
+author: "CEREMA Med > Mathieu Rajerison"
+date: "<span style='font-size:0.5em;'>02/08/2018</span>"
+output:
+  xaringan::moon_reader:
+    css: ["../css/my_css.css", "../css/my_css_session1.css", "default", "default-fonts"]
+    seal: true
+    lib_dir: libs
+    self_contained: true
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: center, middle, inverse
+
+# La Data
+
+---
+## Au quoditien
+Notre quotidien est baigné par les données.
+
+--
+
+- Dans la sphère intime, notre consommation énergétique est transmise à notre fournisseur d'électricité, nos revenus sont déclarés sur des feuilles d'imposition. Nous donnons des informations personnelles via les mails que nous échangeons, recevons. Des données transitent au sujet des achats que nous réalisons sur Internet et sur le montant et la nature de nos transactions bancaires.
+
+--
+
+- Dans la spère professionnelle, nous échangeons des courriels, exploitons des documents, des tableaux, remplissons des formulaires sur applications web métier.
+
+---
+class: center, middle
+
+#De quelle langue vient data ?
+
+---
+<style>
+img {
+margin-top : 30px;
+
+}
+.pull-left{
+width: 35%
+}
+
+.pull-right{
+width: 65%
+}
+</style>
+
+## Étymologie, racines
+<!--[Image de César]-->
+.pull-left[
+<center><img src=https://idalab.de/wp-content/uploads/1_Euclid_Data_BnF.jpeg width=80%></img></center>
+]
+
+.pull-right[
+> L'un des premiers usages scientifiques connus du terme « data » (issu du verbe latin « dare » : donner) remonte au IIIe siècle avant J.-C. dans un traité de mathématiques d'Euclide où il était démontré des propriétés géométriques « étant donné » d'autres propriétés géométriques - autrement dit des axiomes. Son sens a ensuite évolué en deux branches. D'une part, il a donné le mot « date », que l'on retrouve dans des documents médiévaux officiels pour signifier le « moment » où ceux-ci ont été produits ; d'autre part, à compter du XVIIe siècle, le sens de « données » en référence à des « principes acceptés de tous », par l'intermédiaire du divin en théologie, puis par l'expérimentation en mathématiques.
+<div class=reference><a href=https://business-analytics-info.fr/11666/histoire-sciences-data/>Histoire des sciences de la Data</a></div>
+
+On retrouve dans la définition des data un caractère **"gratuit"** et immédiat, ainsi que d'objectivité et de **factualité**.
+]
+
+<!--ADN arctique, conservation  -->
+
+---
+layout: false
+
+## A quoi ressemble une donnée ?
+
+Une spécialiste de la donnée en donne une description assez originale :
+>Il s'agit d'une masse abstraite de nombres, sans poids et non identifiée (la plupart du temps encodée numériquement), ayant une influence puissante sur nos vies.
+
+Concrètement, ces données nous apparaissent structurées au travers de tableaux, de tables de données.
+
+---
+
+Voici quelques exemples visuels de données :
+
+<center><img src=../images/ods.png width=36%></img></center>
+<center><img src=../images/csv.png width=80%></img></center>
+<center><img src=../images/pg.png width=80%></img></center>
+
+---
+class: center, middle
+
+#Citez trois modes de communication
+
+---
+
+## Naissance de la data 
+
+- En premier lieu était **la transmission orale** des connaissances
+
+<center><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Homo_floresiensis_cave.jpg/640px-Homo_floresiensis_cave.jpg></img></center>
+
+---
+
+- Puis vint l'**écriture**  
+<!--[premier alphabet]
+https://fr.wikipedia.org/wiki/%C3%89criture
+https://www.lemonde.fr/archeologie/article/2017/08/29/les-mesopotamiens-as-de-la-trigonometrie_5177828_1650751.html-->
+
+<center><img src=https://upload.wikimedia.org/wikipedia/commons/d/db/Ritmal-Cuneiform_tablet_-_Kirkor_Minassian_collection_-_Library_of_Congress.jpg></img></center>
+
+---
+
+- L'**imprimerie**, née avec Gutenberg, qui permit de reproduire et, ainsi, de favoriser la diffusion des écrits
+<!-- https://www.google.fr/search?q=arriv%C3%A9e+imprimerie+gutenberg&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjt38rK86XcAhXLDOwKHVPtAxEQ_AUICygC&biw=1680&bih=917 -->
+
+<center><img src=https://1.bp.blogspot.com/-QgcKsMQ5X4A/VBV9xchLXHI/AAAAAAABKhU/iNLka6dK-wI/s1600/Tableau%2Bd%27histoire%2BCE%2B15%2BL%27atelier%2Bde%2BGutenberg.JPG width=70%></img></center>
+
+---
+
+- Le **numérique** a permis, quant à lui, de confier le stockage et l'interprétation des savoirs à des machines. 
+
+<!-- <center><img src=https://upload.wikimedia.org/wikipedia/commons/c/ca/AVIDAC_--_First_Argonne_Computer_%281953%29.jpg width=50%></img></center> -->
+
+<center><img src=https://upload.wikimedia.org/wikipedia/commons/c/ca/AVIDAC_--_First_Argonne_Computer_%281953%29.jpg width=50%></img></center>
+
+---
+
+- **Internet** et la corrélation des savoirs, qu'illustre le web (*toile* en français), sont nées de cette révolution technologique.  
+<!-- https://royal.pingdom.com/2008/04/08/the-history-of-computer-data-storage-in-pictures/ -->
+
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/jurvetson/916142" title="Internet Splat Map"><img src="https://farm1.staticflickr.com/1/916142_ddc2fd0140.jpg" width="500" height="375" alt="Internet Splat Map"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+
+---
+class: center, middle, inverse
+
+# Le Big Data
+
+---
+class: center, middle
+
+# Dans quoi sont stockées les données ?
+# Par quelle voie transitent-elles ?
+# Quel élément de l'ordinateur permet de faire des calculs ?
+
+---
+class: middle
+
+Le courant du Big Data suit celui de l'accroissement :
+
+- des *flux*
+
+--
+
+- des capacités de *stockage* des données
+
+--
+
+- des capacités de *calcul* des ordinateurs
+
+---
+## Flux
+L'accroissement des flux de données concerne par exemple celui des réseaux de téléphonie mobile, de l'internet, qui permettent tout un tas d'applications telles que la télémèdecine, l'information en temps réel pour les agriculteurs, d'autres modalités de travail (télétravail),....
+
+Les données circulent entre des machines soit via les airs, en particulier via les ondes via les satellites et antennes émettrices, soit via des câbles comme la fibre optique.
+
+<center><img src=https://upload.wikimedia.org/wikipedia/commons/e/ea/%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA_%D9%81%DB%8C%D8%A8%D8%B1_%D9%86%D9%88%D8%B1%DB%8C.jpg width=50%></img></center>
+
+---
+
+## Stockage
+L'augmentation du stockage des données est une des plus grandes caractéristiques du big data. Celle-ci permettra de dématérialiser de plus en plus de données, et en corollaire des procédures, telles que les déclarations d'impôt.
+
+Les données sont stockées sur des supports tels que les disques durs, des clés USB à usage souvent personnel. Même logées dans le cloud, les données sont sur ces supports.
+
+<center><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Fc-disk.jpg/640px-Fc-disk.jpg width=50%></img></center>
+
+---
+
+## Calcul
+Les ordinateurs sont dotés de capacités de calcul allant grandissant (loi de Moore).
+
+Les calculs, sur un ordinateur, sont réalisés grâce aux **processeurs**, parfois aussi grâce à la carte graphique, sur la base d'une binarisation de l'information. Ceci, en attendant l'arrivée de l'ordinateur quantique qui considèrera des états intermédiaires (ou plutôt simultanés) entre le 0 et 1.
+
+---
+class: center, middle
+
+# Quelqu'un peut-il me dire comment il calcule 256 + 125 ?
+
+---
+
+Les **algorithmes** sont des séquences ordonnées d'opérations informatiques. Ils automatisent le traitement de masses d'information et parfois en révèlent des motifs. Certains de ces algorithmes appelés réseaux de neurones miment même le fonctionnement du cerveau humain et sont en plein développement (intelligence artificielle).
+
+<center><img src=https://www.arl.army.mil/www/articles/3179/image.1.large.jpg width=30%></img></center>
+
+---
+class: center, middle
+
+#Quelles sont les différentes étapes de la "vie" d'un produit de consommation ?
+
+---
+
+## L'écosystème de la donnée
+
+### La chaîne des données
+La chaîne des données se compose des étpaes suivantes :
+- produire
+
+--
+- mettre en circulation
+
+--
+- ouvrir
+
+--
+- réutiliser
+
+--
+- gouverner
+
+---
+### Les acteurs
+Dans l'écosystème de la donnée, on distingue plusieurs acteurs :
+
+- les **producteurs** de données qui génèrent des données, de façon active ou pas (capteurs)
+
+--
+
+- les **collecteurs** qui rassemblent les données émises sur le web
+
+--
+
+- les **administrateurs** qui classent et documentent la donnée collectée
+
+--
+
+- les **réutilisateurs** qui exploitent, "font parler" les données
+
+--
+
+- les **contributeurs** qui, le plus souvent de leur propre fait, participent à l'alimentation d'une base de données (comme wikipedia)
+
+---
+class: center, middle, inverse
+
+# La Data, liant d'un monde connecté
+
+---
+class: center, middle
+
+#Citez quelques objets connectés
+
+---
+## Les objets connectés
+
+L'internet des objets concerne des objets du quotidien capables de transmettre, d'émettre et de réagir à des informations circulant sur le réseau internet.
+
+Le premier usage est **domotique**, pour la maison avec le pilotage à distance de la climatisation d'un logement, la surveillance...
+
+---
+
+Il peut aussi concerner des **véhicules**, des réfrigérateurs, des objets récréatifs tels que des enceintes...
+
+...voire même des poupées
+
+[![](https://i.guim.co.uk/img/media/783fe7d61f364d4034f04b073cae77a9a4da8e7e/0_27_3300_1980/master/3300.jpg?width=620&quality=85&auto=format&usm=12&fit=max&s=d9b16e14f9d78cc200e3add177a6ab27)](https://www.theguardian.com/world/2017/feb/17/german-parents-told-to-destroy-my-friend-cayla-doll-spy-on-children)
+
+<div class=reference><a href=https://www.theguardian.com/world/2017/feb/17/german-parents-told-to-destroy-my-friend-cayla-doll-spy-on-children>Article de The Guardian : "German parents told to destroy doll that can spy on children"</a></div>
+
+<!-- [amazon dash](https://www.amazon.fr/Dash-Button-Amazon/b?ie=UTF8&node=10909388031) -->
+
+---
+
+## La Smart City ou ville intelligente
+
+La Smart City, ou ville intelligente, est une ville dans laquelle de multiples **capteurs**, voire des **données issues des téléphones des citoyens**, remontent à un siège central des informations sur la ville : congestion routière, pollution de l'air, consommation énergétique, ...
+
+On lui appose le préfixe smart car elle est censée s'adosser, pour diriger ses opérations, sur la **synthèse de données** factuelles variées, présentes en très grand nombre.
+
+L'objet de la Smart City est de créer une cité harmonieuse quasiment autogérée par les algorithmes et les données captées et émises par le réseau.
+
+---
+
+<center><img src=https://www.fournisseurs-electricite.com/sites/fournisseurs-electricite.com/files/images/compteur-elec-linky.png></img></center>
+
+Le compteur Linky peut être considéré comme une brique possible de la smart city puisque ce dernier est un élément des *smart grids*, réseaux d'électricité capables de réguler localement le débit d'électricité en fonction de l'état des différents noeuds du réseau.
+
+---
+
+Pour certains, Smart City rime aussi avec *Big Brother*, notamment vidéosurveillance et sécurité publique. Les images peuvent être interprétées par des ordinateurs afin d'identifier des attroupements mais aussi des individus. 
+
+`r icon::fa("readme", size = 1)` [Article de la Quadrature du Net : "La Smart City policière se répand comme une traînée de poudre"](https://www.laquadrature.net/fr/nice-smart-city-surveillance)
+
+`r icon::fa("readme", size = 1)` [Reconnaissance faciale en Chine, réalisée par une startup de Shanghai :](https://www.technologyreview.com/s/611815/who-needs-democracy-when-you-have-data/)
+<center><img src=https://cdn.technologyreview.com/i/images/so18-china-3.jpg?sw=1080&cx=0&cy=0&cw=2109&ch=1406 width=70%></img></center>
+
+---
+class: center, middle, inverse
+
+# Les données et le citoyen
+
+---
+class: center, middle
+
+#A votre avis, quelles données transmettez-vous, parfois à votre insu ?
+
+---
+
+## L'individu base de données
+Un citoyen connecté à internet alimente, parfois sans le savoir, les bases de données de sociétés ayant monopole sur le réseau. Les données qu'il émet peuvent concerner :
+
+--
+
+- Tout d'abord, ses **envies**, ses désirs, ses besoins et ses interrogations, par le biais d'un moteur de recherche tel que Google.
+
+--
+
+- Les **informations personnelles** partagées sur un réseau social comme Facebook ou bien Gmail.
+
+--
+
+- Sa **localisation**, s'il a activé le GPS de son smartphone
+
+--
+
+- Ses **goûts**, notamment musicaux, s'il se connecte à Spotify ou a commandé des disques sur Amazon.
+
+---
+
+Le citoyen est tellement connecté et parfois si mal informé que des données personnelles échappent à sa vigilance et sont transmises à des tiers. Les conséquences en cascade de ces fuites peuvent largement s'étendre hors de sa sphère intime.
+
+En l'occurrence, peu de personnes lisent les Conditions Générales d'Utilisation d'applications Internet avant de les approuver.
+
+![](https://017qndpynh-flywheel.netdna-ssl.com/wp-content/uploads/2018/04/military-base-mali.png)
+
+[La société Bellingcat a réussi à déterminer les zones d'entraînement de militaires](https://www.bellingcat.com/resources/articles/2018/07/08/strava-polar-revealing-homes-soldiers-spies/)
+
+---
+
+## Impact des données
+### Pour ceux qui s'intéressent aux citoyens
+L'essor d'internet et de ses grands groupes est intimement lié à l'accès aux données personnelles des individus, d'où le fait de qualifier les données comme de l'*or noir du XXIe siècle*.
+
+Les GAFA et BATX en tirent bénéfice en **personnalisant** les pubs que nous recevons et en recueillant des informations au sujet de nos envies et préférences.
+
+**Les données individuelles sont précieuses pour les villes intelligentes**. En effet, la cohérence des décisions prises par l'ordinateur central dépendra de la qualité, de la fraîcheur et de la fréquence des données recueillies auprès des individus eux-mêmes ou de l'environnement plus ou moins proche de ces derniers : immeuble, bloc, quartier, ville,...
+
+---
+class: center, middle
+
+#A votre avis, quel avantage peut avoir un gouvernement ou une société à ouvrir ses données ?
+
+---
+
+### Pour les citoyens qui s'intéressent à la société ou à leur environnement
+Enfin, la livraison de données est un des éléments de la démocratie où les citoyens ont le **droit d'avoir accès** à certaines décisions publiques, aux budgets.
+
+De plus en plus, l'ouverture des données confère aux pays, voire, aux collectivités qui la mettent en oeuvre, un caractère d'**exemplarité**.
+
+Nous le verrons plus tard : les données, lorsqu'elles sont ouvertes, permettent même de voir fleurir des entreprises qui bâtissent des services basés sur leur exploitation. **L'ouverture des données dynamise l'économie**.
+
+---
+
+## Protection des données
+### CNIL
+La Commission Nationale de l'informatique et des libertés est une autorité administrative française chargée de veiller à ce que l'informatique soit au service du citoyen et **qu'elle ne porte atteinte ni à l'identité humaine, ni aux droits de l'Homme, ni à la vie privée, ni aux libertés individuelles ou publiques**.
+
+### RGPD
+Face au commerce lucratif des **données personnelles** réalisé parfois à l'insu des utilisateurs et la sensibilité de certaines données à caractère personnel, l'Union Européenne s'est dotée cette année du Règlement Général sur la Protection des données (RGPD)
+
+---
+
+## La culture des données ou Data Literacy
+
+Ce n'est pas parce qu'une donnée est en libre accès qu'elle est accessible.
+
+L'accès et l'exploitation des données est **souvent l'affaire de spécialistes de la donnée** alors que le contenu de celles-ci est censé intéresser tout le monde.
+
+Afin de se départir d'une vision élitiste de la donnée, la Data Literacy (Littératie des données, ou plus simplement la culture de la donnée), a pour but d'amener à s'intéresser aux données des personnes non-spécialistes.
+
+Cela passe par la **formation**, la **sensibilisation** des individus.
+
+`r icon::fa("mouse-pointer", size = 1)` [Testez votre culture des données avec dataposition](https://dataposition.accatone.net/)

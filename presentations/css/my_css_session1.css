@@ -1,0 +1,18 @@
+.title-slide {
+  background-image: url(../images/visuel_sombre_avec_logos.jpeg);
+  background-size: cover;
+}
+
+.title-slide h1, .title-slide h3 {
+  color: #F7F8FA;
+  font-size: 2em;
+}
+.title-slide h2 {
+  color: white; 
+  line-height: 1.5em;
+  font-size: 3.5em;
+}
+
+.inverse {
+  background-color:#00264d;
+}

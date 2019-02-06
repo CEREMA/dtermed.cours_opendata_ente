@@ -1,0 +1,172 @@
+---
+title: "OpenData > Exo"
+subtitle: "Visualiser"
+author: "CEREMA Med > Mathieu Rajerison"
+date: "<span style='font-size:0.5em;'>02/08/2018</span>"
+output:
+  xaringan::moon_reader:
+    css: ["../css/my_css.css", "../css/my_css_session2.css", "default", "default-fonts"]
+    seal: true
+    lib_dir: libs
+    self_contained: true
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: center, middle
+
+#Prendre le tableau des populations à Aix en Provence, Marseille et Nice : quelles formes graphiques pourriez-vous utiliser pour la représenter visuellement ?
+
+---
+class: center, middle
+
+#Dessiner à la main un graphique de la population sur ces trois villes sous la forme de :
+
+Barres
+
+Camemberts
+
+---
+class: center, middle
+
+#Quel avantage voyez-vous pour les graphiques par rapport au tableau ?
+
+---
+class: center, middle
+
+#Que préférez-vous : les barres ou camemberts ? Pourquoi ?
+
+---
+class: center, middle
+
+# Créer un tableau contenant l'évolution de la population d'Aix en Provence :
+
+1968 : 89566 habitants
+
+1975 : 110659
+
+1990 : 123842
+
+1999 : 134324 
+
+2007 : 143404 
+
+# Repérer le minimum et le maximum, les arrondir au millier
+
+---
+class: center, middle
+
+# Créer un graphique qui rende compte de l'évolution de la population
+
+---
+class: center, middle
+
+# Mettre le contenu de ce tableau dans LibreOffice
+
+---
+class: center, middle, inverse
+
+# `r icon::fa("table", size = 1)` Opérations de base sous Excel ou LibreOffice
+### Rappel de quelques fonctions utiles avant de commencer
+---
+Pour créer des graphiques sous Excel, on sélectionne la plage de données qui nous intéresse (avec les titres), si nécessaire en appuyant sur la touche Ctrl si les colonnes ou lignes sont disjointes, puis on va dans le menu `Insertion > Diagramme`.
+
+![](images/diagramme.png)
+
+Plusieurs sortes de diagrammes nous sont alors proposés : en barres, camemberts, séries temporelles, ...
+
+---
+class: center, middle
+
+# Créer un diagramme en barre de la population sous LibreOffice
+
+---
+class: center, middle
+
+# Créer un diagramme en camembert de la population sous LibreOffice
+
+---
+class: center, middle
+
+# Créer un graphique en ligne de l'évolution de la population sous LibreOffice
+
+---
+class: center, middle, inverse
+#Comparer PACA et France métropolitaine
+
+`r icon::fa("chart-pie", size = 4)`
+
+---
+class:exo
+
+<div class=file>`r icon::fa("file", size = 1)` Prendre le fichier : <a href=https://trouver.datasud.fr/dataset/epanouissement-de-tous-les-etres-humains-indicateurs-de-developpement-durable>indicateurs de développement durable sur l'épanouissement des êtres humains</a></div>
+
+##Exo 10
+&#9658; Comparer, sous forme de camembert, la situation de la région par rapport au territoire national pour ce qui est de :
+
+- la part des déplacements domicile-travail effectués en voiture (%)
+
+--
+
+![](images/deplacements.png)
+
+---
+class:exo 
+
+##Exo 11
+&#9658; Comparer à présent sous la forme de graphiques en barres :
+
+  - la part des actifs ayant un emploi travaillant dans leur commune de résidence (%)
+  
+  - la part des déplacements domicile-travail en transport en commun (%)
+  
+  - la part des déplacements domicile-travail effectués en voiture (%)
+  
+  - l'évolution du trafic international entrant des marchandises (base 100 en 2000)
+  
+  - la part des immatriculations de voitures neuves peu polluantes (%)
+  
+  - la part des véhicules diesel dans les immatriculations neuves (%)
+  
+  - la part de la population exposée au bruit du trafic routier (%)</div>
+
+---
+
+![](../images/barres.png)
+
+---
+class: center, middle, inverse
+#Évolution temporelle
+
+`r icon::fa("chart-area", size = 4)`
+
+---
+class:exo
+
+##Exo 12
+&#9658; Réaliser des graphiques en lignes qui montrent l'évolution, de 2000 à 2018, du nombre jours avec une qualité de l'air médiocre pour les agglomérations concernées de PACA
+
+--
+
+![](../images/graphique_qualite_air.png)
+
+---
+class: center, middle, inverse
+
+# Corréler
+
+
+`r icon::fa("chart-line", size = 4)`
+
+---
+class:exo
+
+<div class=file>`r icon::fa("file", size = 1)` Prendre le fichier : <a href=https://trouver.datasud.fr/dataset/indicateurs-communaux-de-qualite-de-lair-en-region-sud-provence-alpes-cote-dazur>Populations exposées au dépassement des valeurs de référence des PM10, NO2 et O3</a></div>
+
+##Exo 13 
+- Existe-t-il un lien entre le nombre d'habitants et l'indicateur ISA ?
+
+--
+
+<center><img src=../images/isa_population.png width=85%></img></center>

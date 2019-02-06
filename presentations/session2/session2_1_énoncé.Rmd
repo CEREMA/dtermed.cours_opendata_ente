@@ -1,0 +1,48 @@
+---
+title: "OpenData > Exo"
+subtitle: "Votre mission, si vous l'acceptez"
+author: "CEREMA Med > Mathieu Rajerison"
+date: "<span style='font-size:0.5em;'>02/08/2018</span>"
+output:
+  xaringan::moon_reader:
+    css: ["../css/my_css.css", "../css/my_css_session2.css", "default", "default-fonts"]
+    seal: true
+    lib_dir: libs
+    self_contained: true
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+# Feuille de route
+L'environnement et notre espace de vie nous intéressent particulièrement.
+
+Afin d'analyser leur état en région PACA, nous allons tenter d'accéder, sur le portail DataSud à différentes données relatives à la **qualité de l'air**, le **bruit** et la **pollution** afin de les analyser.
+
+---
+# Les données
+Voici les différentes données dont nous aurons besoin :
+
+`r icon::fa("file", size = 1)` Les indicateurs de développement durable sur l'**épanouissement** des êtres humains
+
+--
+
+`r icon::fa("file", size = 1)` Les **populations exposées** au dépassement des valeurs de référence des PM10, NO2 et O3 sur la région Sud PACA
+
+---
+# Les étapes
+Voici les différentes étapes de l'exercice :
+
+`r icon::fa("walking", size = 2)`  Dans un premier temps, nous **accèderons** aux données et en **prendrons connaissance**.
+
+--
+
+`r icon::fa("book-reader", size = 2)`  Dans un second temps, nous les **explorerons** afin de répondre à des questions précises
+
+--
+
+`r icon::fa("glasses", size = 2)`  Dans un troisième temps, nous les **visualiserons** à l'aide de graphiques
+
+--
+
+`r icon::fa("map-marked", size = 2)`  Dans un quatrième temps, nous prendrons une donnée spatiale que nous **cartographierons**.

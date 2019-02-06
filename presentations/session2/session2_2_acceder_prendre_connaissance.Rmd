@@ -1,0 +1,144 @@
+---
+title: "OpenData > Exo"
+subtitle: "Accès au terrain et repérages"
+author: "CEREMA Med > Mathieu Rajerison"
+date: "<span style='font-size:0.5em;'>02/08/2018</span>"
+output:
+  xaringan::moon_reader:
+    css: ["../css/my_css.css", "../css/my_css_session2.css", "default", "default-fonts"]
+    seal: true
+    lib_dir: libs
+    self_contained: true
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: center, middle, inverse
+# Accéder au jeu de données
+
+`r icon::fa("walking", size = 3)`
+---
+class: exo
+## Exo 1
+
+&#9658; Partez à la recherche des jeux de données (datasets) sur DataSud
+
+Pour rappel, il s'agit :
+
+- `r icon::fa("file", size = 1)` des indicateurs de développement durable sur l'épanouissement des êtres humains
+
+- `r icon::fa("file", size = 1)` des populations exposées au dépassement des valeurs de référence des PM10, NO2 et O3 sur la région Sud PACA
+
+---
+### Réponse :
+`r icon::fa("file", size = 1)` [Dataset épanouissement](https://trouver.datasud.fr/dataset/epanouissement-de-tous-les-etres-humains-indicateurs-de-developpement-durable)
+
+`r icon::fa("file", size = 1)` [Populations exposées](https://trouver.datasud.fr/dataset/populations-et-territoires-exposes-au-depassement-des-valeurs-limites-sur-la-region-sud)
+
+---
+class: center, middle, inverse
+# Interpréter les méta-données
+### Tâter, lire le terrain
+
+`r icon::fa("book-reader", size = 3)`
+
+---
+
+Les premières questions à se poser, quand on rencontre un jeu de données, sont les suivantes :
+
+- **Qui** a produit la donnée ?
+
+--
+
+- **Quand** a-t-elle été produite et est-elle suffisamment récente pour l'usage que je veux en faire ?
+
+--
+
+- Quelle est son **emprise géographique** (si elle existe) et quel est son niveau de **granularité** (commune, département, région, interco ?)
+
+--
+
+- S'il est possible de le savoir, quel a été **le mode de production** de la donnée ?
+
+--
+
+- Après ouverture, paraît-elle d'assez bonne **qualité** ?
+
+--
+
+- Le fichier de **méta-données** décrit-il suffisamment bien l'ensemble des variables présentes ?
+
+`r icon::fa("readme", size = 1)` [Lire l'article d'infolabs sur l'interview de la donnée](https://infolabs.io/interview-de-la-donnee)
+
+---
+class: exo
+
+## Exo 2
+
+&#9658; `r icon::fa("file", size = 1)` Pour le jeu de données sur l'exposition des populations aux polluants, répondre à ces questions :
+
+1. **Comment** la donnée a-t-elle été obtenue ?
+
+--
+
+2. La donnée prend-elle en compte l'exposition sur le lieu de travail ?
+
+--
+
+3. Qui est l'**auteur** de la donnée ? Semble-t-il être de confiance ? Si j'ai une question à poser sur cette donnée, qui contacter ?
+
+--
+
+4. De **quand** datent les données ? Quelle est leur fréquence de mise à jour ?
+
+--
+
+5. A quel **format** se trouvent ces données ?
+
+--
+
+6. Quelle est la **licence** d'utilisation ?
+
+--
+
+7. Que signifie la colonne PM10_VL_po ? </div>
+
+---
+class: middle, center
+
+#Quelles questions posez-vous à quelqu'un que vous venez de rencontrer ?
+
+---
+class: exo
+
+## Exo 3
+
+&#9658; `r icon::fa("file", size = 1)` Pour le jeu de données sur les indicateur d'épanouissement, répondre à ces questions :
+
+- volet **Bruit**
+  1. Les niveaux de bruit sont-ils relevés par mesure locale ou calculés grâce à des modèles numériques ?
+  
+--
+  
+- volet **Qualité de l'air**
+  2. L'indicateur de qualité de l'air concerne des agglomérations de combien d'habitants ? Permet-il de mettre en valeur la pollution à proximité d'une industrie ?
+  
+--
+  
+  3. Combien de polluants sont concernés ?
+  
+--
+  
+  4. Peut-on avoir un détail par polluant ?
+
+---
+class: center, middle, inverse
+# Pré-visualiser la donnée
+### Sonder le terrain  
+
+`r icon::fa("glasses", size = 3)`
+
+---
+## Outils
+Utiliser l'outil [WTFCSV](https://databasic.io/en/wtfcsv/) ou [CSVLint](https://csvlint.io/) afin d'avoir un aperçu des données.

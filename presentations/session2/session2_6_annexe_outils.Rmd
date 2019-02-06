@@ -1,0 +1,207 @@
+---
+title: "OpenData > Exo"
+subtitle: "Outils pour explorer et visualiser la Data"
+author: "CEREMA Med > Mathieu Rajerison"
+date: "<span style='font-size:0.5em;'>02/08/2018</span>"
+output:
+  xaringan::moon_reader:
+    css: ["../css/my_css.css", "../css/my_css_session2.css", "default", "default-fonts"]
+    seal: true
+    lib_dir: libs
+    self_contained: true
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+class: middle, center, inverse
+
+# Ce qui fait d'un outil un bon outil
+
+`r icon::fa("thumbs-up", size = 4)`
+
+---
+
+## Un bon outil de traitement est capable de...
+
+- **ouvrir** à plein de formats de données, soit que l'on ne soit pas bloqués dès le départ.
+
+--
+
+- **changer** de façon souple la **forme** des données
+
+--
+
+- appliquer des **algorithmes** avancés sur ces données
+
+--
+
+- **exporter** les résultats sous plein de formats différents
+
+---
+
+## Un bon outil de visualisation est capable de...
+
+- **personnaliser** de manière fine les graphiques : couleur, polices, position des légendes
+
+--
+
+- proposer des **représentations originales** qui ne limitent pas la créativité de l'utilisateur.
+
+--
+
+
+Certains outils sont à la fois de bons outils de traitement et de visualisation.  
+En général, les outils de programmation combinent ces deux aspects, mais pour les maîtriser, il faut se lancer dans la ligne de code.
+
+---
+class: middle, center, inverse
+# Tableurs
+
+`r icon::fa("table", size = 4)`
+
+---
+## LibreOffice Calc
+![](https://img.linuxfr.org/img/68747470733a2f2f77696b692e646f63756d656e74666f756e646174696f6e2e6f72672f696d616765732f372f37372f4c696272654f66666963655f65787465726e616c5f6c6f676f5f33303070782e706e67/LibreOffice_external_logo_300px.png)
+
+Tout le monde connaît Excel, mais au Ministère et dans la fonction publique, c'est son pendant OpenSource LibreOffice qui est utilisé.
+
+En particulier, LibreOffice Calc permet de créer des tableaux statistiques et des graphiques.
+
+LibreOffice découle de la suite OpenOffice.
+
+## WTFCSV, CSVLint
+Pour rappel, les outils en ligne [WTFCSV](https://databasic.io/en/wtfcsv/) et [CSVLint](https://csvlint.io/) ne sont pas des tableurs mais ils permettent d'avoir un aperçu de fichiers CSV et d'effectuer quelques contrôles qualité avant leur ouverture dans un tableur.
+
+---
+class: middle, center, inverse
+# Graphiques
+
+`r icon::fa("chart-area", size = 4)`
+
+---
+## Tableau Public
+<img src=https://public.tableau.com/s/sites/all/themes/revizit/images/public-logo-transparent-666.png width=40%></img>
+
+[Tableau Public](https://public.tableau.com/en-us/s/) est la variante gratuite de l'outil Tableau Desktop.
+
+Ce dernier permet d'intégrer des fichiers de données et de réaliser sur cette base de nombreux types de graphiques de qualité, ainsi que des cartographies.
+
+---
+
+## Morph
+[Morph](https://morph.graphics/) est outil de dataviz en ligne qui tente de conjuguer Art et Data. Il permet de travailler sur la représentation de ses jeux de données propres ou des jeux de tests afin de créer des datavisualisations de formes variées.
+
+## Plot.ly
+![](https://plot.ly/static/img/logos/editmode-rebrand-logo.png)
+
+[Plot.ly](https://plot.ly/create/#/) est un outil en ligne qui, après la création d'un compte, permet de créer des graphiques à partir de fichiers importés dans l'interface
+
+---
+class: middle, center, inverse
+
+# Cartographie
+
+`r icon::fa("map-marker", size = 4)`
+
+---
+## QGIS
+
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/QGIS_logo%2C_2017.svg/320px-QGIS_logo%2C_2017.svg.png width=30%></img>
+
+[QGIS](https://www.qgis.org/fr/site/), logiciel opensource, est très réputé Dans le domaine de cartographie, autant topographique que statistique.
+
+On trouve sur internet beaucoup de tutoriaux. Il rassemble une communauté d'utilisateurs très large sur laquelle s'appuyer.
+
+---
+## Outils institutionnels 
+Des institutions ont développé des outils en ligne afin de produire des cartes statistiques
+
+- [Khartis](https://www.sciencespo.fr/cartographie/khartis/) créé par Sciences Po
+- [Magrit](http://magrit.cnrs.fr/) créé par le CNRS
+
+
+---
+## kepler
+
+![](images/kepler_logo.png)
+
+[kepler.gl](http://kepler.gl/#/) est un outil en ligne opensource créé par la division DataViz de la société Uber et la staryup MapBox. Il permet de créer des cartographies statistiques assez sophistiquées et modernes dans l'esthétisme, notamment des rendus en 3D.
+
+--
+## Carto(DB)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/CARTO-logo.svg/220px-CARTO-logo.svg.png)
+
+[Carto(DB)](https://carto.com/) est un outil SIG en ligne qui permet de créer des cartes et de les partager.
+
+---
+class: middle, center, inverse
+
+# ETL
+
+`r icon::fa("industry", size = 4)`
+
+---
+Il existe une catégorie d'outils appelés ETL qui permettent de réaliser de façon visuelle et ludique des chaînes de traitement, de transformation, et de chargement de la donnée.
+
+Parmi ces outils, on peut citer, en opensource, Talend ou Pentaho
+
+![](https://www.talend.com/wp-content/uploads/2016/07/talend-logo.png)
+
+
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk-5myydAy-r7rTDCtVhrHV7e1YKFq7j9vMZ20Veh3Vcvn00cxFQ width=30%></img>
+
+---
+class: middle, center, inverse
+
+# Programmation
+
+`r icon::fa("code", size = 4)`
+
+---
+## R 
+<img src=https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/69/thumb_bigger_formation-langage-r.png width=20%></img>
+
+[R](https://www.r-project.org/) est outil libre de programmation en statistiques qui permet de traiter et d'exploiter de la donnée dans beaucoup de contextes et de disciplines. Il est très utilisé dans le monde académique.
+
+En particulier, les librairies issues de la suite `tidyverse` permettent d'extraire et de transformer de la donnée, et la librairie `ggplot` (pour grammar of graphics) permet de réaliser de beaux graphiques.
+
+---
+
+## Python
+<img src=https://i1.wp.com/blog.bores.fr/wp-content/uploads/2012/04/python-logo-master-v3-TM.png?fit=601%2C203&ssl=1 width=50%></img>
+
+[Python](https://www.python.org/) est sans doute le langage de programmation le plus [populaire](https://www.lemonde.fr/pixels/article/2018/07/25/je-n-imaginais-pas-que-python-connaitrait-un-tel-succes_5335917_4408996.html.
+
+Il permet de traiter de la donnée à la façon de R grâce à pandas, de réaliser des calculs avec numpy et des graphiques avec matplotlib.
+
+C'est sous python que sont développés les librairies principales de deep learning comme tensorflow (développé et maintenu par Google) ou keras
+
+---
+class: center, middle, inverse
+
+# Ressources sur la data
+
+`r icon::fa("box-open", size = 4)`
+
+---
+## Datavisualisation
+
+### Data-to-Viz
+[data-to-viz](https://www.data-to-viz.com/) permet de savoir quelle représentation choisir en fonction du type de données que l'on a.
+
+--
+
+### The visualization Universe
+[The visualization Universe](http://visualizationuniverse.com/), par Google, permet de s'y retrouver dans la jungle infographique
+
+---
+## Blogs sur la data
+### FlowingData
+[FlowingData](http://flowingdata.com/) est un blog très intéressant qui parle de la data, surtout sous l'angle infographique. Idéal pour être courant de l'actualité et trouver de l'i
+inspiration quand on a fait le tour des camemberts et graphiques en barres.
+
+--
+### Matamix
+Sur le [blog](https://mtmx.github.io/) de [matamix](https://twitter.com/matamix), on trouve pas mal d'analyses de données, de cartes, et de graphiques inspirés du quotidien.

@@ -1,0 +1,66 @@
+.title-slide h1, .title-slide h3 {
+  color: #F7F8FA;
+  font-size: 2em;
+}
+.title-slide h2 {
+  color: white; 
+  line-height: 1.5em;
+  font-size: 3.5em;
+}
+
+.date {
+color:red;
+background-color:Beige;
+padding:2px;
+}
+
+.etat {
+color:blue;
+font-size:0.5em;
+}
+
+.citoyens {
+color:darkcyan;
+font-size:0.5em;  
+}
+
+.reference {
+text-align: right;
+font-size: 0.7em;
+}
+
+.exo h2 {
+  color: #862900;
+  border-bottom: 3px solid #862900;
+}
+
+.file {
+  background-color:Beige;
+  /*padding-top:10px;
+  padding-bottom:10px;
+  padding-right:10px;
+  padding-left:10px;*/
+  padding:20px;
+}
+
+li{
+  margin: 10px 0;
+}
+
+blockquote {
+  font-size: 0.8em;
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}

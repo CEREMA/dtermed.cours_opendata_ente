@@ -1,0 +1,188 @@
+---
+title: "OpenData"
+subtitle: "Acteurs"
+author: "CEREMA Med > Mathieu Rajerison"
+date: "<span style='font-size:0.5em;'>02/08/2018</span>"
+output:
+  xaringan::moon_reader:
+    css: ["../css/my_css.css", "../css/my_css_session1.css", "default", "default-fonts"]
+    seal: true
+    lib_dir: libs
+    self_contained: true
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: center, middle, inverse
+
+# Structures de l'État
+
+`r icon::fa("flag", size = 4)` 
+
+---
+L'État investit beaucoup le champ de l'open, notamment du logiciel libre (Open Source) et de la donnée ouverte (open Data), afin de souscrire à certains engagements et obligations règlementaires (pour rappel, la loi Lemaire pour une République Numérique et la participation à l'OGP).
+
+---
+
+## La CNIL
+La [Commission nationale de l'informatique et des libertés (CNIL)](https://fr.wikipedia.org/wiki/Commission_nationale_de_l%27informatique_et_des_libert%C3%A9s_(France)), que nous avons citée précédemmebnt, est une autorité administrative indépendante française. 
+
+Elle est chargée de veiller à ce que l'informatique soit **au service du citoyen** et qu'elle ne porte atteinte ni à l'**identité humaine**, ni aux **droits de l'Homme**, ni à la **vie privée**, ni aux **libertés individuelles ou publiques**. Elle exerce ses missions conformément à la loi no 78-17 du 6 janvier 1978 modifiée le 6 août 2004.
+
+La loi du 6 Janvier 1978 est celle relative à la Loi Informatique et Libertés.
+
+-  Le citoyen peut la solliciter s'il pense que ses données personnelles sont exposées. 
+
+- Un producteur de données doit requérir son autorisation avant de diffuser un jeu de données sensible à un tiers ou au grand public
+
+---
+
+## La CADA  
+La [CADA](https://www.cada.fr/) est la Commission d'Accès aux Documents Administratifs. Elle a été créée la même année que la CNIL.
+
+C'est une autorité administrative indépendante qui a pour objectif de **faciliter et contrôler l'accès des particuliers aux documents administratifs**.
+
+La CADA émet des conseils quand elle est saisie par une administration, mais son activité principale est de fournir des avis aux particuliers qui se heurtent au refus d'une administration de communiquer un ou plusieurs documents qu'elle détient. 
+
+Depuis 2005, elle dispose aussi de nouvelles compétences en matière de réutilisation des données publiques.
+
+---
+
+## Etalab  
+[Etalab](https://fr.wikipedia.org/wiki/Etalab) est une mission créée en 2011 chargée de la politique d'ouverture et de partage des données publiques du gouvernement français, pour tendre vers un gouvernement ouvert.
+
+Etalab développe et maintient le portail des données ouvertes du gouvernement français [data.gouv.fr](https://www.data.gouv.fr/fr/).
+
+Ses missions consistent en :
+
+--
+
+- produire et présenter un **catalogue** de « l'ensemble des données publiques librement accessibles et gratuitement réutilisables, quelle qu'en soit la source »
+
+--
+
+- **accompagner** la « communauté des réutilisateurs » 
+
+--
+- faciliter la **commercialisation** de l'information publique
+
+---
+
+## Superviseure Générale des Données du Ministère de l'Écologie (SGD)
+La Superviseure Générale des Données, en la personne de Laurence Monnoyer-Smith, commissaire générale au développement durable, a pour mission de :
+
+- favoriser la montée en **qualité** des données
+
+--
+
+- poursuivre l'**ouverture** des données publiques du ministère
+
+--
+
+- **accompagner** la réutilisation des données
+
+--
+
+- **animer** un réseau de correspondants
+
+---
+class: center, middle, inverse
+
+# Associations et citoyenneté
+
+`r icon::fa("people-carry", size = 4)` 
+
+---
+
+## OpenDataFrance
+
+[OpenDataFrance](http://www.opendatafrance.net/) se définit elle-même comme l' association des collectivités engagées dans le mouvement Opendata.
+
+Créée en 2013, cette association a pour objectifs de regrouper et de soutenir les collectivités territoriales françaises dans leur démarche d'ouverture de leurs données.
+
+- Elle *accompagne* les petites et moyennes communes dans leur démarche d'ouverture des données avec le projet [OpenDataLocale](http://www.opendatafrance.net/dispositifs-daccompagnement-opendata/)
+
+--
+
+- Elle participe à l'élaboration d'un outil qui teste la **qualité** des données avec [validata](http://www.opendatafrance.net/outil-de-qualification-des-donnees-ouvertes-validata/)
+
+--
+
+- Elle surveille quels **nouveaux territoires** ouvrent leurs données avec son [observatoire](http://www.opendatafrance.net/observatoire-open-data-des-territoires/)
+
+---
+
+## Regards citoyens
+[Regards citoyens](https://www.regardscitoyens.org/#&panel1-1) est une association française fondée en 2009 qui vise à promouvoir l'ouverture des données publiques et valoriser les institutions démocratiques françaises en créant des applications web qui se basent sur la réutilisation de données publiques et sont republiées sous la forme de logiciels libres.
+
+L'association est à l'origine de plusieurs projets, en particulier [NosDéputés.fr](https://www.nosdeputes.fr/) et [NosSénateurs.fr](https://www.nossenateurs.fr/) qui cherchent à mettre en valeur l'activité parlementaire des politiques.
+
+---
+
+## Open Food Facts
+
+[Open Food Facts](https://fr.openfoodfacts.org/) est un projet collaboratif en ligne dont le but est de constituer une base de données libre et ouverte sur les produits alimentaires du monde entier. Elle comprend en mai 2017, 5 ans après sa création, 326 000 produits (83 000 en mai 20162) référencés dans 141 pays. En mars 2018, elle comprenait 476 0003.
+
+---
+class: center, middle, inverse
+
+# Data-Journalisme
+
+`r icon::fa("pen-square", size = 4)` 
+
+---
+Le [journalisme de données](https://fr.wikipedia.org/wiki/Journalisme_de_donn%C3%A9es) (data journalism en anglais), ou journalisme de bases de données (database journalism), est un mouvement visant à renouveler le journalisme par l'exploitation de données statistiques et la mise à la disposition de celles-ci au public.
+
+--
+
+[Les décodeurs](https://www.lemonde.fr/les-decodeurs/), du journal Le Monde, est un bon exemple de data-journalisme où les rédacteurs analysent l'actualité par le prisme des données.
+
+--
+
+Cet [article du Los Angeles Times](https://source.opennews.org/articles/how-we-found-new-patterns-la-homeless-arrest/) est une enquête basée sur les données d'arrestation de los Angeles 
+
+--
+
+Certains journaux en ligne essaient de se [démarquer](https://www.informationisbeautifulawards.com/news/118-the-nyt-s-best-data-visualizations-of-the-yea) par l'esthétique de leurs infographies (aussi appelées data-visualisations).
+
+- [Le New York Times](https://www.nytimes.com/interactive/2017/12/21/us/2017-year-in-graphics.html)
+- [The Guardian au Royaume-Uni](https://www.theguardian.com/tone/graphics)
+
+---
+class: center, middle, inverse
+# "Monsieur-tout-le-monde"
+
+`r icon::fa("male", size = 4)` 
+---
+Des citoyens se saisissent des données mises à disposition afin de créer des analyses ou des visualisations originales.
+
+Ainsi, l'utilisateur Mathieu Garnier s'intéresse-t-il dans ses articles :
+
+- à la bistrologie
+- aux [trous perdus](http://www.slate.fr/story/122625/cartes-trous-perdus-france) de France
+- à la [platitude](https://mtmx.github.io/blog/carto_alti/)
+
+<div class=centered>
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">La plus grosse rue de la soif de France est donc la rue Saint Mich&#39;. Enfin un titre pour Rennes <a href="https://t.co/IbrCckBNA2">https://t.co/IbrCckBNA2</a> / thx <a href="https://twitter.com/datagistips?ref_src=twsrc%5Etfw">@datagistips</a> <a href="https://t.co/6UGjta6uJk">pic.twitter.com/6UGjta6uJk</a></p>&mdash; Mat (@matamix) <a href="https://twitter.com/matamix/status/859444180287991808?ref_src=twsrc%5Etfw">2 mai 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+---
+class: center, middle, inverse
+# Les entreprises
+
+`r icon::fa("building", size = 4)` 
+
+---
+Enfin, des sociétés puisent dans l'OpenData afin de proposer une gamme de services visant :
+
+- à **améliorer la culture Data** (soit, la Data Literacy) d'institutions et assurer leur transition numérique, comme c'est le cas de Datactivist ou Civiteo.
+
+- à exploiter les données ouvertes afin de révéler des motifs et **appuyer la prise de décisions**. Par exemple, LKSpatialist utilise l'opendata pour l'exploration des gisements fonciers et l'aménagement urbain.
+
+--
+
+Si les sociétés sus-citées se construisent essentiellement sur la base de la données ouvertes, beaucoup d'autres l'utilisent en parallèle de données propriétaires sur leurs projets. 
+
+Oslandia et Makina Corpus, sociétés de géomatique, sont particulièrement friandes de logiciels OpenSource et de données OpenData.

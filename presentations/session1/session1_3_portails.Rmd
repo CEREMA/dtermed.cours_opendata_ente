@@ -1,0 +1,327 @@
+---
+title: "OpenData"
+subtitle: "Portails"
+author: "CEREMA Med > Mathieu Rajerison"
+date: "<span style='font-size:0.5em;'>02/08/2018</span>"
+output:
+  xaringan::moon_reader:
+    css: ["../css/my_css.css", "../css/my_css_session1.css", "default", "default-fonts"]
+    seal: true
+    lib_dir: libs
+    self_contained: true
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+## Petit aparté sur les portails
+Les données sont mises à disposition sur des portails OpenData, qui sont des catalogues des données ouvertes par l'institution.
+
+Tous les portails OpenData (ou presque) ont comme un nom avec le terme `data` dedans
+
+--
+- Les portails **ministériels** ont dans leur adresse le suffixe `.gouv.fr`.
+
+--
+
+- Les portails **régionaux** portent souvent le nom de la région dans leur nom. Par exemple, openpaca, http://www.datasud.fr
+
+--
+
+- Les portails dépendant d'**organismes** ou d'**entreprises** portent naturellement le nom de l'organisme. Par exemple, http://data.sncf.com.
+
+--
+
+- Les portails **thématiques** portant le nom de la thématique dedans. Par exemple http://www.data.eaufrance.fr/
+
+---
+class: center, middle
+
+# Allez sur le site data.gouv.fr et donnez vos impressions :
+
+- Que trouve-t-on dessus, en plus de données ?
+- Le classement est réalisé selon quels critères ?
+- Quels sont les domaines concernés ?
+- Quelles communes sont concernées ?
+
+---
+class: center, middle
+
+# Partez à la découverte du portail OpenData de votre région de naissance et notez quelques différences par rapport à datagouv
+
+---
+class: center, middle, inverse
+
+# Portails territorialisés
+
+---
+
+## Portails nationaux
+[data.gouv.fr](https://www.data.gouv.fr/fr/), plus communément appelé datagouv, est le portail national des données ouvertes, alimenté par la mission Etalab placée sous l'autorité du Premier Ministre.
+
+Des régions, des métropoles, et d'autres collectivités ont fait de data.gouv.fr leur portail de référence où déposer leur opendata. 
+
+Voici des exemples de jeux de données (datasets) mis en ligne par la région et la métropole :
+
+<center><a href=https://www.data.gouv.fr/fr/organizations/region-provence-alpes-cote-d-azur/><img src=../images/datagouv.png></img></a></center>
+<!-- <div data-udata-dataset="5b4333f8c751df212a8d511d"></div> -->
+<!-- <script src="https://www.data.gouv.fr/static/oembed.js" async defer></script> -->
+<!-- <br> -->
+<!-- <div data-udata-dataset="53699cf6a3a729239d205aee"></div> -->
+<!-- <script src="https://www.data.gouv.fr/static/oembed.js" async defer></script> -->
+
+---
+
+### geo.data.gouv.fr
+[geo.data.gouv.fr](https://geo.data.gouv.fr/) est le pendant géographique de data.gouv.fr.
+
+Il ne permet d'accéder qu'à des données ouvertes spatialisées, à savoir référencées dans l'espace.
+
+---
+
+## Portails régionaux
+[DataSud](https://www.datasud.fr/) est le portail OpenData de la région, co-construit par la Région PACA et le CRIGE PACA (Comité Régional de l'Information Géographique)
+
+d [Lire l'interview de Mathieu Kazmierski du CRIGE et de Thomas Bekkers de la Région Sud](https://www.cerema.fr/system/files/documents/newsletter/2018/Cerema_Signature66_Def2_1.pdf)
+
+---
+## Portails des collectivités
+
+### Observatoire de l'OpenData par OpenDataFrance
+<!-- <iframe width="100%" height="300px" frameBorder="0" src="https://umap.openstreetmap.fr/fr/map/carte-odt-prefiguration_206077?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=databrowser&captionBar=false"></iframe><p><a href="https://umap.openstreetmap.fr/fr/map/carte-odt-prefiguration_206077">Voir en plein écran</a></p> -->
+
+<iframe width="100%" height="300px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/fr/map/observatoire-open-data-des-territoires_239529?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=databrowser&captionBar=false"></iframe><p><a href="https://umap.openstreetmap.fr/fr/map/observatoire-open-data-des-territoires_239529">Voir en plein écran</a></p>
+
+[Découvrir le tableau de bord de l'OpenData](https://lab.observatoire-opendata.fr/superset/dashboard/2/)
+
+---
+
+### Recensement réalisé par dactivist
+
+[![](https://cdn-images-1.medium.com/max/800/1*BaP37ooj9uhcpP1Hm5AA8g.gif)](https://docs.google.com/spreadsheets/d/1-0qBnEfwBrq8Lfj0WCl4G7V3uL9lVHDDCpsH8VXc1_M/edit#gid=0)
+
+`r icon::fa("readme", size = 1)` [Lire l'article "Qui a ouvert quoi ?"](https://medium.com/datactivist/qui-a-ouvert-quoi-le-recensement-des-donn%C3%A9es-des-villes-est-maintenant-ouvert-b7f697135c1f)
+
+---
+
+## Le moissonnage
+Les portails peuvent souvent intégrer le contenu (ou plutôt les liens d'accès) des uns et des autres grâce à une technologie appelée "moissonnage".
+
+Le moissonnage permet ainsi à data.gouv.fr de proposer une liste très exhaustive de l'OpenData mis à disposition sur le territoire français par des institutions d'état, des collectivités, ...
+
+### Google Dataset Search
+Au mois de Septembre 2018, Google a ouvert un moteur de recherche de jeux de données appelé Google Dataset Search.
+
+<center><img src=https://searchengineland.com/figz/wp-content/seloads/2018/09/datasetsearch-800x308.png width=50%></img></center>
+
+`r icon::fa("readme", size = 1)` [Lire les réactions sur le forum teamopendata](https://teamopendata.org/t/google-dataset-search/742/4)
+
+---
+class: center, middle, inverse
+
+# Portails thématiques et institutionnels
+
+---
+class: center, middle
+
+## Données territoriales
+
+---
+
+## GéoIDE-Carto
+.pull-left[
+![geoide_carto](https://www.pedagogie.ac-nice.fr/histgeo/images/stories/histoiregeo/geoide_pt.jpg)
+]
+
+Les DREALs et DDTs, (services déconcentrés du Ministère de l'Écologie et de l'Agriculture) alimentent souvent des portails de données cartographiques régionaux ou départementaux, voire thématiques sur la plate-forme GéoIDE-Carto.
+
+On peut y télécharger des données, voire y accéder par des protocoles assez particuliers appelés Web Map Services ou Web Feature Services.
+
+De nombreux bureaux d'études sur l'environnement accèdent aux données institutionnelles de cette façon.
+
+---
+
+## GéoIDD
+.pull-left[
+![](https://img.over-blog-kiwi.com/2/27/17/52/20180515/ob_d59398_cgdd.jpg)
+
+![geoidd](http://www.statistiques.developpement-durable.gouv.fr/fileadmin/documents/Produits_editoriaux/Cartographie/Cartographie_interactive_Geoidd_France/vignette%20geoidd_96.jpg)
+]
+
+.pull-right[
+L'outil [GéoIDD](http://www.statistiques.developpement-durable.gouv.fr/cartographie/ar/cartographie-interactive-geoidd-france.html) est un outil de cartographie interactivee qui permet d'accéder à de nombreux indicateurs liés au développement durable sur la métropole et les cinq départements d'outre mer.
+
+Il est alimenté par le Service d'Observation Et de Statistiques du Ministère qui met d'ailleurs aussi à disposition la couche d'occupation du sol [Corine Land Cover](http://www.statistiques.developpement-durable.gouv.fr/clc/fichiers/).
+]
+---
+
+## BATRAME
+[BATRAME](http://batrame-paca.fr/) est un portail assez similaire à GéoIDD dans la philosophie qui compile des chiffres sur la Région.
+![batrame](http://batrame-paca.fr/img/bandeau/faune_th_ci_bo_ab.jpg)
+
+---
+class: center, middle
+
+## Données géographiques
+
+---
+
+## IGN
+L'Institut Géographique National, institution de référence pour la cartographie, auteur des cartes SCAN25, de bases de données topographiques de précision, diffuse de plus en plus de données en OpenData, sur [datagouv](https://www.data.gouv.fr/fr/organizations/institut-national-de-l-information-geographique-et-forestiere/) ou sur son [site officiel](http://professionnels.ign.fr/donnees).
+
+Parmi celles mises à disposition, on trouve :
+
+- des contours administratifs
+- l'inventaire forestier national
+- les images aériennes de la BDORTHO
+- des fonds de plan
+- ...
+
+<div data-udata-dataset="594b8af5c751df7a79788a3a"></div>
+<script src="https://www.data.gouv.fr/static/oembed.js" async defer></script>
+
+---
+
+## OpenStreetMap
+
+OpenStreetMap est un peu le Wikipédia de la cartographie.
+
+Il propose une carte mondiale alimentée, éditée, modifiée, mise à jour par des cartographes volontaires de par le monde.
+
+Il est souvent plus à jour que ses pendants propriétaires Google Maps, Bing Maps.
+
+<a href=https://www.openstreetmap.org/#map=5/46.449/2.210><center><img src=https://www.developpez.net/forums/attachments/p407157d1/a/a/a width=80%></img></center></a>
+---
+class: center, middle
+## Données par thématiques
+
+---
+## Démographie, société
+
+<center>
+<img src=http://www.annaysouslens.fr/images/une/Insee.jpg width=30%></img>
+</center>
+
+
+Sur le site de l'INSEE (Institut National de la Statistique et des Études Économiques), on trouve énormément de données localisées qui décrivent le territoire en termes :
+- démographiques (population, âge, composition des ménages)
+- sociétaux (nombre de chômeurs, d'individus par catégorie socio-professionnelle)
+- mais aussi d'[équipements publics](https://www.insee.fr/fr/metadonnees/source/serie/s1161), etc...
+
+---
+## Risques
+<center>
+<img src="http://www.georisques.gouv.fr/sites/all/themes/georisques/logo.png;wa0de6128ad05322ec" width=30%></img>
+</center>
+
+[GeoRisques](http://www.georisques.gouv.fr/) est le portail sur les risques du Ministère de l'Écologie. Il permet d'accéder aux périmètres des zones sujettes aux risques d'incendie, de feux de forêt, de submersion marine, séismes...
+
+---
+## Urbanisme
+<center>
+<img src="https://www.geoportail-urbanisme.gouv.fr/bundles/igngpu/images/Logo-GeoUrba-HD.jpg?v3.2.14" width=30%></img>
+</center>
+
+Le [GéoPortail de l'Urbanisme (GPU)](https://www.geoportail-urbanisme.gouv.fr/) est la plate-forme du Ministère qui héberge toutes les données relatives aux Plans Locaux d'Urbanisme (PLU).
+
+Les PLUs définissent les contraintes d'usage du sol en terme de constructibilité et d'aménagements induites ou non par la présence de servitudes d'utilité publique (SUP), ceci à l'échelle communale et inter-communale.
+<center>
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/PLU_Ampus_Domaine_Saint_Pierre.jpg/640px-PLU_Ampus_Domaine_Saint_Pierre.jpg width=60%></img>
+</center>
+---
+
+## Culture
+La plate-forme [data.culture.gouv.fr](https://www.data.gouv.fr/fr/topics/culture/) recense données relatives à la culture sur le territoire français, avec entre autres :
+
+- les musées
+- les évènements culturels
+- les lieux de tournage de films
+
+---
+
+## Eau
+<center>
+<img src="https://teleservices.lesagencesdeleau.fr/Design/images/logo.png" width=20%></img>
+</center>
+
+[data.eaufrance.fr](http://www.data.eaufrance.fr/) offre un accès libre aux données sur l'eau, les milieux aquatiques et leurs usages, publiées sur les sites de la toile Eaufrance.
+
+On y trouve par exemple les perimètres de bassins versants, les concentrations en nitrates d'origine agricole, les tracés des rivières, la qualité des eaux de baignade.
+
+---
+
+## Littoral
+<center><img src="http://www.geoinformations.developpement-durable.gouv.fr/local/cache-vignettes/L170xH170/rubon633-49ed7.png" width=20%></img>
+</center>
+
+
+[Géolittoral](http://www.geolittoral.developpement-durable.gouv.fr/) est une plate-forme de données géographiques alimentée par le Ministère de l'Écologie où l'on trouve, entre autres, le tracé du sentier du littoral, les ouvrages et aménagements littoraux, ...
+
+---
+
+## Maritime
+Sur [data.shom.fr](https://data.shom.fr/), on trouve des données très précises sur le maritime, notamment des reconstitutions 3D de très grande précision des fonds marins ou du littoral, des données sur les courants, la marée,...
+
+---
+
+## Transport
+<center>
+<img src="https://transport.data.gouv.fr/images/logo-header.svg" width=30%></img>
+</center>
+
+Le point d'Accès National aux données Transport (PAN) se matérialise sous la forme de la plate-forme [transport.data.gouv.fr/](https://transport.data.gouv.fr/). 
+
+On devrait y trouver les lignes et arrêts de transports publics, les horaires de trains et de bus, mais aussi des données de trafic sur les axes autoroutiers ou les routes départementales.
+
+L'objectif de cette diffusion est notamment de favoriser le développement d'applications de mobilité par des tiers, à l'exemple de la société [navitia](https://www.navitia.io/).
+
+---
+<center>
+<img src=https://cdn-images-1.medium.com/max/600/0*8somKEEO8Y9AmVKZ. width=50%></img>
+</center>
+
+A noter que certains, indépendamment du PAN Transport, diffusent déjà leurs données de mobilité. C'est le cas :
+
+- du [stif](https://opendata.stif.info/explore/?sort=modified)
+- de la [sncf](https://data.sncf.com/explore/?sort=modified)
+
+Des sociétés privées mettent aussi leurs données à disposition, telles que Uber sur sa plate-forme [movement.uber](https://movement.uber.com/?lang=fr-FR)
+
+---
+
+## Énergie
+La plateforme [Open Data Réseaux Énergies (ODRÉ)](https://opendata.reseaux-energies.fr/pages/accueil/) met à disposition pas mal de données sur l'Énergie. Cette plate-forme est le fruit de la collaboration entre GRTgaz, RTE et Teréga.
+
+[Réseau Transport d'Électricité](https://data.rte-france.com) ainsi qu'[enedis](https://data.enedis.fr/explore/?sort=modified) met à disposition des données sur la consommation d'énergie.
+
+---
+
+## Tourisme
+
+<center>
+<img src="http://www.datatourisme.fr/wp-content/uploads/2016/07/logo-datatourisme-scroll-1.png" width=30%></img>
+</center>
+
+
+Le portail [datatourisme](http://www.datatourisme.fr/) sur les données du tourisme en France, est issu de la collaboration du Ministère de l'Economie, de la Direction Générale des Entreprises et du réseau des agences départementales.
+
+On trouve aussi des portails de données touristiques territoriaux, tels que celui de la région appelé [data.visitprovence](http://data.visitprovence.com/)
+
+AirBnB met aussi à disposition des jeux de données sur sa plate-forme [insideairbnb](http://insideairbnb.com/get-the-data.html) et [DataVille](https://dataville.byairbnb.com/).
+
+---
+## Gare au Data Washing !
+
+<center>
+<img src="https://i2.wp.com/i307.photobucket.com/albums/nn295/Laudi0/washing_machine.jpg" width=10%></img>
+</center>
+
+La mise en ligne de données par AirBnB et Uber a été critriquée comme étant du Data Washing.
+
+Le Data Washing est le pendant du Green Washing pour la donnée. Il consiste, pour des institutions ou entreprises, à mettre en ligne de façon massive des lots de données sans véritable intérêt sachant que cela permettra d'améliorer leur image de marque.
+
+<blockquote>"Les données d'Uber, bien que téléchargeables, sont diffusées avec une licence qui ne permet pas de les qualifier d'open data car elle interdit expressément tout usage commercial. De même, le fait que l'inscription soit requise pour accéder aux données d'Uber Movement constitue un frein à la réutilisation. C'est pas de l'open data, point."</blockquote>
+
+<blockquote>"Le niveau de granularité des données est à la commune, pas à l'arrondissement et encore moins au quartier ou à la zone Iris."</blockquote>
+
+<div class=reference><a href=https://donneesouvertes.info/2017/12/17/jai-teste-les-donnees-ouvertes-duber-et-airbnb-en-france/>Article sur donneesouvertes</a></div>
