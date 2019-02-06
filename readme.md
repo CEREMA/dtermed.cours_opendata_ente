@@ -17,12 +17,12 @@ Supports de cours sur l'Open Data réalisés en 2018 pour les apprenants de l'EN
 - Quizz  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_7_quizz.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_7_quizz.pdf)
 
 ## :computer: Session 2 (travaux pratiques) ½j 
-- Énoncé du défi  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_1_énoncé.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session2_1_énoncé.pdf)
-- Accéder à la donnée et en prendre connaissance  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_2_acceder_prendre_connaissance.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session2_2_acceder_prendre_connaissance.pdf)
-- Explorer  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_3_explorer.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session2_3_explorer.pdf)
-- Visualiser  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_4_visualiser.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session2_4_visualiser.pdf)
-- Cartographier  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_5_cartographier.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session2_5_cartographier.pdf)
-- Outils (annexe)  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_6_annexe_outils.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session2_6_annexe_outils.pdf)
+- Énoncé du défi  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_1_énoncé.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_1_énoncé.pdf)
+- Accéder à la donnée et en prendre connaissance  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_2_acceder_prendre_connaissance.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_2_acceder_prendre_connaissance.pdf)
+- Explorer  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_3_explorer.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_3_explorer.pdf)
+- Visualiser  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_4_visualiser.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_4_visualiser.pdf)
+- Cartographier  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_5_cartographier.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_5_cartographier.pdf)
+- Outils (annexe)  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_6_annexe_outils.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_6_annexe_outils.pdf)
 
 ## Réalisation
 ### Auteur des supports
