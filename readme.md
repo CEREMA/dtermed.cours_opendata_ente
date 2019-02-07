@@ -33,8 +33,8 @@ Mathieu Rajerison, du service GTIE (Géomatique, Trafics, ITS et Exploitation) d
 - Création : 24 août 2018
 
 ### Format
-- Source : format [R Markdown](https://rmarkdown.rstudio.com/), librairie [xaringan](https://github.com/yihui/xaringan)
-- Généré aussi en : html & pdf
+- html & pdf
+- Sources : format [R Markdown](https://rmarkdown.rstudio.com/), librairie [xaringan](https://github.com/yihui/xaringan)
 
 ### Licence
 [Licence Ouverte Etalab](https://www.etalab.gouv.fr/licence-ouverte-open-licence)
