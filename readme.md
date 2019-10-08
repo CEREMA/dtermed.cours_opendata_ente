@@ -6,6 +6,7 @@ Supports d'un cours sur l'Open Data réalisé en 2018 pour les apprenants de l'E
 ![](images/LogoENTE_small.jpg)
 ![](images/Logo_CEREMA_small.png)
 
+[Article web associé sur le site du Cerema sur la tenue de cette formation](https://www.cerema.fr/fr/actualites/cerema-mediterranee-sensibilise-apprenants-ecole-nationale)
 
 ## :books: Session 1 (cours) ½j 
 - Généralités sur la Data  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_1_data.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_1_data.pdf)
