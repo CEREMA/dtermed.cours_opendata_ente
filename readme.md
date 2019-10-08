@@ -1,6 +1,6 @@
 # Une journée de formation sur l'Open Data<br>  
 
-![](https://www.cerema.fr/sites/default/files/styles/uas_medium/public/media/images/2019/02/visuel2.jpeg?itok=QaexK9Vo)
+<!--![](https://www.cerema.fr/sites/default/files/styles/uas_medium/public/media/images/2019/02/visuel2.jpeg?itok=QaexK9Vo)-->
 
 Supports d'un cours sur l'Open Data réalisé en 2018 pour les apprenants de l'ENTE d'Aix-en-Provence (École Nationale des Techniciens de l'Équipement)  
 
