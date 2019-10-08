@@ -1,3 +1,5 @@
+![](https://www.cerema.fr/sites/default/files/styles/uas_medium/public/media/images/2019/02/visuel2.jpeg?itok=QaexK9Vo)
+
 # Une journée de formation sur l'Open Data<br>  
 
 
