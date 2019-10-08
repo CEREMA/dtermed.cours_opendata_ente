@@ -14,7 +14,7 @@ Supports d'un cours sur l'Open Data réalisé en 2018 pour les apprenants de l'E
 - Les acteurs de l'OpenData  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_4_acteurs.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_4_acteurs.pdf)
 - Avant de vous présenter à la Data  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_5_avant_data.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_5_avant_data.pdf)
 - Rendez-vous avec la Data  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_6_rdv_data.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_6_rdv_data.pdf)
-- Quizz  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_7_quizz.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_7_quizz.pdf)
+- Quizz  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_7_quizz.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/sesion_1_7_quizz.pdf)
 
 ## :computer: Session 2 (travaux pratiques) ½j 
 - Énoncé du défi  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_1_énoncé.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_1_énoncé.pdf)
