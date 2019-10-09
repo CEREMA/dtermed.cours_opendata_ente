@@ -7,7 +7,7 @@ Supports d'un cours sur l'Open Data réalisé en 2018 pour les apprenants de l'E
 ![](images/LogoENTE_small.jpg)
 ![](images/Logo_CEREMA_small.png)
 
-:point_right: [Article web associé sur le site du Cerema sur la tenue de cette formation](https://www.cerema.fr/fr/actualites/cerema-mediterranee-sensibilise-apprenants-ecole-nationale)
+:point_right: ["Le Cerema Méditerranée sensibilise les apprenants de l’École Nationale des Techniciens de l’Équipement d’Aix-en-Provence à l’Open Data"](https://www.cerema.fr/fr/actualites/cerema-mediterranee-sensibilise-apprenants-ecole-nationale)
 
 ## :books: Session 1 (cours) ½j 
 - Généralités sur la Data  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_1_data.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session1/session1_1_data.pdf)
@@ -47,3 +47,6 @@ Mathieu Rajerison, du service GTIE (Géomatique, Trafics, ITS et Exploitation) d
 - [DataSud](https://www.datasud.fr/)
 - [OpenDataFrance](http://www.opendatafrance.net/)
 - [teamopendata.org](https://teamopendata.org)
+
+# Autres liens
+- [Découvrez la formation à distance « L'open data et vous »](https://www.cerema.fr/fr/actualites/decouvrez-formation-distance-open-data-vous)
