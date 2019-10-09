@@ -48,5 +48,5 @@ Mathieu Rajerison, du service GTIE (Géomatique, Trafics, ITS et Exploitation) d
 - [OpenDataFrance](http://www.opendatafrance.net/)
 - [teamopendata.org](https://teamopendata.org)
 
-# Autres ressources de formation sur l'OpenData
+## Autres ressources de formation sur l'OpenData
 :point_right:  [Découvrez la formation à distance « L'open data et vous »](https://www.cerema.fr/fr/actualites/decouvrez-formation-distance-open-data-vous)
