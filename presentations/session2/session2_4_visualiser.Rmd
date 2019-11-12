@@ -106,9 +106,9 @@ class: center, middle, inverse
 ---
 class:exo
 
-<div class=file>`r icon::fa("file", size = 1)` Prendre le fichier : <a href=https://trouver.datasud.fr/dataset/epanouissement-de-tous-les-etres-humains-indicateurs-de-developpement-durable>indicateurs de développement durable sur l'épanouissement des êtres humains</a></div>
+<div class=file>`r icon::fa("file", size = 1)` Considérer le jeu de données : <a href=https://trouver.datasud.fr/dataset/epanouissement-de-tous-les-etres-humains-indicateurs-de-developpement-durable>indicateurs de développement durable sur l'épanouissement des êtres humains</a></div>
 
-##Exo 10
+##Exo 7
 &#9658; Comparer, sous forme de graphique en barres, la situation de la région par rapport au territoire national pour ce qui est de :
 
 - la part des déplacements domicile-travail effectués en voiture (%)

@@ -17,43 +17,43 @@ output:
 ---
 class: center, middle, inverse
 
-# `r icon::fa("pencil-alt", size = 1)` À vous de jouer
+# `r icon::fa("pencil-alt", size = 1)` Ã€ vous de jouer
 
 ---
 class: center, middle
 
-# Créer un tableau depuis les instructions suivantes :
+# CrÃ©er un tableau depuis les instructions suivantes :
 
-- Aix-en-Provence compte 141438 habitants. Son code INSEE est 13090 et elle appartient aux Bouches-du-Rhône.
-- Marseille appartient au même département. Elle compte 850726 habitants. Son code INSEE est 13055
+- Aix-en-Provence compte 141438 habitants. Son code INSEE est 13090 et elle appartient aux Bouches-du-RhÃ´ne.
+- Marseille appartient au mÃªme dÃ©partement. Elle compte 850726 habitants. Son code INSEE est 13055
 - Nice (06088) est une commune des Alpes-Maritimes. Elle compte 343304 habitants.
 
 ---
 class: center, middle
 
-# Récupérer la population par département sur la région PACA et en faire un tableau en faisant apparaître également le code INSEE de chaque département
+# RÃ©cupÃ©rer la population par dÃ©partement sur la rÃ©gion PACA et en faire un tableau en faisant apparaÃ®tre Ã©galement le code INSEE de chaque dÃ©partement
 
 ---
 class: center, middle
 
-# Quelle caractéristique de l'OpenData peut influencer la façon de structurer la donnée ?
+# Quelle caractÃ©ristique de l'OpenData peut influencer la faÃ§on de structurer la donnÃ©e ?
 
 --
-Voici les consignes de réalisation d'un tableau pour que ce dernier soit traitable par une machine :
+Voici les consignes de rÃ©alisation d'un tableau pour que ce dernier soit traitable par une machine :
 
-- Souvent, un logiciel s'attend à ce qui est le plus conventionnel, soit que les variables, champs apparaissent en colonnes, et les entités, enregistrements, en lignes
-- Noms de champs courts, voire abréviés, pour faciliter le travail des programmeurs
+- Souvent, un logiciel s'attend Ã  ce qui est le plus conventionnel, soit que les variables, champs apparaissent en colonnes, et les entitÃ©s, enregistrements, en lignes
+- Noms de champs courts, voire abrÃ©viÃ©s, pour faciliter le travail des programmeurs
 - Pas d'espaces, ni d'accents dans les noms d'attributs, ni de majuscules, sinon les logiciels de traitement peuvent planter
 
 ---
 class: center, middle
 
-# Refaire le tableau en respectant ces préceptes
+# Refaire le tableau en respectant ces prÃ©ceptes
 
 ---
 class: center, middle
 
-# Quel est le département le plus peuplé
+# Quel est le dÃ©partement le plus peuplÃ©
 # Quelle est la population totale en PACA ?
 
 
@@ -61,7 +61,7 @@ class: center, middle
 <!-- --- -->
 <!-- class: center, middle -->
 
-<!-- # Prendre les données de population à Marseille, Aix en Provence, Nice et en faire un tableau -->
+<!-- # Prendre les donnÃ©es de population Ã  Marseille, Aix en Provence, Nice et en faire un tableau -->
 
 <!-- --- -->
 <!-- class: center, middle -->
@@ -71,7 +71,7 @@ class: center, middle
 <!-- --- -->
 <!-- class: center, middle -->
 
-<!-- # Rechercher sur Internet les informations sur Toulon et compléter le tableau -->
+<!-- # Rechercher sur Internet les informations sur Toulon et complÃ©ter le tableau -->
 
 <!-- --- -->
 <!-- class: center, middle -->
@@ -81,26 +81,26 @@ class: center, middle
 ---
 class: center, middle, inverse
 
-# `r icon::fa("table", size = 1)` Opérations de base sous Excel ou LibreOffice
+# `r icon::fa("table", size = 1)` OpÃ©rations de base sous Excel ou LibreOffice
 
 ###Rappel de quelques fonctions utiles avant de commencer
 
 ---
 
-## Trier un tableau de données
-- Sélectionner le tableau à trier en incluant les noms de colonnes
-- Aller dans `Données > Trier`
-- Dire que la première ligne contient les en-têtes de colonnes
+## Trier un tableau de donnÃ©es
+- SÃ©lectionner le tableau Ã  trier en incluant les noms de colonnes
+- Aller dans `DonnÃ©es > Trier`
+- Dire que la premiÃ¨re ligne contient les en-tÃªtes de colonnes
 
 <center><img src=../images/trier1.png width=80%></img></center>
 
 ---
-- Réaliser le tri
+- RÃ©aliser le tri
 
 ![](../images/trier2.png)
 
 ---
-## Calculer des statistiques agrégées
+## Calculer des statistiques agrÃ©gÃ©es
 ### Moyenne
 - Se positionner sur une cellule qui contiendra la valeur de moyenne
 
@@ -108,35 +108,39 @@ class: center, middle, inverse
 
 ![](images/fonction.png)
 
-- Choisir la fonction souhaitée, dans notre cas la `MOYENNE`
+- Choisir la fonction souhaitÃ©e, dans notre cas la `MOYENNE`
 
 ---
 
-- Dire quelle est la plage des valeurs dont on souhaite calculer la moyenne : tracer un rectangle englobant les valeurs souhaitées
+- Dire quelle est la plage des valeurs dont on souhaite calculer la moyenne : tracer un rectangle englobant les valeurs souhaitÃ©es
 
 <center><img src=../images/moyenne.png width=70%></img></center>
 
-On peut faire de même pour calculer des sommes, etc...
+On peut faire de mÃªme pour calculer des sommes, etc...
 
 
 ---
 class: center, middle, inverse
 
-# Indicateurs de développement durable sur l'épanouissement des êtres humains 
+# Indicateurs de dÃ©veloppement durable sur l'Ã©panouissement des Ãªtres humains 
 
-[`r icon::fa("file", size = 2, colour = "rgb(249, 38, 114);")` Cliquez ici pour accéder au dataset](https://trouver.datasud.fr/dataset/epanouissement-de-tous-les-etres-humains-indicateurs-de-developpement-durable)
+[`r icon::fa("file", size = 2, colour = "rgb(249, 38, 114);")` Cliquez ici pour accÃ©der au dataset](https://trouver.datasud.fr/dataset/epanouissement-de-tous-les-etres-humains-indicateurs-de-developpement-durable)
 
 ---
 class: exo
 
 ##Exo 4
-&#9658; <u>Revue post-téléchargement</u>
+&#9658; <u>Revue post-tÃ©lÃ©chargement</u>
 
-1. Combien de fichiers trouve-t-on dans le lot de données ? Sont-ils tous différents ? Combien de jeux de données différents trouve-t-on en réalité ?
+1. Combien de fichiers trouve-t-on dans le lot de donnÃ©es ? Sont-ils tous diffÃ©rents ? Combien de jeux de donnÃ©es diffÃ©rents trouve-t-on en rÃ©alitÃ© ? 
+<!-- on en trouve 4 et il y a trois fichiers en double : Indicateurs DD-2017-Epanouissement des Ãªtres humains.xls, Indicateurs DD-2017-Epanouissement des Ãªtres humains.ods et Indicateurs DD2017_finalitÃ© 3 : Ã©panouissement de tous ...
+Les fichiers uniques sont indicateurs-dd-2017-epanouissement-des-etres-humains.ods et synthese-indicateurs-dd-paca-2017.xls -->
 
-2. Dans quel jeu de données retrouve-t-on autant d'informations que citées dans la documentation ? A quel niveau géographique : région, département ?
+2. Dans quel jeu de donnÃ©es retrouve-t-on autant d'informations que citÃ©es dans la documentation ? A quel niveau gÃ©ographique : rÃ©gion, dÃ©partement ?
+<!-- dans le fichier Indicateurs DD-2017-Epanouissement des Ãªtres humains.ods -->
 
-3. Quel jeu de données comprend des données précises ? Y retrouve-t-on l'intégralité des indicateurs ?</div>
+3. Quel jeu de donnÃ©es comprend des donnÃ©es prÃ©cises ? Y retrouve-t-on l'intÃ©gralitÃ© des indicateurs ?
+<!-- le fichier Indicateurs DD-2017-Epanouissement des Ãªtres humains.ods. Oui, ils y sont tous -->
 
 ---
 class:exo
@@ -145,8 +149,10 @@ class:exo
 &#9658; <u>Structure des fichiers</u>
 
 1. Dans le fichier synthese, les variables apparaissent-elles en colonnes ou en lignes ? Et dans les autres Fichiers ?
+<!-- dans synthese : variables en lignes -->
 
-2. Dans le fichier detail, que signifie à votre avis la valeur *nd* dans l'onglet sur la qualité de l'air ?</div>
+2. Dans le fichier detail, que signifie Ã  votre avis la valeur *nd* dans l'onglet sur la qualitÃ© de l'air ?
+<!-- non dÃ©terminÃ© -->
 
 ---
 class:exo
@@ -154,45 +160,11 @@ class:exo
 ##Exo 6
 &#9658; <u>Contenu</u>
 
-1. Comment se situe **PACA par rapport à la France** par rapport à l'exposition au bruit ?
+1. Comment se situe **PACA par rapport Ã  la France** par rapport Ã  l'exposition au bruit ?
+<!-- 34.1 vs 14.2 -->
 
-2. Après les Bouches-du-Rhône, dans quel département est-on le plus exposé au bruit ?
+2. AprÃ¨s les Bouches-du-RhÃ´ne, dans quel dÃ©partement est-on le plus exposÃ© au bruit ?
+<!-- Alpes Maritimes -->
 
-3. **Classer les communes** en fonction de la qualité de l'air en 2012 et dire quelles communes sont les 3 communes les plus polluées et les 3 communes les moins polluées</div>
-
----
-class: center, middle, inverse
-
-# Populations exposées au dépassement des valeurs de référence des PM10, NO2 et O3
-
-[`r icon::fa("file", size = 2, colour = "rgb(249, 38, 114);")` Cliquez ici pour accéder au dataset](https://trouver.datasud.fr/dataset/indicateurs-communaux-de-qualite-de-lair-en-region-sud-provence-alpes-cote-dazur)
-
----
-class:exo
-
-##Exo 7
-&#9658; <u>Revue des données</u>
-
-- A quoi correspond ISA ?
-
----
-class:exo
-
-##Exo 8
-&#9658; <u>Contenu</u>
-
-1. Quelle est la moyenne de l'ISA pour la région PACA ?
-
-2. Quelle commune a le plus fort ISA ?</div>
-
----
-class:exo
-
-<div class=file>`r icon::fa("exclamation", size = 1)` Ajouter les informations du fichier d'exposition à la pollution de 2013 au tableau actuel de 2017</div>
-
-##Exo 9
-&#9658; <u>Contenu</u>
-
-1. Des arrondissements de Marseille ont-ils connu une évolution négative de l'indicateur ISA ?
-
-2. Pour Marseille, quels sont les deux arrondissements qui ont connu la plus forte dégradation de leur qualité de l'air ?
+3. **Classer les grandes agglomÃ©rations de PACA** en fonction de la qualitÃ© de l'air en 2012 et dire quelles communes sont les 3 communes les plus polluÃ©es et les 3 communes les moins polluÃ©es</div>
+<!-- Marseille, Cannes Grasse Antibes, puis Toulon -->

@@ -1,6 +1,6 @@
 ---
 title: "OpenData (Exos)"
-subtitle: "Accès au terrain et repérages"
+subtitle: "AccÃ¨s au terrain et repÃ©rages"
 author: "CEREMA Med > Mathieu Rajerison"
 date: "<span style='font-size:0.5em;'>06/02/2019</span>"
 output:
@@ -15,130 +15,149 @@ output:
       countIncrementalSlides: false
 ---
 class: center, middle, inverse
-# Accéder au jeu de données
+# AccÃ©der au jeu de donnÃ©es
 
 `r icon::fa("walking", size = 3)`
 ---
 class: exo
 ## Exo 1
 
-&#9658; Partez à la recherche des jeux de données (datasets) sur DataSud
+&#9658; Partez Ã  la recherche des jeux de donnÃ©es (datasets) sur DataSud
 
 Pour rappel, il s'agit :
 
-- `r icon::fa("file", size = 1)` des indicateurs de développement durable sur l'épanouissement des êtres humains
+- `r icon::fa("file", size = 1)` des indicateurs de dÃ©veloppement durable sur l'Ã©panouissement des Ãªtres humains
 
-- `r icon::fa("file", size = 1)` des populations exposées au dépassement des valeurs de référence des PM10, NO2 et O3 sur la région Sud PACA
+- `r icon::fa("file", size = 1)` des populations exposÃ©es au dÃ©passement des valeurs de rÃ©fÃ©rence des PM10, NO2 et O3 sur la rÃ©gion Sud PACA
 
 ---
-### Réponse :
-`r icon::fa("file", size = 1)` [Dataset épanouissement](https://trouver.datasud.fr/dataset/epanouissement-de-tous-les-etres-humains-indicateurs-de-developpement-durable)
+### RÃ©ponse :
+`r icon::fa("file", size = 1)` [Dataset Ã©panouissement](https://trouver.datasud.fr/dataset/epanouissement-de-tous-les-etres-humains-indicateurs-de-developpement-durable)
 
-`r icon::fa("file", size = 1)` [Populations exposées](https://trouver.datasud.fr/dataset/populations-et-territoires-exposes-au-depassement-des-valeurs-limites-sur-la-region-sud)
+`r icon::fa("file", size = 1)` [Populations exposÃ©es](https://trouver.datasud.fr/dataset/populations-et-territoires-exposes-au-depassement-des-valeurs-limites-sur-la-region-sud)
 
 ---
 class: center, middle, inverse
-# Interpréter les méta-données
-### Tâter, lire le terrain
+# InterprÃ©ter les mÃ©ta-donnÃ©es
+### TÃ¢ter, lire le terrain
 
 `r icon::fa("book-reader", size = 3)`
 
 ---
 
-Les premières questions à se poser, quand on rencontre un jeu de données, sont les suivantes :
+Les premiÃ¨res questions Ã  se poser, quand on rencontre un jeu de donnÃ©es, sont les suivantes :
 
-- **Qui** a produit la donnée ?
-
---
-
-- **Quand** a-t-elle été produite et est-elle suffisamment récente pour l'usage que je veux en faire ?
+- **Qui** a produit la donnÃ©e ?
 
 --
 
-- Quelle est son **emprise géographique** (si elle existe) et quel est son niveau de **granularité** (commune, département, région, interco ?)
+- **Quand** a-t-elle Ã©tÃ© produite et est-elle suffisamment rÃ©cente pour l'usage que je veux en faire ?
 
 --
 
-- S'il est possible de le savoir, quel a été **le mode de production** de la donnée ?
+- Quelle est son **emprise gÃ©ographique** (si elle existe) et quel est son niveau de **granularitÃ©** (commune, dÃ©partement, rÃ©gion, interco ?)
 
 --
 
-- Après ouverture, paraît-elle d'assez bonne **qualité** ?
+- S'il est possible de le savoir, quel a Ã©tÃ© **le mode de production** de la donnÃ©e ?
 
 --
 
-- Le fichier de **méta-données** décrit-il suffisamment bien l'ensemble des variables présentes ?
+- AprÃ¨s ouverture, paraÃ®t-elle d'assez bonne **qualitÃ©** ?
 
-`r icon::fa("readme", size = 1)` [Lire l'article d'infolabs sur l'interview de la donnée](https://infolabs.io/interview-de-la-donnee)
+--
+
+- Le fichier de **mÃ©ta-donnÃ©es** dÃ©crit-il suffisamment bien l'ensemble des variables prÃ©sentes ?
+
+`r icon::fa("readme", size = 1)` [Lire l'article d'infolabs sur l'interview de la donnÃ©e](https://infolabs.io/interview-de-la-donnee)
 
 ---
 class: exo
 
 ## Exo 2
 
-&#9658; `r icon::fa("file", size = 1)` Pour le jeu de données sur l'exposition des populations aux polluants, répondre à ces questions :
+&#9658; `r icon::fa("file", size = 1)` Pour le jeu de donnÃ©es sur l'exposition des populations aux polluants, rÃ©pondre Ã  ces questions :
 
-1. **Comment** la donnée a-t-elle été obtenue ?
-
---
-
-2. La donnée prend-elle en compte l'exposition sur le lieu de travail ?
+1. **Comment** la donnÃ©e a-t-elle Ã©tÃ© obtenue ? <!-- par modÃ©lisation depuis des donnÃ©es de mesure -->
 
 --
 
-3. Qui est l'**auteur** de la donnée ? Semble-t-il être de confiance ? Si j'ai une question à poser sur cette donnée, qui contacter ?
+2. La donnÃ©e prend-elle en compte l'exposition sur le lieu de travail ? <!-- l'estimation ne tient pas compte de l'exposition sur son lieu de
+travail/Ã©cole, les lieux de loisirs ou lors de ses dÃ©placements-->
 
 --
 
-4. De **quand** datent les données ? Quelle est leur fréquence de mise à jour ?
+3. Qui est l'**auteur** de la donnÃ©e ? Semble-t-il Ãªtre de confiance ? Si j'ai une question Ã  poser sur cette donnÃ©e, qui contacter ?
 
 --
 
-5. A quel **format** se trouvent ces données ?
+4. De **quand** datent les donnÃ©es ? Quelle est leur frÃ©quence de mise Ã  jour ? <!-- crÃ©Ã©es le 05 07 2017 avec frÃ©quence annuelle-->
 
 --
 
-6. Quelle est la **licence** d'utilisation ?
+5. A quel **format** se trouvent ces donnÃ©es ? <!--CSV, GeoJSON, WFS-->
 
 --
 
-7. Que signifie la colonne PM10_VL ? </div>
+6. Quelle est la **licence** d'utilisation ? <!-- OpenDataCommons - ODbL-->
+
+--
+
+7. Quelle information aurait-on pour une ligne du tableau si pour celle-ci, **PM10** apparaissait dans la colonne **nom_poll** et **VL** apparaissait dans la colonne **valeur_reg** ?
 
 ---
 class: middle, center
 
-#Quelles questions posez-vous à quelqu'un que vous venez de rencontrer ?
+#Quelles questions posez-vous Ã  quelqu'un que vous venez de rencontrer ?
 
 ---
 class: exo
 
 ## Exo 3
 
-&#9658; `r icon::fa("file", size = 1)` Pour le jeu de données sur les indicateur d'épanouissement, répondre à ces questions :
+&#9658; `r icon::fa("file", size = 1)` Pour le jeu de donnÃ©es sur les indicateur d'Ã©panouissement, rÃ©pondre Ã  ces questions :
 
 - volet **Bruit**
-  1. Les niveaux de bruit sont-ils relevés par mesure locale ou calculés grâce à des modèles numériques ?
+  1. Les niveaux de bruit sont-ils relevÃ©s par mesure locale ou calculÃ©s grÃ¢ce Ã  des modÃ¨les numÃ©riques ? <!-- Les cartes de bruit ne sont pas le reflet de mesures rÃ©ellement effectuÃ©es dans les zones considÃ©rÃ©es. Les
+niveaux de bruit sont Ã©valuÃ©s au moyen de modÃ¨les numÃ©riques intÃ©grant les principaux paramÃ¨tres qui
+influencent le bruit et sa propagation : densitÃ© et nature du trafic, vitesse autorisÃ©e, configuration des lieux,
+caractÃ©ristiques de la voie. -->
   
 --
   
-- volet **Qualité de l'air**
-  2. L'indicateur de qualité de l'air concerne des agglomérations de combien d'habitants ? Permet-il de mettre en valeur la pollution à proximité d'une industrie ?
+- volet **QualitÃ© de l'air**
+  2. L'indicateur de qualitÃ© de l'air concerne des agglomÃ©rations de combien d'habitants ? Permet-il de mettre en valeur la pollution Ã  proximitÃ© d'une industrie ? 
+  <!-- voir nb de jours dans l'annÃ©e avec un indice de qualitÃ© de l'air mauvais.
+  Lâ€™indice Atmo est un indicateur journalier qui fournit une
+information synthÃ©tique sur la qualitÃ© de lâ€™air des agglomÃ©rations de 100 000 habitants et plus 
+Il ne
+permet pas de mettre en Ã©vidence des phÃ©nomÃ¨nes localisÃ©s : pollution en proximitÃ© industrielle,
+automobileâ€¦ 
+-->
   
 --
   
-  3. Combien de polluants sont concernés ?
+  3. Combien de polluants sont concernÃ©s ? <!--  Il est basÃ©
+sur les concentrations dans lâ€™air de quatre polluants mesurÃ©s en continu par des appareils automatiques :
+dioxyde de soufre (SO2), dioxyde dâ€™azote (NO2), ozone (O3) et particules de diamÃ¨tre infÃ©rieur Ã  10 Î¼m
+(PM10).  -->
   
 --
   
-  4. Peut-on avoir un détail par polluant ?
-
+  4. Peut-on avoir un dÃ©tail par polluant ?
+<!-- 
+L'indicateur est le nombre de jours par an oÃ¹ l'indice Atmo de la qualitÃ© de l'air est mÃ©diocre, mauvais ou trÃ¨s
+mauvais (indice de 6 Ã  10), en moyenne sur 3 ans.
+Lâ€™indice Atmo prend en compte le polluant le plus pÃ©nalisant (pour une mÃªme journÃ©e, plusieurs polluants
+peuvent Ãªtre responsables de lâ€™indice Atmo). Toutefois, les concentrations des autres polluants peuvent
+Ã©galement Ãªtre Ã©levÃ©es -->
 ---
 class: center, middle, inverse
-# Pré-visualiser la donnée
+# PrÃ©-visualiser la donnÃ©e
 ### Sonder le terrain  
 
 `r icon::fa("glasses", size = 3)`
 
 ---
 ## Outils
-Utiliser l'outil [WTFCSV](https://databasic.io/en/wtfcsv/) ou [CSVLint](https://csvlint.io/) afin d'avoir un aperçu des données.
+Utiliser l'outil [WTFCSV](https://databasic.io/en/wtfcsv/) ou [CSVLint](https://csvlint.io/) afin d'avoir un aperÃ§u des donnÃ©es.
