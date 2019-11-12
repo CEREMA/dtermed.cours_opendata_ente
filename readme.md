@@ -26,6 +26,9 @@ Supports d'un cours sur l'Open Data réalisé en 2018 pour les apprenants de l'E
 - Cartographier  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_5_cartographier.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_5_cartographier.pdf)
 - Outils (annexe)  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_6_annexe_outils.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_6_annexe_outils.pdf)
 
+## Téléchargement des supports
+![](images/téléchargement_zip.png)
+
 ## Réalisation
 ### Auteur des supports
 Mathieu Rajerison, du service GTIE (Géomatique, Trafics, ITS et Exploitation) du CEREMA Med (Centre d'Études et d'Expertise sur les Risques, l'Environnement, la Mobilité et l'Améngament de la région Méditerranée)
