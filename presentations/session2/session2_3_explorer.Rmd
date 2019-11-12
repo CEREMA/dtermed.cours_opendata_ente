@@ -106,7 +106,7 @@ class: center, middle, inverse
 
 - Cliquer sur le bouton `Fonction`
 
-![](images/fonction.png)
+![](../images/fonction.png)
 
 - Choisir la fonction souhaitée, dans notre cas la `MOYENNE`
 
@@ -132,11 +132,11 @@ class: exo
 ##Exo 4
 &#9658; <u>Revue post-téléchargement</u>
 
-1. Combien de fichiers trouve-t-on dans le lot de données ? Sont-ils tous différents ? Combien de jeux de données différents trouve-t-on en réalité ? 
+1. Combien de fichiers trouve-t-on dans le lot de données ? Sont-ils tous différents ? Combien de jeux de données différents trouve-t-on en réalité ? Y en a-t-il en trop, en doublons ?
 <!-- on en trouve 4 et il y a trois fichiers en double : Indicateurs DD-2017-Epanouissement des êtres humains.xls, Indicateurs DD-2017-Epanouissement des êtres humains.ods et Indicateurs DD2017_finalité 3 : épanouissement de tous ...
 Les fichiers uniques sont indicateurs-dd-2017-epanouissement-des-etres-humains.ods et synthese-indicateurs-dd-paca-2017.xls -->
 
-2. Dans quel jeu de données retrouve-t-on autant d'informations que citées dans la documentation ? A quel niveau géographique : région, département ?
+2. Quel fichier comprend l'ensemble des indicateurs/volets listés dans la documentation ? Peut-on conduire une étude portant sur l'ensemble de ces indicateurs à l'échelle des Bouches-du-Rhône ?
 <!-- dans le fichier Indicateurs DD-2017-Epanouissement des êtres humains.ods -->
 
 3. Quel jeu de données comprend des données précises ? Y retrouve-t-on l'intégralité des indicateurs ?
@@ -148,10 +148,10 @@ class:exo
 ##Exo 5
 &#9658; <u>Structure des fichiers</u>
 
-1. Dans le fichier synthese, les variables apparaissent-elles en colonnes ou en lignes ? Et dans les autres Fichiers ?
+1. Dans le fichier *synthese*, les variables apparaissent-elles en colonnes ou en lignes ? Et dans les autres fichiers ?
 <!-- dans synthese : variables en lignes -->
 
-2. Dans le fichier detail, que signifie à votre avis la valeur *nd* dans l'onglet sur la qualité de l'air ?
+2. Dans le fichier *detail*, que signifie à votre avis la valeur *nd* dans l'onglet sur la qualité de l'air ? Pourquoi est-il plus important de mettre cette valeur que de laisser la cellule vide ?
 <!-- non déterminé -->
 
 ---
@@ -160,7 +160,7 @@ class:exo
 ##Exo 6
 &#9658; <u>Contenu</u>
 
-1. Comment se situe **PACA par rapport à la France** par rapport à l'exposition au bruit ?
+1. PACA est-elle une région bruyante ?
 <!-- 34.1 vs 14.2 -->
 
 2. Après les Bouches-du-Rhône, dans quel département est-on le plus exposé au bruit ?

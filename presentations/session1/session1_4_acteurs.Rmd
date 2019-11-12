@@ -16,80 +16,80 @@ output:
 ---
 class: center, middle, inverse
 
-# Structures de l'État
+# Structures de l'Ã‰tat
 
 `r icon::fa("flag", size = 4)` 
 
 ---
-L'État investit beaucoup le champ de l'open, notamment du logiciel libre (Open Source) et de la donnée ouverte (open Data), afin de souscrire à certains engagements et obligations règlementaires (pour rappel, la loi Lemaire pour une République Numérique et la participation à l'OGP).
+L'Ã‰tat investit beaucoup le champ de l'*Open*, notamment du logiciel libre (Open Source) et de la donnÃ©e ouverte (Open Data), afin de souscrire Ã  certains engagements et obligations rÃ¨glementaires (pour rappel, la loi Lemaire pour une RÃ©publique NumÃ©rique et la participation Ã  l'OGP).
 
 ---
 
 ## La CNIL
-La [Commission nationale de l'informatique et des libertés (CNIL)](https://fr.wikipedia.org/wiki/Commission_nationale_de_l%27informatique_et_des_libert%C3%A9s_(France)), que nous avons citée précédemmebnt, est une autorité administrative indépendante française. 
+La [Commission nationale de l'informatique et des libertÃ©s (CNIL)](https://fr.wikipedia.org/wiki/Commission_nationale_de_l%27informatique_et_des_libert%C3%A9s_(France)), que nous avons citÃ©e prÃ©cÃ©demmebnt, est une autoritÃ© administrative indÃ©pendante franÃ§aise. 
 
-Elle est chargée de veiller à ce que l'informatique soit **au service du citoyen** et qu'elle ne porte atteinte ni à l'**identité humaine**, ni aux **droits de l'Homme**, ni à la **vie privée**, ni aux **libertés individuelles ou publiques**. Elle exerce ses missions conformément à la loi no 78-17 du 6 janvier 1978 modifiée le 6 août 2004.
+Elle est chargÃ©e de veiller Ã  ce que l'informatique soit **au service du citoyen** et qu'elle ne porte atteinte ni Ã  l'**identitÃ© humaine**, ni aux **droits de l'Homme**, ni Ã  la **vie privÃ©e**, ni aux **libertÃ©s individuelles ou publiques**. Elle exerce ses missions conformÃ©ment Ã  la loi no 78-17 du 6 janvier 1978 modifiÃ©e le 6 aoÃ»t 2004.
 
-La loi du 6 Janvier 1978 est celle relative à la Loi Informatique et Libertés.
+La loi du 6 Janvier 1978 est celle relative Ã  la Loi Informatique et LibertÃ©s.
 
--  Le citoyen peut la solliciter s'il pense que ses données personnelles sont exposées. 
+-  Le citoyen peut la solliciter s'il pense que ses donnÃ©es personnelles sont exposÃ©es. 
 
-- Un producteur de données doit requérir son autorisation avant de diffuser un jeu de données sensible à un tiers ou au grand public
+- Un producteur de donnÃ©es doit requÃ©rir son autorisation avant de diffuser un jeu de donnÃ©es sensible Ã  un tiers ou au grand public
 
 ---
 
 ## La CADA  
-La [CADA](https://www.cada.fr/) est la Commission d'Accès aux Documents Administratifs. Elle a été créée la même année que la CNIL.
+La [CADA](https://www.cada.fr/) est la Commission d'AccÃ¨s aux Documents Administratifs. Elle a Ã©tÃ© crÃ©Ã©e la mÃªme annÃ©e que la CNIL.
 
-C'est une autorité administrative indépendante qui a pour objectif de **faciliter et contrôler l'accès des particuliers aux documents administratifs**.
+C'est une autoritÃ© administrative indÃ©pendante qui a pour objectif de **faciliter et contrÃ´ler l'accÃ¨s des particuliers aux documents administratifs**.
 
-La CADA émet des conseils quand elle est saisie par une administration, mais son activité principale est de fournir des avis aux particuliers qui se heurtent au refus d'une administration de communiquer un ou plusieurs documents qu'elle détient. 
+La CADA Ã©met des conseils quand elle est saisie par une administration, mais son activitÃ© principale est de fournir des avis aux particuliers qui se heurtent au refus d'une administration de communiquer un ou plusieurs documents qu'elle dÃ©tient. 
 
-Depuis 2005, elle dispose aussi de nouvelles compétences en matière de réutilisation des données publiques.
+Depuis 2005, elle dispose aussi de nouvelles compÃ©tences en matiÃ¨re de rÃ©utilisation des donnÃ©es publiques.
 
 ---
 
 ## Etalab  
-[Etalab](https://fr.wikipedia.org/wiki/Etalab) est une mission créée en 2011 chargée de la politique d'ouverture et de partage des données publiques du gouvernement français, pour tendre vers un gouvernement ouvert.
+[Etalab](https://fr.wikipedia.org/wiki/Etalab) est une mission crÃ©Ã©e en 2011 chargÃ©e de la politique d'ouverture et de partage des donnÃ©es publiques du gouvernement franÃ§ais, pour tendre vers un gouvernement ouvert.
 
-Etalab développe et maintient le portail des données ouvertes du gouvernement français [data.gouv.fr](https://www.data.gouv.fr/fr/).
+Etalab dÃ©veloppe et maintient le portail des donnÃ©es ouvertes du gouvernement franÃ§ais [data.gouv.fr](https://www.data.gouv.fr/fr/).
 
 Ses missions consistent en :
 
 --
 
-- produire et présenter un **catalogue** de « l'ensemble des données publiques librement accessibles et gratuitement réutilisables, quelle qu'en soit la source »
+- produire et prÃ©senter un **catalogue** de Â« l'ensemble des donnÃ©es publiques librement accessibles et gratuitement rÃ©utilisables, quelle qu'en soit la source Â»
 
 --
 
-- **accompagner** la « communauté des réutilisateurs » 
+- **accompagner** la Â« communautÃ© des rÃ©utilisateurs Â» 
 
 --
 - faciliter la **commercialisation** de l'information publique
 
 ---
 
-## Superviseure Générale des Données du Ministère de l'Écologie (SGD)
-La Superviseure Générale des Données, en la personne de Laurence Monnoyer-Smith, commissaire générale au développement durable, a pour mission de :
+## Superviseure GÃ©nÃ©rale des DonnÃ©es du MinistÃ¨re de l'Ã‰cologie (SGD)
+La Superviseure GÃ©nÃ©rale des DonnÃ©es, en la personne de Laurence Monnoyer-Smith, commissaire gÃ©nÃ©rale au dÃ©veloppement durable, a pour mission de :
 
-- favoriser la montée en **qualité** des données
-
---
-
-- poursuivre l'**ouverture** des données publiques du ministère
+- favoriser la montÃ©e en **qualitÃ©** des donnÃ©es
 
 --
 
-- **accompagner** la réutilisation des données
+- poursuivre l'**ouverture** des donnÃ©es publiques du ministÃ¨re
 
 --
 
-- **animer** un réseau de correspondants
+- **accompagner** la rÃ©utilisation des donnÃ©es
+
+--
+
+- **animer** un rÃ©seau de correspondants
 
 ---
 class: center, middle, inverse
 
-# Associations et citoyenneté
+# Associations et citoyennetÃ©
 
 `r icon::fa("people-carry", size = 4)` 
 
@@ -97,32 +97,32 @@ class: center, middle, inverse
 
 ## OpenDataFrance
 
-[OpenDataFrance](http://www.opendatafrance.net/) se définit elle-même comme l' association des collectivités engagées dans le mouvement Opendata.
+[OpenDataFrance](http://www.opendatafrance.net/) se dÃ©finit elle-mÃªme comme l' association des collectivitÃ©s engagÃ©es dans le mouvement Opendata.
 
-Créée en 2013, cette association a pour objectifs de regrouper et de soutenir les collectivités territoriales françaises dans leur démarche d'ouverture de leurs données.
+CrÃ©Ã©e en 2013, cette association a pour objectifs de regrouper et de soutenir les collectivitÃ©s territoriales franÃ§aises dans leur dÃ©marche d'ouverture de leurs donnÃ©es.
 
-- Elle *accompagne* les petites et moyennes communes dans leur démarche d'ouverture des données avec le projet [OpenDataLocale](http://www.opendatafrance.net/dispositifs-daccompagnement-opendata/)
-
---
-
-- Elle participe à l'élaboration d'un outil qui teste la **qualité** des données avec [validata](http://www.opendatafrance.net/outil-de-qualification-des-donnees-ouvertes-validata/)
+- Elle *accompagne* les petites et moyennes communes dans leur dÃ©marche d'ouverture des donnÃ©es avec le projet [OpenDataLocale](http://www.opendatafrance.net/dispositifs-daccompagnement-opendata/)
 
 --
 
-- Elle surveille quels **nouveaux territoires** ouvrent leurs données avec son [observatoire](http://www.opendatafrance.net/observatoire-open-data-des-territoires/)
+- Elle participe Ã  l'Ã©laboration d'un outil qui teste la **qualitÃ©** des donnÃ©es avec [validata](http://www.opendatafrance.net/outil-de-qualification-des-donnees-ouvertes-validata/)
+
+--
+
+- Elle surveille quels **nouveaux territoires** ouvrent leurs donnÃ©es avec son [observatoire](http://www.opendatafrance.net/observatoire-open-data-des-territoires/)
 
 ---
 
 ## Regards citoyens
-[Regards citoyens](https://www.regardscitoyens.org/#&panel1-1) est une association française fondée en 2009 qui vise à promouvoir l'ouverture des données publiques et valoriser les institutions démocratiques françaises en créant des applications web qui se basent sur la réutilisation de données publiques et sont republiées sous la forme de logiciels libres.
+[Regards citoyens](https://www.regardscitoyens.org/#&panel1-1) est une association franÃ§aise fondÃ©e en 2009 qui vise Ã  promouvoir l'ouverture des donnÃ©es publiques et valoriser les institutions dÃ©mocratiques franÃ§aises en crÃ©ant des applications web qui se basent sur la rÃ©utilisation de donnÃ©es publiques et sont republiÃ©es sous la forme de logiciels libres.
 
-L'association est à l'origine de plusieurs projets, en particulier [NosDéputés.fr](https://www.nosdeputes.fr/) et [NosSénateurs.fr](https://www.nossenateurs.fr/) qui cherchent à mettre en valeur l'activité parlementaire des politiques.
+L'association est Ã  l'origine de plusieurs projets, en particulier [NosDÃ©putÃ©s.fr](https://www.nosdeputes.fr/) et [NosSÃ©nateurs.fr](https://www.nossenateurs.fr/) qui cherchent Ã  mettre en valeur l'activitÃ© parlementaire des politiques.
 
 ---
 
 ## Open Food Facts
 
-[Open Food Facts](https://fr.openfoodfacts.org/) est un projet collaboratif en ligne dont le but est de constituer une base de données libre et ouverte sur les produits alimentaires du monde entier. Elle comprend en mai 2017, 5 ans après sa création, 326 000 produits (83 000 en mai 20162) référencés dans 141 pays. En mars 2018, elle comprenait 476 0003.
+[Open Food Facts](https://fr.openfoodfacts.org/) est un projet collaboratif en ligne dont le but est de constituer une base de donnÃ©es libre et ouverte sur les produits alimentaires du monde entier. Elle comprend en mai 2017, 5 ans aprÃ¨s sa crÃ©ation, 326 000 produits (83 000 en mai 20162) rÃ©fÃ©rencÃ©s dans 141 pays. En mars 2018, elle comprenait 476 0003.
 
 ---
 class: center, middle, inverse
@@ -132,19 +132,19 @@ class: center, middle, inverse
 `r icon::fa("pen-square", size = 4)` 
 
 ---
-Le [journalisme de données](https://fr.wikipedia.org/wiki/Journalisme_de_donn%C3%A9es) (data journalism en anglais), ou journalisme de bases de données (database journalism), est un mouvement visant à renouveler le journalisme par l'exploitation de données statistiques et la mise à la disposition de celles-ci au public.
+Le [journalisme de donnÃ©es](https://fr.wikipedia.org/wiki/Journalisme_de_donn%C3%A9es) (data journalism en anglais), ou journalisme de bases de donnÃ©es (database journalism), est un mouvement visant Ã  renouveler le journalisme par l'exploitation de donnÃ©es statistiques et la mise Ã  la disposition de celles-ci au public.
 
 --
 
-[Les décodeurs](https://www.lemonde.fr/les-decodeurs/), du journal Le Monde, est un bon exemple de data-journalisme où les rédacteurs analysent l'actualité par le prisme des données.
+[Les dÃ©codeurs](https://www.lemonde.fr/les-decodeurs/), du journal Le Monde, est un bon exemple de data-journalisme oÃ¹ les rÃ©dacteurs analysent l'actualitÃ© par le prisme des donnÃ©es.
 
 --
 
-Cet [article du Los Angeles Times](https://source.opennews.org/articles/how-we-found-new-patterns-la-homeless-arrest/) est une enquête basée sur les données d'arrestation de los Angeles 
+Cet [article du Los Angeles Times](https://source.opennews.org/articles/how-we-found-new-patterns-la-homeless-arrest/) est une enquÃªte basÃ©e sur les donnÃ©es d'arrestation de los Angeles 
 
 --
 
-Certains journaux en ligne essaient de se [démarquer](https://www.informationisbeautifulawards.com/news/118-the-nyt-s-best-data-visualizations-of-the-yea) par l'esthétique de leurs infographies (aussi appelées data-visualisations).
+Certains journaux en ligne essaient de se [dÃ©marquer](https://www.informationisbeautifulawards.com/news/118-the-nyt-s-best-data-visualizations-of-the-yea) par l'esthÃ©tique de leurs infographies (aussi appelÃ©es data-visualisations).
 
 - [Le New York Times](https://www.nytimes.com/interactive/2017/12/21/us/2017-year-in-graphics.html)
 - [The Guardian au Royaume-Uni](https://www.theguardian.com/tone/graphics)
@@ -155,13 +155,13 @@ class: center, middle, inverse
 
 `r icon::fa("male", size = 4)` 
 ---
-Des citoyens se saisissent des données mises à disposition afin de créer des analyses ou des visualisations originales.
+Des citoyens se saisissent des donnÃ©es mises Ã  disposition afin de crÃ©er des analyses ou des visualisations originales.
 
-Ainsi, l'utilisateur Mathieu Garnier s'intéresse-t-il dans ses articles :
+Ainsi, l'utilisateur Mathieu Garnier s'intÃ©resse-t-il dans ses articles :
 
-- à la bistrologie
+- Ã  la [bistrologie](https://www.ouest-france.fr/bretagne/rennes-35000/rennes-la-rue-saint-michel-rue-de-la-soif-numero-1-en-france-4979143)
 - aux [trous perdus](http://www.slate.fr/story/122625/cartes-trous-perdus-france) de France
-- à la [platitude](https://mtmx.github.io/blog/carto_alti/)
+- Ã  la [platitude](https://mtmx.github.io/blog/carto_alti/)
 
 <div class=centered>
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">La plus grosse rue de la soif de France est donc la rue Saint Mich&#39;. Enfin un titre pour Rennes <a href="https://t.co/IbrCckBNA2">https://t.co/IbrCckBNA2</a> / thx <a href="https://twitter.com/datagistips?ref_src=twsrc%5Etfw">@datagistips</a> <a href="https://t.co/6UGjta6uJk">pic.twitter.com/6UGjta6uJk</a></p>&mdash; Mat (@matamix) <a href="https://twitter.com/matamix/status/859444180287991808?ref_src=twsrc%5Etfw">2 mai 2017</a></blockquote>
@@ -175,14 +175,14 @@ class: center, middle, inverse
 `r icon::fa("building", size = 4)` 
 
 ---
-Enfin, des sociétés puisent dans l'OpenData afin de proposer une gamme de services visant :
+Enfin, des sociÃ©tÃ©s puisent dans l'OpenData afin de proposer une gamme de services visant :
 
-- à **améliorer la culture Data** (soit, la Data Literacy) d'institutions et assurer leur transition numérique, comme c'est le cas de Datactivist ou Civiteo.
+- Ã  **amÃ©liorer la culture Data** (soit, la Data Literacy) d'institutions et assurer leur transition numÃ©rique, comme c'est le cas de Datactivist ou Civiteo.
 
-- à exploiter les données ouvertes afin de révéler des motifs et **appuyer la prise de décisions**. Par exemple, LKSpatialist utilise l'opendata pour l'exploration des gisements fonciers et l'aménagement urbain.
+- Ã  exploiter les donnÃ©es ouvertes afin de rÃ©vÃ©ler des motifs et **appuyer la prise de dÃ©cisions**. Par exemple, LKSpatialist utilise l'opendata pour l'exploration des gisements fonciers et l'amÃ©nagement urbain.
 
 --
 
-Si les sociétés sus-citées se construisent essentiellement sur la base de la données ouvertes, beaucoup d'autres l'utilisent en parallèle de données propriétaires sur leurs projets. 
+Si les sociÃ©tÃ©s sus-citÃ©es se construisent essentiellement sur la base de la donnÃ©es ouvertes, beaucoup d'autres l'utilisent en parallÃ¨le de donnÃ©es propriÃ©taires sur leurs projets. 
 
-Oslandia et Makina Corpus, sociétés de géomatique, sont particulièrement friandes de logiciels OpenSource et de données OpenData.
+Oslandia et Makina Corpus, sociÃ©tÃ©s de gÃ©omatique, sont particuliÃ¨rement friandes de logiciels OpenSource et de donnÃ©es OpenData.

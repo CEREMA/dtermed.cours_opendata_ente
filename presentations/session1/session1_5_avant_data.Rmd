@@ -20,111 +20,111 @@ class: center, middle, inverse
 
 <!-- --- -->
 
-# Le bestiaire des données
+# Le bestiaire des donnÃ©es
 
 `r icon::fa("sticker-mule", size = 4)` 
 
-Le biotope des données comprend des individus assez particuliers
+Le biotope des donnÃ©es comprend des individus assez particuliers
 
 ---
 class: middle, center
 
-# Trouvez sur Internet les définitions de : 
-- donnée brute, donnée enrichie
-- données pivot
-- donnée chaude, donnée froide
-- donnée fraîche
-- donnée géographique
-- donnée d'intérêt général
-- données souveraines
+# Trouvez sur Internet les dÃ©finitions de : 
+- donnÃ©e brute, donnÃ©e enrichie
+- donnÃ©es pivot
+- donnÃ©e chaude, donnÃ©e froide
+- donnÃ©e fraÃ®che
+- donnÃ©e gÃ©ographique
+- donnÃ©e d'intÃ©rÃªt gÃ©nÃ©ral
+- donnÃ©es souveraines
 
 ---
 
-## Données pivot, socle, de base, de référence
+## DonnÃ©es pivot, socle, de base, de rÃ©fÃ©rence
 
-Les données pivot sont des **données référentielles**, auxquelles on recourt fréquemment. Elles font office de référence et servent à relier différents jeux de données.
+Les donnÃ©es pivot sont des **donnÃ©es rÃ©fÃ©rentielles**, auxquelles on recourt frÃ©quemment. Elles font office de rÃ©fÃ©rence et servent Ã  relier diffÃ©rents jeux de donnÃ©es.
 
-Par exemple, le code postal, les données cadastrales sont des données pivots.
+Par exemple, le code postal, les donnÃ©es cadastrales sont des donnÃ©es pivots.
 
-Le CRPA définit les données de référence comme des informations publiques qui constituent une référence commune pour **nommer ou identifier des produits, des services, des territoires ou des personnes**.
+Le CRPA dÃ©finit les donnÃ©es de rÃ©fÃ©rence comme des informations publiques qui constituent une rÃ©fÃ©rence commune pour **nommer ou identifier des produits, des services, des territoires ou des personnes**.
 
 --
 
-### Service public de la donnée
-Le service public de la donnée créé par l'Article 14 de la loi pour une République numérique vise à mettre à disposition, en vue de faciliter leur réutilisation, **les jeux de données de référence qui présentent le plus fort impact économique et social**. 
+### Service public de la donnÃ©e
+Le service public de la donnÃ©e entÃ©rinÃ© par l'Article 14 de la loi pour une RÃ©publique numÃ©rique vise Ã  mettre Ã  disposition, en vue de faciliter leur rÃ©utilisation, **les jeux de donnÃ©es de rÃ©fÃ©rence qui prÃ©sentent le plus fort impact Ã©conomique et social**. 
 
 ---
 
-## Données souveraines
+## DonnÃ©es souveraines
 
 <blockquote>
-Aux termes de la lettre de mission du Premier ministre, la souveraineté d'une donnée géographique se définit donc par sa destination ou par son usage, qui est de servir de <b>support direct aux décisions de la puissance publique</b>. Une donnée n'est donc souveraine que si sa disponibilité conditionne la possibilité même de la décision publique, c'est-à-dire qu'elle présente pour la puissance publique une véritable criticité.
+Aux termes de la lettre de mission du Premier ministre, la souverainetÃ© d'une donnÃ©e gÃ©ographique se dÃ©finit donc par sa destination ou par son usage, qui est de servir de <b>support direct aux dÃ©cisions de la puissance publique</b>. Une donnÃ©e n'est donc souveraine que si sa disponibilitÃ© conditionne la possibilitÃ© mÃªme de la dÃ©cision publique, c'est-Ã -dire qu'elle prÃ©sente pour la puissance publique une vÃ©ritable criticitÃ©.
 </blockquote>
 
-On peut les utiliser pour la planification de l'urbanisme et les zones de constructibilité (cadastre), le versement d'aides (Registre Parcellaire Graphique ou dans les enquêtes (quartiers iris, immeubles et adresses).
+On peut les utiliser pour la planification de l'urbanisme et les zones de constructibilitÃ© (cadastre), le versement d'aides (Registre Parcellaire Graphique ou dans les enquÃªtes (quartiers iris, immeubles et adresses).
 
 <blockquote>
-22. Étudier, en concertation avec les associations représentatives des communes, l'opportunité de systématiser l'obligation de réaliser des plans d'adressage et de rendre l'adresse <b>opposable</b>.
+22. Ã‰tudier, en concertation avec les associations reprÃ©sentatives des communes, l'opportunitÃ© de systÃ©matiser l'obligation de rÃ©aliser des plans d'adressage et de rendre l'adresse <b>opposable</b>.
 </blockquote>
 
-<div class=reference><a href=https://www.ecologique-solidaire.gouv.fr/sites/default/files/Rapport_DonneesGeographiquesSouveraines.pdf>Rapport sur les données géographiques souveraines</a></div>
+<div class=reference><a href=https://www.ecologique-solidaire.gouv.fr/sites/default/files/Rapport_DonneesGeographiquesSouveraines.pdf>Rapport sur les donnÃ©es gÃ©ographiques souveraines</a></div>
 
 ---
 
-## Donnée brute
-La donnée brute ou donnée **primaire** est la donnée originelle. Elle est complète et n'est souvent ni le fruit d'une agrégation, ni le fruit de traitements.
+## DonnÃ©e brute
+La donnÃ©e brute ou donnÃ©e **primaire** est la donnÃ©e originelle. Elle est complÃ¨te et n'est souvent ni le fruit d'une agrÃ©gation, ni le fruit de traitements.
 
-Les défenseurs de l'OpenData prônent la mise à disposition de ces données source, brutes.
+Les dÃ©fenseurs de l'OpenData prÃ´nent la mise Ã  disposition de ces donnÃ©es source, brutes.
 
-## Donnée enrichie
-La donnée enrichie est une donnée brute que l'on peut avoir améliorée ou contextualisée par l'ajout de champs ou par le croisement avec d'autres données, souvent thématisées et spécifiques à un domaine.
+## DonnÃ©e enrichie
+La donnÃ©e enrichie est une donnÃ©e brute que l'on peut avoir amÃ©liorÃ©e ou contextualisÃ©e par l'ajout de champs ou par le croisement avec d'autres donnÃ©es, souvent thÃ©matisÃ©es et spÃ©cifiques Ã  un domaine.
 
 ---
 
-## Donnée chaude, donnée froide, donnée fraîche
+## DonnÃ©e chaude, donnÃ©e froide, donnÃ©e fraÃ®che
 
-### Donnée chaude/froide
-> Une donnée "froide" est "une donnée **dont la valeur ne change pas dans le temps**. Par exemple : une liste électorale [du passé] est une donnée froide.
+### DonnÃ©e chaude/froide
+> Une donnÃ©e "froide" est "une donnÃ©e **dont la valeur ne change pas dans le temps**. Par exemple : une liste Ã©lectorale [du passÃ©] est une donnÃ©e froide.
 
-> La circulation à un instant t dans une ville est, par opposition, une donnée "chaude".
+> La circulation Ã  un instant t dans une ville est, par opposition, une donnÃ©e "chaude".
 
 <div class=reference><a href=http://www.opendatafrance.net/wp-content/uploads/2016/06/guideOD_communes_glossaire_juin2016_Web.pdf>Voir le glossaire d'OpenDataFrance</a></div>
 
-Une donnée chaude doit donc être **fréquemment actualisée**
+Une donnÃ©e chaude doit donc Ãªtre **frÃ©quemment actualisÃ©e**
 
-### Donnée fraîche
-Une donnée est dite "fraîche" si elle est **récente**.
-
----
-`r icon::fa("exclamation-triangle", size = 1)` Attention aux confusions donnée froide = donnée fraîche. 
-
-Il est fréquent qu'une donnée soit récente car ses valeurs sont enregistrées férquemment dans le temps (donnée non stationnaire). Une donnée peut donc être fraîche tout en étant chaude. 
-
-`r icon::fa("lightbulb", size = 1)` Un moyen mnémotechnique pour ne pas associer systématiquement frais et froid : un plat chaud peut être réalisé avec des produits frais.
+### DonnÃ©e fraÃ®che
+Une donnÃ©e est dite "fraÃ®che" si elle est **rÃ©cente**.
 
 ---
+`r icon::fa("exclamation-triangle", size = 1)` Attention aux confusions donnÃ©e froide = donnÃ©e fraÃ®che. 
 
-## Données d'intérêt général
-Les données d'intérêt général sont des données détenues par des entreprises dont certaines modalités de réalisation impliquant un organisme public, ou la portée publique des informations, amènent une mise à disposition dans le bien public.
+Il est frÃ©quent qu'une donnÃ©e soit rÃ©cente car ses valeurs sont enregistrÃ©es fÃ©rquemment dans le temps (donnÃ©e non stationnaire). Une donnÃ©e peut donc Ãªtre fraÃ®che tout en Ã©tant chaude. 
+
+`r icon::fa("lightbulb", size = 1)` Un moyen mnÃ©motechnique pour ne pas associer systÃ©matiquement frais et froid : *un plat chaud peut Ãªtre rÃ©alisÃ© avec des produits frais*.
+
+---
+
+## DonnÃ©es d'intÃ©rÃªt gÃ©nÃ©ral
+Les donnÃ©es d'intÃ©rÃªt gÃ©nÃ©ral sont des donnÃ©es dÃ©tenues par des entreprises dont certaines modalitÃ©s de rÃ©alisation impliquant un organisme public, ou la portÃ©e publique des informations, amÃ¨nent une mise Ã  disposition dans le bien public.
 
 --
 
 Il en va ainsi :
 
-- des données issues des **délégations de service public** (art. 10) : lorsqu'un organisme public telle qu'une municipalité choisit de déléguer à une entreprise la gestion d'un service public (eau, déchets, transports.)
+- des donnÃ©es issues des **dÃ©lÃ©gations de service public** (art. 10) : lorsqu'un organisme public telle qu'une municipalitÃ© choisit de dÃ©lÃ©guer Ã  une entreprise la gestion d'un service public (eau, dÃ©chets, transports.)
 
-- des données essentielles des conventions de **subvention** (art. 11) : lorsqu'un organisme public verse une subvention supérieure à 23 000 euros, il devra désormais publier les données essentielles de la convention de subvention
+- des donnÃ©es essentielles des conventions de **subvention** (art. 11) : lorsqu'un organisme public verse une subvention supÃ©rieure Ã  23 000 euros, il devra dÃ©sormais publier les donnÃ©es essentielles de la convention de subvention
 
-- de la transmission de certaines **bases de données des entreprises pour les enquêtes de l'Insee** (art. 12) : il pourra être décidé que les entreprises transmettent directement à l'Insee les informations issues de leurs bases de données.
+- de la transmission de certaines **bases de donnÃ©es des entreprises pour les enquÃªtes de l'Insee** (art. 12) : il pourra Ãªtre dÃ©cidÃ© que les entreprises transmettent directement Ã  l'Insee les informations issues de leurs bases de donnÃ©es.
 
 <div class=reference><a href=https://www.economie.gouv.fr/republique-numerique-ouverture-donnees-d-interet-general>Consulter le texte sur economie.gouv.fr</a></div>
 
 ---
 
-## Donnée géographique
-La donnée géographique ou donnée spatiale est une donnée comportant en son sein des **références de localisation dans l'espace précises exprimées en coordonnées (pour des points) ou séries de coordonnées (pour des lignes ou des surfaces)**.
+## DonnÃ©e gÃ©ographique
+La donnÃ©e gÃ©ographique ou donnÃ©e spatiale est une donnÃ©e comportant en son sein des **rÃ©fÃ©rences de localisation dans l'espace prÃ©cises exprimÃ©es en coordonnÃ©es (pour des points) ou sÃ©ries de coordonnÃ©es (pour des lignes ou des surfaces)**.
 
-Elle se trouve souvent sous des formats spécifiques qui encodent la géométrie de l'objet, sa position de l'espace dans une grille de référence pour la Terre appelée système de projection.
+Elle se trouve souvent sous des formats spÃ©cifiques qui encodent la gÃ©omÃ©trie de l'objet, sa position de l'espace dans une grille de rÃ©fÃ©rence pour la Terre appelÃ©e systÃ¨me de projection.
 
 ---
 class: center, middle, inverse
@@ -134,41 +134,41 @@ class: center, middle, inverse
 ---
 
 ## Fichiers plats
-Un fichier plat désigne des fichiers que l'on retrouve par exemple au sein de l'explorateur Windows.
+Un fichier plat dÃ©signe des fichiers que l'on retrouve par exemple au sein de l'explorateur Windows.
 
-Un document word est un fichier plat, de même qu'un fichier PDF.
+Un document word est un fichier plat, de mÃªme qu'un fichier PDF.
 
-Les fichiers CSV sont des fichiers plats stockant des données. Ils sont très courants dans la Data.
+Les fichiers CSV sont des fichiers plats stockant des donnÃ©es. Ils sont trÃ¨s courants dans la Data.
 
 <center><img src=../images/fichier_plat.png></img></center>
 ---
 
-## Bases de données
-Quoiqu'un fichier plat puisse être qualifié une base de données, le terme "base de données" fait référence le plus souvent à une base stockée dans un **système de gestion de bases de données relationnelles**.
+## Bases de donnÃ©es
+Quoiqu'un fichier plat puisse Ãªtre qualifiÃ© une base de donnÃ©es, le terme *"base de donnÃ©es"* fait rÃ©fÃ©rence le plus souvent Ã  une base stockÃ©e dans un **systÃ¨me de gestion de bases de donnÃ©es relationnelles**.
 
-Ces bases de données sont des sortes d'entrepôts de données, auxquels on n'accède généralement pas par l'explorateur windows, mais en désignant l'adresse IP de l'ordinateur.
+Ces bases de donnÃ©es sont des sortes d'entrepÃ´ts de donnÃ©es, auxquels on n'accÃ¨de gÃ©nÃ©ralement pas par l'explorateur windows, mais en dÃ©signant l'adresse IP de l'ordinateur.
 
 --
 
 ### Les relations
 
-Ces systèmes de bases de données stockent un ensemble de tables liées entre elles par des **relations** du type "appartient à", "est compris dans".
+Ces systÃ¨mes de bases de donnÃ©es stockent un ensemble de tables liÃ©es entre elles par des **relations** du type "appartient Ã ", "est compris dans".
 
-Grâce à ce système relationnel, considérant une base contenant une table départements et une table des communes avec la population, on peut par exemple répondre à des questions du type :   
->_"Quelles sont les communes qui composent le département "Bouches-du-Rhône" et dont la population dépasse les 5 000 habitants"_
+GrÃ¢ce Ã  ce systÃ¨me relationnel, considÃ©rant une base contenant une table dÃ©partements et une table des communes avec la population, on peut par exemple rÃ©pondre Ã  des questions du type :   
+>_"Quelles sont les communes qui composent le dÃ©partement "Bouches-du-RhÃ´ne" et dont la population dÃ©passe les 5 000 habitants"_
 
 ---
 
 ## API, interfaces de programmation
-Les API sont des **modes d'accès web** aux données principalement utilisés par les développeurs pour accéder au contenu de jeux de données.
+Les API sont des **modes d'accÃ¨s web** aux donnÃ©es principalement utilisÃ©s par les dÃ©veloppeurs pour accÃ©der au contenu de jeux de donnÃ©es.
 
-Si l'on utilise généralement une URL (adresse web) pour accéder à une page web, avec les API, on utilise une URL afin d'accéder à des données.
+Si l'on utilise gÃ©nÃ©ralement une URL (adresse web) pour accÃ©der Ã  une page web, avec les API, on utilise une URL afin d'accÃ©der Ã  des donnÃ©es.
 
-Voici un exemple de requête de l'API [geo.api.gouv.fr](https://geo.api.gouv.fr/) :
+Voici un exemple de requÃªte de l'API [geo.api.gouv.fr](https://geo.api.gouv.fr/) :
 
 https://geo.api.gouv.fr/communes?nom=Marseille&fields=departement&boost=population
 
-Celle-ci permet de récupérer les communes par leur nom en les priorisant par population.
+Celle-ci permet de rÃ©cupÃ©rer les communes par leur nom en les priorisant par population.
 
 ---
 class: center, middle, inverse
@@ -180,7 +180,7 @@ class: center, middle, inverse
 ---
 class: center, middle, inverse
 
-# Citez quelques formats que vous connaissez. Lesquels vous semblent être des formats de données ?
+# Citez quelques formats que vous connaissez. Lesquels vous semblent Ãªtre des formats de donnÃ©es ?
 
 ---
 ## Formats courants
@@ -189,45 +189,45 @@ class: center, middle, inverse
 <img src=https://5stardata.info/../images/5-star-steps.png width=50%></img>
 </center>
 
-Tim Berners-Lee, le créateur d'Internet, a établi cette classification des données pour l'OpenData.
+Tim Berners-Lee, le crÃ©ateur d'Internet, a Ã©tabli cette classification des donnÃ©es pour l'OpenData.
 
 --
-- En bas de l'échelle se situe le format **PDF** qui n'est pas exploitable par les outils statistiques.  
+- En bas de l'Ã©chelle se situe le format **PDF** qui n'est pas exploitable par les outils statistiques.  
 
 --
-- Au milieu se situe le **CSV** qui a la préférence, actuellement des producteurs et utilisateurs par sa simplicité.
+- Au milieu se situe le **CSV** qui a la prÃ©fÃ©rence, actuellement des producteurs et utilisateurs par sa simplicitÃ©.
 
 --
-- Tout en haut se situent des formats **sémantiques** qui structurent et lient l'information avec d'autres fichiers.
+- Tout en haut se situent des formats **sÃ©mantiques** qui structurent et lient l'information avec d'autres fichiers.
 
 ---
 
-## Formats spécifiques
-Il existe des formats spécifiques pour certaines données.
+## Formats spÃ©cifiques
+Il existe des formats spÃ©cifiques pour certaines donnÃ©es.
 
-Les données **géographiques**, aussi appelées données **spatiales** ou **spatialisées**, sont souvent présentes au format ESRI Shapefile ou GeoJSON (format plus contemporain). Ces fichiers se terminent pour le premier avec l'extension .shp, pour le second avec .geojson
+Les donnÃ©es **gÃ©ographiques**, aussi appelÃ©es donnÃ©es **spatiales** ou **spatialisÃ©es**, sont souvent prÃ©sentes au format ESRI Shapefile ou GeoJSON (format plus contemporain). Ces fichiers se terminent pour le premier avec l'extension .shp, pour le second avec .geojson
 
 ![](../images/shp.png)
 
-On a coutume de dire qu'une grande majorité des données (certains disent 80%, d'autres plus) des peuvent être spatialisées, soit référencées dans l'espace.
+On a coutume de dire qu'une grande majoritÃ© des donnÃ©es (certains disent 80%, d'autres plus) peuvent Ãªtre spatialisÃ©es, soit rÃ©fÃ©rencÃ©es dans l'espace.
 
 ---
 
-## Formats retournés par les APIs
+## Formats retournÃ©s par les APIs
 
-Lors d'utilisation d'API, la donnée est en général fournie, soit au format XML, soit au format JSON. Ces deux formats ont des modes de structuration de l'information différents.
+Lors d'utilisation d'API, la donnÃ©e est en gÃ©nÃ©ral fournie, soit au format XML, soit au format JSON. Ces deux formats ont des modes de structuration de l'information diffÃ©rents.
 
-Voici le résultat de la [requête précédente](https://geo.api.gouv.fr/communes?nom=Marseille&fields=departement&boost=population), fournie à l'API geo.api.gouv.fr :
+Voici le rÃ©sultat de la [requÃªte prÃ©cÃ©dente](https://geo.api.gouv.fr/communes?nom=Marseille&fields=departement&boost=population), fournie Ã  l'API geo.api.gouv.fr :
 ```yaml
-[{"nom":"Marseille","code":"13055","_score":5.63262510030279,"departement":{"code":"13","nom":"Bouches-du-Rhône"}},{"nom":"Marseillette","code":"11220","_score":0.5751507250536875,"departement":{"code":"11","nom":"Aude"}},{"nom":"Marseilles-lès-Aubigny","code":"18139","_score":0.4412954999051704,"departement":{"code":"18","nom":"Cher"}},{"nom":"Marseille-en-Beauvaisis","code":"60387","_score":0.4050500679760991,"departement":{"code":"60","nom":"Oise"}}]
+[{"nom":"Marseille","code":"13055","_score":5.63262510030279,"departement":{"code":"13","nom":"Bouches-du-RhÃ´ne"}},{"nom":"Marseillette","code":"11220","_score":0.5751507250536875,"departement":{"code":"11","nom":"Aude"}},{"nom":"Marseilles-lÃ¨s-Aubigny","code":"18139","_score":0.4412954999051704,"departement":{"code":"18","nom":"Cher"}},{"nom":"Marseille-en-Beauvaisis","code":"60387","_score":0.4050500679760991,"departement":{"code":"60","nom":"Oise"}}]
 ```
 
-Voici une donnée au format GeoJSON, décrivant l'[emplacement des établissements d'enseignement supérieurs publics en PACA](https://trouver.datasud.fr/dataset/664ba7ee-3267-4f68-9d0f-9593e5863e41/resource/04c07049-3017-4568-9330-dba872836eb4/download/fr-esr-implantations_etablissements_d_enseignement_superieur_publics.geojson).
+Voici une donnÃ©e au format GeoJSON, dÃ©crivant l'[emplacement des Ã©tablissements d'enseignement supÃ©rieurs publics en PACA](https://trouver.datasud.fr/dataset/664ba7ee-3267-4f68-9d0f-9593e5863e41/resource/04c07049-3017-4568-9330-dba872836eb4/download/fr-esr-implantations_etablissements_d_enseignement_superieur_publics.geojson).
 
 ---
 
 ## Les archives zips
-Il est assez fréquent que les données soient téléchargeables sous forme de zip. Le zip est une archive qui comprend généralement plusieurs jeux de données, ou un jeu de données et sa documentation.
+Il est assez frÃ©quent que les donnÃ©es soient tÃ©lÃ©chargeables sous forme de zip. Le zip est une archive qui comprend gÃ©nÃ©ralement plusieurs jeux de donnÃ©es, ou un jeu de donnÃ©es et sa documentation.
 
 ---
 class: center, middle, inverse
@@ -240,14 +240,14 @@ class: center, middle, inverse
 class: center, middle
 
 # Peut-on partager et reproduire gratuitement de la musique ou des films ? Pourquoi ?
-# Connaissez-vous des oeuvres que l'on peut télécharger et exploiter librement ?
+# Connaissez-vous des oeuvres que l'on peut tÃ©lÃ©charger et exploiter librement ?
 
 ---
-## De la fermeture au partage, du partage à l'ouverture
+## De la fermeture au partage, du partage Ã  l'ouverture
 
 <center><img src=https://cdn-images-1.medium.com/max/800/0*KKPQQcKHTkltrl_L></img></center>
 
-<div class=reference><a href=https://medium.com/datactivist/ouvrir-ce-nest-pas-juste-partager-des-donn%C3%A9es-simple-basique-ec87d762f2a2>Article "Ouvrir, ce n'est pas juste partager des données : simple, basique"</a></div>
+<div class=reference><a href=https://medium.com/datactivist/ouvrir-ce-nest-pas-juste-partager-des-donn%C3%A9es-simple-basique-ec87d762f2a2>Article "Ouvrir, ce n'est pas juste partager des donnÃ©es : simple, basique"</a></div>
 ---
 
 ## licence ouverte
@@ -256,20 +256,20 @@ class: center, middle
 <img src=https://www.etalab.gouv.fr/wp-content/uploads/2011/10/licence-ouverte-open-licence.gif width=50%></img>
 </center>
 
-La licence ouverte est dite « permissive » en ce qu'elle n'impose au réutilisateur que de **mentionner la source et le millésime de l'information publique**. 
+La licence ouverte est dite Â« permissive Â» en ce qu'elle n'impose au rÃ©utilisateur que de **mentionner la source et le millÃ©sime de l'information publique**. 
 
-L'utilisateur est donc totalement libre de créer une oeuvre dérivée ou plus simplement de rediffuser, y compris à titre **commercial**
+L'utilisateur est donc totalement libre de crÃ©er une oeuvre dÃ©rivÃ©e ou plus simplement de rediffuser, y compris Ã  titre **commercial**
 
 La [licence Etalab](https://www.etalab.gouv.fr/licence-ouverte-open-licence) est une licence ouverte.
 
 ---
 
 ## licence ODbL (Open Database licence)
-La licence ODbL impose notamment à l'utilisateur de **repartager (« share alike ») à l'identique** les bases de données dérivées de l'information publique. 
+La licence ODbL impose notamment Ã  l'utilisateur de **repartager (Â« share alike Â») Ã  l'identique** les bases de donnÃ©es dÃ©rivÃ©es de l'information publique. 
 
-La mise à disposition au public d'une donnée ODbL modifiée doit se faire sous licence ODbL ou compatible. C'est pourquoi on dit que la licence ODbL a un effet « **contaminant** ». 
+La mise Ã  disposition au public d'une donnÃ©e ODbL modifiÃ©e doit se faire sous licence ODbL ou compatible. C'est pourquoi on dit que la licence ODbL a un effet Â« **contaminant** Â». 
 
-La licence ODbL est comparable à la licence CC-BY-SA (Creative Commons, Paternité (BY), Share Alike)
+La licence ODbL est comparable Ã  la licence CC-BY-SA (Creative Commons, PaternitÃ© (BY), Share Alike)
 
 <center>
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/CC-BY-SA_icon.svg/320px-CC-BY-SA_icon.svg.png width=30%></img>
@@ -281,13 +281,15 @@ La licence ODbL est comparable à la licence CC-BY-SA (Creative Commons, Paternit
 
 Prenons un exemple :
 
-Actuellement, l'IGN diffuse à des tiers de façon payante<sup>*</sup> sa carte des bâtis (maisons, immeubles,...). Ces données sont donc propriétaires. 
+Actuellement, l'IGN diffuse Ã  des tiers de faÃ§on payante<sup>*</sup> sa carte des bÃ¢tis (maisons, immeubles,...). Ces donnÃ©es sont donc propriÃ©taires. 
 
-Les données OpenStreetMap sont très riches et des utilisateurs agrémentent fréquemment la carte avec de nouveaux bâtiments. Les données OSM sont en licence ODbL
+Les donnÃ©es OpenStreetMap sont trÃ¨s riches et des utilisateurs agrÃ©mentent frÃ©quemment la carte avec de nouveaux bÃ¢timents. Les donnÃ©es OSM sont en licence ODbL
 
-Si l'IGN souhaite agrémenter son relevé des emprises des bâtiments en intégrant pour partie des données issues d'OpenStreetMap, il devra reverser en retour l'intégralité de sa base sous les conditions de diffusion d'OSM, soit sous la même licence ODbL.
+Si l'IGN souhaite agrÃ©menter son relevÃ© des emprises des bÃ¢timents en intÃ©grant pour partie des donnÃ©es issues d'OpenStreetMap, il devra reverser en retour l'intÃ©gralitÃ© de sa base sous les conditions de diffusion d'OSM, soit sous la mÃªme licence ODbL.
 
-Les données IGN seraient couvertes de facto par la licence ODbL.
+Les donnÃ©es IGN seraient couvertes de facto par la licence ODbL.
+
+`r icon::fa("question", size = 1)` Et si Google Maps intÃ©grait des donnÃ©es issues d'OSM, quel impact cela pourrait-il avoir ?
 
 .footer-note[[*] Sauf pour les institutions publiques]
 ---
@@ -296,102 +298,103 @@ class: center, middle, inverse
 
 `r icon::fa("table", size = 3)` 
 
-### Quand on ouvre un fichier de données, on découvre dedans une structure rigoureuse, tabulaire avec des valeurs de différents types
+### Quand on ouvre un fichier de donnÃ©es, on dÃ©couvre dedans une structure rigoureuse, tabulaire avec des valeurs de diffÃ©rents types
 
 <!-- <center><img src=../images/exemple_tableau.png width=50%></img></center> -->
 ---
-## Structure d'un fichier de données
-Un fichier de données est organisé en **lignes** et en **colonnes.**
+## Structure d'un fichier de donnÃ©es
+Un fichier de donnÃ©es est organisÃ© en **lignes** et en **colonnes.**
 
-En général, les lignes concernent les individus et les colonnes leurs variables, individu étant ici compris au sens statistique d'entité.
+En gÃ©nÃ©ral, les lignes concernent les individus et les colonnes leurs variables, individu Ã©tant ici compris au sens statistique d'entitÃ©.
 
-Par exemple, dans un fichier de population, je pourrais avoir en ligne chaque commune, et en colonnes son nom, son code INSEE, son département, et sa population.
+Par exemple, dans un fichier de population, je pourrais avoir en ligne chaque commune, et en colonnes son nom, son code INSEE, son dÃ©partement, et sa population.
 
-| Nom        | Code INSEE | Département          | Population  |
+| Nom        | Code INSEE | DÃ©partement          | Population  |
 | ------------- |:-------------:|:-------------:| -----:|
-| Aix-en-Provence      | 13090 |Bouches-du-Rhône| 141438 |
-| Marseille      | 13055      |Bouches-du-Rhône|   850726 |
+| Aix-en-Provence      | 13090 |Bouches-du-RhÃ´ne| 141438 |
+| Marseille      | 13055      |Bouches-du-RhÃ´ne|   850726 |
 | Nice | 06088      |Alpes-Maritimes|    343304 |
 
 ---
 ### Au sujet des colonnes
-Les colonnes d'un tableau peuvent porter d'autres dénominations :
+Les colonnes d'un tableau peuvent porter d'autres dÃ©nominations :
 
 - champs
 - attributs
 - variables
-- caractéristiques
-- voire même dimensions
+- caractÃ©ristiques
+- voire mÃªme dimensions
 
 ---
-## Les différents types de valeurs
+## Les diffÃ©rents types de valeurs
 
-### Valeurs numériques
-Les valeurs numériques peuvent être *entières* ou *flottantes* (avec des virgules) et se réfèrent à des quantités, des niveaux, des pourcentages.
-
---
-- Elles peuvent être *continues* ou *discrètes* (de 0 à 50, de 50 à 100).
+### Valeurs numÃ©riques
+Les valeurs numÃ©riques peuvent Ãªtre *entiÃ¨res* ou *flottantes* (avec des virgules) et se rÃ©fÃ¨rent Ã  des quantitÃ©s, des niveaux, des pourcentages.
 
 --
-
-- Elles peuvent se référer à des *classes* et être *ordonnées* (comme un indicateur de qualité de 1 à 5).
+- Elles peuvent Ãªtre *continues* ou *discrÃ¨tes* (de 0 Ã  50, de 50 Ã  100).
 
 --
 
-La population, dans l'exemple précédent, est une valeur numérique.
+- Elles peuvent se rÃ©fÃ©rer Ã  des *classes* et Ãªtre *ordonnÃ©es* (comme un indicateur de qualitÃ© de 1 Ã  5).
+
+--
+
+La population, dans l'exemple prÃ©cÃ©dent, est une valeur numÃ©rique.
 
 ---
 
-### Valeurs alpha-numériques
-Les valeurs alpha-numériques se réfèrent à des **chaînes de caractères (soit des suites de lettres)**. 
+### Valeurs alpha-numÃ©riques
+Les valeurs alpha-numÃ©riques se rÃ©fÃ¨rent Ã  des **chaÃ®nes de caractÃ¨res (soit des suites de lettres)**. 
 
-Dans l'exemple ci-dessus, Aix-en-Provence est une chaîne de caractères.
+Dans l'exemple ci-dessus, Aix-en-Provence est une chaÃ®ne de caractÃ¨res.
 
-Elles peuvent comprendre en leur sein des chiffres (comme une adresse). Le code INSEE est un cas assez particulier de chaînes de caractères. `06088` qui est le code INSEE de Nice n'a rien à voir avec `6088` par exemple. Il serait problématique de le code INSEE soit considéré comme une quantité.
+Elles peuvent comprendre en leur sein des chiffres (comme une adresse). Le code INSEE est un cas assez particulier de chaÃ®nes de caractÃ¨res. `06088` qui est le code INSEE de Nice n'a rien Ã  voir avec `6088` par exemple. Il serait problÃ©matique de le code INSEE soit considÃ©rÃ© comme une quantitÃ©.
 
-Les valeurs alpha-numériques peuvent être **catégorielles**, soit se référer à des classes, comme dans l'exemple ci-dessus le nom du département (classes Bouches-du-Rhône ou Alpes-Maritimes).
+Les valeurs alpha-numÃ©riques peuvent Ãªtre **catÃ©gorielles**, soit se rÃ©fÃ©rer Ã  des classes, comme dans l'exemple ci-dessus le nom du dÃ©partement (classes Bouches-du-RhÃ´ne ou Alpes-Maritimes).
 
 ---
 
-## Standards de données
+## Standards de donnÃ©es
 
-Les standards de données définissent la façon dont les données doivent être structurées.
+Les standards de donnÃ©es dÃ©finissent la faÃ§on dont les donnÃ©es doivent Ãªtre structurÃ©es.
 
-Le standard se réfère aux champs de la données. Il en donne le nom, le type (numérique, alpha-numérique, date,...). et la description
+Le standard se rÃ©fÃ¨re aux champs de la donnÃ©es. Il en donne le nom, le type (numÃ©rique, alpha-numÃ©rique, date,...). et la description
 
-Par exemple, pour le tableau de population par ville, le standard de données serait le suivant :
+Par exemple, pour le tableau de population par ville, le standard de donnÃ©es serait le suivant :
 
 | Champ        | Type | Longueur          | Description  |
 | ------------- |:-------------:|:-------------:| -----:|
-| Nom      | alpha-numérique |255 (maximale)| Nom de la commune |
-| Code INSEE      | alpha-numérique      |5|   Code de la commune, au sens de l'INSEE |
-| Département | alpha-numérique      |255 (maximale)|    Nom du département |
-| Population | numérique      |par exemple, 6|    Nombre d'habitants de la commune |
+| Nom      | alpha-numÃ©rique |255 (maximale)| Nom de la commune |
+| Code INSEE      | alpha-numÃ©rique      |5|   Code de la commune, au sens de l'INSEE |
+| DÃ©partement | alpha-numÃ©rique      |255 (maximale)|    Nom du dÃ©partement |
+| Population | numÃ©rique      |par exemple, 6|    Nombre d'habitants de la commune |
 
 ---
 
 Voici un exemple de sites proposant des standards :
 
-- [Standards du Conseil National de l'Information Géographique](http://cnig.gouv.fr/?page_id=18959)
+- [Standards du Conseil National de l'Information GÃ©ographique](http://cnig.gouv.fr/?page_id=18959)
+- [schema.data.gouv.fr](https://schema.data.gouv.fr/)
 - [schema.org](https://schema.org/)
 - [sharedstreets, ou les standards selon Fort, Uber et Lyft](https://github.com/sharedstreets/sharedstreets-ref-system)
 
 ---
 class: middle, center
 
-# Quel genre d'identifiants possédez-vous ou connaissez-vous ? A quoi servent-ils à votre avis ?
+# Quel genre d'identifiants possÃ©dez-vous ou connaissez-vous ? A quoi servent-ils Ã  votre avis ?
 
 ---
 
 ## Identifiants et cryptage
 ### Identifiants
-Si dans un fichier des impôts, j'ai deux individus qui s'appellent Jean Dupont, cela sera problématique.
+Si dans un fichier des impÃ´ts, j'ai deux individus qui s'appellent Jean Dupont, cela sera problÃ©matique.
 
-C'est pourquoi il est fréquent d'attribuer à des personnes, voire des objets un identifiant unique qui permettra de le **dissocier** des autres et alléger les bases de données.
+C'est pourquoi il est frÃ©quent d'attribuer Ã  des personnes, voire des objets un identifiant unique qui permettra de le **dissocier** des autres et allÃ©ger les bases de donnÃ©es.
 
-Ainsi, les deux Jean Dupont apparaîtront comme ceci dans le fichier :
+Ainsi, les deux Jean Dupont apparaÃ®tront comme ceci dans le fichier :
 
-| Identifiant  |  Prénom |  Nom |
+| Identifiant  |  PrÃ©nom |  Nom |
 |---|---|---|
 |  1 |  Jean  | Dupont  |   
 |   2|  Jean | Dupont |    
@@ -400,60 +403,60 @@ Ainsi, les deux Jean Dupont apparaîtront comme ceci dans le fichier :
 
 Comme exemple d'identifiant, on peut trouver :
 
-- le code client chez un fournisseur d'électricité ou un assureur
+- le code client chez un fournisseur d'Ã©lectricitÃ© ou un assureur
 - l'adresse IP de votre ordinateur
 
 ---
 
-### Clés primaires et clés étrangères
+### ClÃ©s primaires et clÃ©s Ã©trangÃ¨res
 
-Les **identifiants** constituent généralement les clés primaires d'une donnée.
+Les **identifiants** constituent gÃ©nÃ©ralement les clÃ©s primaires d'une donnÃ©e.
 
-D'autres données auxiliaires pourront se référer à la donnée grâce à cette clé primaire en intégrant une clé étrangère qui y fait référence.
+D'autres donnÃ©es auxiliaires pourront se rÃ©fÃ©rer Ã  la donnÃ©e grÃ¢ce Ã  cette clÃ© primaire en intÃ©grant une clÃ© Ã©trangÃ¨re qui y fait rÃ©fÃ©rence.
 
-Ainsi, imaginons un fichier sport sur les préférences sportives des Jean Dupont. Il pourra avoir cette forme :
+Ainsi, imaginons un fichier sport sur les prÃ©fÃ©rences sportives des Jean Dupont. Il pourra avoir cette forme :
 
 | Identifiant  |  Sport |
 |---|---|---|
-|  1 |  Pétanque  | 
+|  1 |  PÃ©tanque  | 
 |   2|  Curling | 
 
-Ce qui, on voit, évite, d'avoir une rendondance des données avec un fichier sport du type :
+Ce qui, on voit, Ã©vite, d'avoir une rendondance des donnÃ©es avec un fichier sport du type :
 
-| Identifiant  |  Prénom |  Nom | Sport |
+| Identifiant  |  PrÃ©nom |  Nom | Sport |
 |---|---|---|---|
-|  1 |  Jean  | Dupont  | Pétanque
+|  1 |  Jean  | Dupont  | PÃ©tanque
 |   2|  Jean | Dupont | Curling
 
 ---
 
-Implicitement, ce genre de lien s'opère entre les deux tableaux (ou plutôt tables, pour faire pro) de données :
+Implicitement, ce genre de lien s'opÃ¨re entre les deux tableaux (ou plutÃ´t tables, pour faire pro) de donnÃ©es :
 
 <center><img src=../images/relations.png width=50%></img></center>
 
 --
-Ce lien s'appelle une _relation_. Dans la première table, l'identifiant constitue une clé primaire, et dans la seconde, une clé étrangère.
+Ce lien s'appelle une _relation_. Dans la premiÃ¨re table, l'identifiant constitue une clÃ© primaire, et dans la seconde, une clÃ© Ã©trangÃ¨re.
 
-C'est sur des tables et des relations inter-tables que s'appuient les systèmes de gestion de bases de données relationnalles (SGBDR) cités plus haut.
+C'est sur des tables et des relations inter-tables que s'appuient les systÃ¨mes de gestion de bases de donnÃ©es relationnalles (SGBDR) citÃ©s plus haut.
 
 
 ---
 ### Anonymisation et cryptage
 
-Les **identifiants** sont utiles lorsqu'on veut anonymiser une donnée car si je fournis à une personne le fichier suivant :
+Les **identifiants** sont utiles lorsqu'on veut anonymiser une donnÃ©e car si je fournis Ã  une personne le fichier suivant :
 
 | Identifiant  |  Sport |
 |---|---|---|
-|  1 |  Pétanque  | 
+|  1 |  PÃ©tanque  | 
 |   2|  Curling | 
 
-, il ne pourra pas savoir a priori que ces préférences sportives concernent nos Jean Dupont.
+, il ne pourra pas savoir a priori que ces prÃ©fÃ©rences sportives concernent nos Jean Dupont.
 
-Cela dit, on peut intégrer l'identité d'individus à un fichier tout en respectant leur anonymat en utilisant des processus de **cryptage**.
+Cela dit, on peut intÃ©grer l'identitÃ© d'individus Ã  un fichier tout en respectant leur anonymat en utilisant des processus de **cryptage**.
 
 | Individu  |  Sport |
 |---|---|
-|e9bffc77d9075a18b17b31431eb75348 |  Pétanque  | 
+|e9bffc77d9075a18b17b31431eb75348 |  PÃ©tanque  | 
 |a906c53ea73598b2ca926eaea919c516|  Curling |
 
-Dans ce cas, seul un logiciel de décryptage permettra de retrouver l'identité de nos individus.
+Dans ce cas, seul un logiciel de dÃ©cryptage permettra de retrouver l'identitÃ© de nos individus.

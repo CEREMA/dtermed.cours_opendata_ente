@@ -20,15 +20,15 @@ class: center, middle, inverse
 
 ---
 ## Au quoditien
-Notre quotidien est baigné par les données.
+Notre quotidien est baignÃ© par les donnÃ©es.
 
 --
 
-- Dans la sphère intime, notre consommation énergétique est transmise à notre fournisseur d'électricité, nos revenus sont déclarés sur des feuilles d'imposition. Nous donnons des informations personnelles via les mails que nous échangeons, recevons. Des données transitent au sujet des achats que nous réalisons sur Internet et sur le montant et la nature de nos transactions bancaires.
+- Dans la sphÃ¨re *intime*, notre consommation Ã©nergÃ©tique est transmise Ã  notre fournisseur d'Ã©lectricitÃ©, nos revenus sont dÃ©clarÃ©s sur des feuilles d'imposition. Nous donnons des informations personnelles via les mails que nous Ã©changeons, recevons. Des donnÃ©es transitent au sujet des achats que nous rÃ©alisons sur Internet et sur le montant et la nature de nos transactions bancaires.
 
 --
 
-- Dans la spère professionnelle, nous échangeons des courriels, exploitons des documents, des tableaux, remplissons des formulaires sur applications web métier.
+- Dans la spÃ¨re *professionnelle*, nous Ã©changeons des courriels, exploitons des documents, des tableaux, remplissons des formulaires sur applications web mÃ©tier.
 
 ---
 class: center, middle
@@ -50,17 +50,17 @@ width: 65%
 }
 </style>
 
-## Étymologie, racines
-<!--[Image de César]-->
+## Ã‰tymologie, racines
+<!--[Image de CÃ©sar]-->
 .pull-left[
 <center><img src=https://idalab.de/wp-content/uploads/1_Euclid_Data_BnF.jpeg width=80%></img></center>
 ]
 
 .pull-right[
-> L'un des premiers usages scientifiques connus du terme « data » (issu du verbe latin « dare » : donner) remonte au IIIe siècle avant J.-C. dans un traité de mathématiques d'Euclide où il était démontré des propriétés géométriques « étant donné » d'autres propriétés géométriques - autrement dit des axiomes. Son sens a ensuite évolué en deux branches. D'une part, il a donné le mot « date », que l'on retrouve dans des documents médiévaux officiels pour signifier le « moment » où ceux-ci ont été produits ; d'autre part, à compter du XVIIe siècle, le sens de « données » en référence à des « principes acceptés de tous », par l'intermédiaire du divin en théologie, puis par l'expérimentation en mathématiques.
+> L'un des premiers usages scientifiques connus du terme Â« data Â» (issu du verbe latin Â« dare Â» : donner) remonte au IIIe siÃ¨cle avant J.-C. dans un traitÃ© de mathÃ©matiques d'Euclide oÃ¹ il Ã©tait dÃ©montrÃ© des propriÃ©tÃ©s gÃ©omÃ©triques Â« Ã©tant donnÃ© Â» d'autres propriÃ©tÃ©s gÃ©omÃ©triques - autrement dit des axiomes. Son sens a ensuite Ã©voluÃ© en deux branches. D'une part, il a donnÃ© le mot Â« date Â», que l'on retrouve dans des documents mÃ©diÃ©vaux officiels pour signifier le Â« moment Â» oÃ¹ ceux-ci ont Ã©tÃ© produits ; d'autre part, Ã  compter du XVIIe siÃ¨cle, le sens de Â« donnÃ©es Â» en rÃ©fÃ©rence Ã  des Â« principes acceptÃ©s de tous Â», par l'intermÃ©diaire du divin en thÃ©ologie, puis par l'expÃ©rimentation en mathÃ©matiques.
 <div class=reference><a href=https://business-analytics-info.fr/11666/histoire-sciences-data/>Histoire des sciences de la Data</a></div>
 
-On retrouve dans la définition des data un caractère **"gratuit"** et immédiat, ainsi que d'objectivité et de **factualité**.
+On retrouve dans la dÃ©finition des data un caractÃ¨re **"gratuit"** et immÃ©diat, ainsi que d'objectivitÃ© et de **factualitÃ©**.
 ]
 
 <!--ADN arctique, conservation  -->
@@ -68,16 +68,16 @@ On retrouve dans la définition des data un caractère **"gratuit"** et immédiat, 
 ---
 layout: false
 
-## A quoi ressemble une donnée ?
+## A quoi ressemble une donnÃ©e ?
 
-Une spécialiste de la donnée en donne une description assez originale :
->Il s'agit d'une masse abstraite de nombres, sans poids et non identifiée (la plupart du temps encodée numériquement), ayant une influence puissante sur nos vies.
+Une spÃ©cialiste de la donnÃ©e en donne une description assez originale :
+>Il s'agit d'une masse abstraite de nombres, sans poids et non identifiÃ©e (la plupart du temps encodÃ©e numÃ©riquement), ayant une influence puissante sur nos vies.
 
-Concrètement, ces données nous apparaissent structurées au travers de tableaux, de tables de données.
+ConcrÃ¨tement, ces donnÃ©es nous apparaissent structurÃ©es au travers de tableaux, de tables de donnÃ©es.
 
 ---
 
-Voici quelques exemples visuels de données :
+Voici quelques exemples visuels de donnÃ©es :
 
 <center><img src=../images/ods.png width=36%></img></center>
 <center><img src=../images/csv.png width=80%></img></center>
@@ -92,13 +92,13 @@ class: center, middle
 
 ## Naissance de la data 
 
-- En premier lieu était **la transmission orale** des connaissances
+- En premier lieu Ã©tait **la transmission orale** des connaissances
 
 <center><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Homo_floresiensis_cave.jpg/640px-Homo_floresiensis_cave.jpg></img></center>
 
 ---
 
-- Puis vint l'**écriture**  
+- Puis vint l'**Ã©criture**  
 <!--[premier alphabet]
 https://fr.wikipedia.org/wiki/%C3%89criture
 https://www.lemonde.fr/archeologie/article/2017/08/29/les-mesopotamiens-as-de-la-trigonometrie_5177828_1650751.html-->
@@ -107,14 +107,14 @@ https://www.lemonde.fr/archeologie/article/2017/08/29/les-mesopotamiens-as-de-la
 
 ---
 
-- L'**imprimerie**, née avec Gutenberg, qui permit de reproduire et, ainsi, de favoriser la diffusion des écrits
+- L'**imprimerie**, nÃ©e avec Gutenberg, qui permit de reproduire et, ainsi, de favoriser la diffusion des Ã©crits
 <!-- https://www.google.fr/search?q=arriv%C3%A9e+imprimerie+gutenberg&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjt38rK86XcAhXLDOwKHVPtAxEQ_AUICygC&biw=1680&bih=917 -->
 
 <center><img src=https://1.bp.blogspot.com/-QgcKsMQ5X4A/VBV9xchLXHI/AAAAAAABKhU/iNLka6dK-wI/s1600/Tableau%2Bd%27histoire%2BCE%2B15%2BL%27atelier%2Bde%2BGutenberg.JPG width=70%></img></center>
 
 ---
 
-- Le **numérique** a permis, quant à lui, de confier le stockage et l'interprétation des savoirs à des machines. 
+- Le **numÃ©rique** a permis, quant Ã  lui, de confier le stockage et l'interprÃ©tation des savoirs Ã  des machines. 
 
 <!-- <center><img src=https://upload.wikimedia.org/wikipedia/commons/c/ca/AVIDAC_--_First_Argonne_Computer_%281953%29.jpg width=50%></img></center> -->
 
@@ -122,7 +122,7 @@ https://www.lemonde.fr/archeologie/article/2017/08/29/les-mesopotamiens-as-de-la
 
 ---
 
-- **Internet** et la corrélation des savoirs, qu'illustre le web (*toile* en français), sont nées de cette révolution technologique.  
+- **Internet** et la corrÃ©lation des savoirs, qu'illustre le web (*toile* en franÃ§ais), sont nÃ©es de cette rÃ©volution technologique.  
 <!-- https://royal.pingdom.com/2008/04/08/the-history-of-computer-data-storage-in-pictures/ -->
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/jurvetson/916142" title="Internet Splat Map"><img src="https://farm1.staticflickr.com/1/916142_ddc2fd0140.jpg" width="500" height="375" alt="Internet Splat Map"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
@@ -135,9 +135,9 @@ class: center, middle, inverse
 ---
 class: center, middle
 
-# Dans quoi sont stockées les données ?
+# Dans quoi sont stockÃ©es les donnÃ©es ?
 # Par quelle voie transitent-elles ?
-# Quel élément de l'ordinateur permet de faire des calculs ?
+# Quel Ã©lÃ©ment de l'ordinateur permet de faire des calculs ?
 
 ---
 class: middle
@@ -148,35 +148,35 @@ Le courant du Big Data suit celui de l'accroissement :
 
 --
 
-- des capacités de *stockage* des données
+- des capacitÃ©s de *stockage* des donnÃ©es
 
 --
 
-- des capacités de *calcul* des ordinateurs
+- des capacitÃ©s de *calcul* des ordinateurs
 
 ---
 ## Flux
-L'accroissement des flux de données concerne par exemple celui des réseaux de téléphonie mobile, de l'internet, qui permettent tout un tas d'applications telles que la télémèdecine, l'information en temps réel pour les agriculteurs, d'autres modalités de travail (télétravail),....
+L'accroissement des flux de donnÃ©es concerne par exemple celui des rÃ©seaux de tÃ©lÃ©phonie mobile, de l'internet, qui permettent tout un tas d'applications telles que la tÃ©lÃ©mÃ¨decine, l'information en temps rÃ©el pour les agriculteurs, d'autres modalitÃ©s de travail (tÃ©lÃ©travail),....
 
-Les données circulent entre des machines soit via les airs, en particulier via les ondes via les satellites et antennes émettrices, soit via des câbles comme la fibre optique.
+Les donnÃ©es circulent entre des machines soit via les airs, en particulier via les ondes via les satellites et antennes Ã©mettrices, soit via des cÃ¢bles comme la fibre optique.
 
 <center><img src=https://upload.wikimedia.org/wikipedia/commons/e/ea/%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA_%D9%81%DB%8C%D8%A8%D8%B1_%D9%86%D9%88%D8%B1%DB%8C.jpg width=50%></img></center>
 
 ---
 
 ## Stockage
-L'augmentation du stockage des données est une des plus grandes caractéristiques du big data. Celle-ci permettra de dématérialiser de plus en plus de données, et en corollaire des procédures, telles que les déclarations d'impôt.
+L'augmentation du stockage des donnÃ©es est une des plus grandes caractÃ©ristiques du big data. Celle-ci permettra de dÃ©matÃ©rialiser de plus en plus de donnÃ©es, et en corollaire des procÃ©dures, telles que les dÃ©clarations d'impÃ´t.
 
-Les données sont stockées sur des supports tels que les disques durs, des clés USB à usage souvent personnel. Même logées dans le cloud, les données sont sur ces supports.
+Les donnÃ©es sont stockÃ©es sur des supports tels que les disques durs, des clÃ©s USB Ã  usage souvent personnel. MÃªme logÃ©es dans le cloud, les donnÃ©es sont sur ces supports.
 
 <center><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Fc-disk.jpg/640px-Fc-disk.jpg width=50%></img></center>
 
 ---
 
 ## Calcul
-Les ordinateurs sont dotés de capacités de calcul allant grandissant (loi de Moore).
+Les ordinateurs sont dotÃ©s de capacitÃ©s de calcul allant grandissant (loi de Moore).
 
-Les calculs, sur un ordinateur, sont réalisés grâce aux **processeurs**, parfois aussi grâce à la carte graphique, sur la base d'une binarisation de l'information. Ceci, en attendant l'arrivée de l'ordinateur quantique qui considèrera des états intermédiaires (ou plutôt simultanés) entre le 0 et 1.
+Les calculs, sur un ordinateur, sont rÃ©alisÃ©s grÃ¢ce aux **processeurs**, parfois aussi grÃ¢ce Ã  la carte graphique, sur la base d'une binarisation de l'information. Ceci, en attendant l'arrivÃ©e de l'ordinateur quantique qui considÃ¨rera des Ã©tats intermÃ©diaires (ou plutÃ´t simultanÃ©s) entre le 0 et 1.
 
 ---
 class: center, middle
@@ -185,21 +185,21 @@ class: center, middle
 
 ---
 
-Les **algorithmes** sont des séquences ordonnées d'opérations informatiques. Ils automatisent le traitement de masses d'information et parfois en révèlent des motifs. Certains de ces algorithmes appelés réseaux de neurones miment même le fonctionnement du cerveau humain et sont en plein développement (intelligence artificielle).
+Les **algorithmes** sont des sÃ©quences ordonnÃ©es d'opÃ©rations informatiques. Ils automatisent le traitement de masses d'information et parfois en rÃ©vÃ¨lent des motifs. Certains de ces algorithmes appelÃ©s rÃ©seaux de neurones miment mÃªme le fonctionnement du cerveau humain et sont en plein dÃ©veloppement (intelligence artificielle).
 
 <center><img src=https://www.arl.army.mil/www/articles/3179/image.1.large.jpg width=30%></img></center>
 
 ---
 class: center, middle
 
-#Quelles sont les différentes étapes de la "vie" d'un produit de consommation ?
+#Quelles sont les diffÃ©rentes Ã©tapes de la "vie" d'un produit de consommation ?
 
 ---
 
-## L'écosystème de la donnée
+## L'Ã©cosystÃ¨me de la donnÃ©e
 
-### La chaîne des données
-La chaîne des données se compose des étpaes suivantes :
+### La chaÃ®ne des donnÃ©es
+La chaÃ®ne des donnÃ©es se compose des Ã©tpaes suivantes :
 - produire
 
 --
@@ -209,55 +209,55 @@ La chaîne des données se compose des étpaes suivantes :
 - ouvrir
 
 --
-- réutiliser
+- rÃ©utiliser
 
 --
 - gouverner
 
 ---
 ### Les acteurs
-Dans l'écosystème de la donnée, on distingue plusieurs acteurs :
+Dans l'Ã©cosystÃ¨me de la donnÃ©e, on distingue plusieurs acteurs :
 
-- les **producteurs** de données qui génèrent des données, de façon active ou pas (capteurs)
-
---
-
-- les **collecteurs** qui rassemblent les données émises sur le web
+- les **producteurs** de donnÃ©es qui gÃ©nÃ¨rent des donnÃ©es, de faÃ§on active ou pas (capteurs)
 
 --
 
-- les **administrateurs** qui classent et documentent la donnée collectée
+- les **collecteurs** qui rassemblent les donnÃ©es Ã©mises sur le web
 
 --
 
-- les **réutilisateurs** qui exploitent, "font parler" les données
+- les **administrateurs** qui classent et documentent la donnÃ©e collectÃ©e
 
 --
 
-- les **contributeurs** qui, le plus souvent de leur propre fait, participent à l'alimentation d'une base de données (comme wikipedia)
+- les **rÃ©utilisateurs** qui exploitent, "font parler" les donnÃ©es
+
+--
+
+- les **contributeurs** qui, le plus souvent de leur propre fait, participent Ã  l'alimentation d'une base de donnÃ©es (comme wikipedia)
 
 ---
 class: center, middle, inverse
 
-# La Data, liant d'un monde connecté
+# La Data, liant d'un monde connectÃ©
 
 ---
 class: center, middle
 
-#Citez quelques objets connectés
+#Citez quelques objets connectÃ©s
 
 ---
-## Les objets connectés
+## Les objets connectÃ©s
 
-L'internet des objets concerne des objets du quotidien capables de transmettre, d'émettre et de réagir à des informations circulant sur le réseau internet.
+L'internet des objets concerne des objets du quotidien capables de transmettre, d'Ã©mettre et de rÃ©agir Ã  des informations circulant sur le rÃ©seau internet.
 
-Le premier usage est **domotique**, pour la maison avec le pilotage à distance de la climatisation d'un logement, la surveillance...
+Le premier usage est **domotique**, pour la maison avec le pilotage Ã  distance de la climatisation d'un logement, la surveillance...
 
 ---
 
-Il peut aussi concerner des **véhicules**, des réfrigérateurs, des objets récréatifs tels que des enceintes...
+Il peut aussi concerner des **vÃ©hicules**, des rÃ©frigÃ©rateurs, des objets rÃ©crÃ©atifs tels que des enceintes...
 
-...voire même des poupées
+...voire mÃªme des poupÃ©es
 
 [![](https://i.guim.co.uk/img/media/783fe7d61f364d4034f04b073cae77a9a4da8e7e/0_27_3300_1980/master/3300.jpg?width=620&quality=85&auto=format&usm=12&fit=max&s=d9b16e14f9d78cc200e3add177a6ab27)](https://www.theguardian.com/world/2017/feb/17/german-parents-told-to-destroy-my-friend-cayla-doll-spy-on-children)
 
@@ -269,111 +269,111 @@ Il peut aussi concerner des **véhicules**, des réfrigérateurs, des objets récréa
 
 ## La Smart City ou ville intelligente
 
-La Smart City, ou ville intelligente, est une ville dans laquelle de multiples **capteurs**, voire des **données issues des téléphones des citoyens**, remontent à un siège central des informations sur la ville : congestion routière, pollution de l'air, consommation énergétique, ...
+La Smart City, ou ville intelligente, est une ville dans laquelle de multiples **capteurs**, voire des **donnÃ©es issues des tÃ©lÃ©phones des citoyens**, remontent Ã  un siÃ¨ge central des informations sur la ville : congestion routiÃ¨re, pollution de l'air, consommation Ã©nergÃ©tique, ...
 
-On lui appose le préfixe smart car elle est censée s'adosser, pour diriger ses opérations, sur la **synthèse de données** factuelles variées, présentes en très grand nombre.
+On lui appose le prÃ©fixe *smart* car elle est censÃ©e s'adosser, pour diriger ses opÃ©rations, sur la **synthÃ¨se de donnÃ©es** factuelles variÃ©es, prÃ©sentes en trÃ¨s grand nombre.
 
-L'objet de la Smart City est de créer une cité harmonieuse quasiment autogérée par les algorithmes et les données captées et émises par le réseau.
-
----
-
-<center><img src=https://www.fournisseurs-electricite.com/sites/fournisseurs-electricite.com/files/images/compteur-elec-linky.png></img></center>
-
-Le compteur Linky peut être considéré comme une brique possible de la smart city puisque ce dernier est un élément des *smart grids*, réseaux d'électricité capables de réguler localement le débit d'électricité en fonction de l'état des différents noeuds du réseau.
+L'objet de la Smart City est de crÃ©er une citÃ© harmonieuse quasiment autogÃ©rÃ©e par les algorithmes et les donnÃ©es captÃ©es et Ã©mises par le rÃ©seau.
 
 ---
 
-Pour certains, Smart City rime aussi avec *Big Brother*, notamment vidéosurveillance et sécurité publique. Les images peuvent être interprétées par des ordinateurs afin d'identifier des attroupements mais aussi des individus. 
+<center><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Compteur_Linky_tout_juste_install%C3%A9_%28France%29.jpg/450px-Compteur_Linky_tout_juste_install%C3%A9_%28France%29.jpg></img></center>
 
-`r icon::fa("readme", size = 1)` [Article de la Quadrature du Net : "La Smart City policière se répand comme une traînée de poudre"](https://www.laquadrature.net/fr/nice-smart-city-surveillance)
+Le compteur Linky peut Ãªtre considÃ©rÃ© comme une brique possible de la smart city puisque ce dernier est un Ã©lÃ©ment des *smart grids*, rÃ©seaux d'Ã©lectricitÃ© capables de rÃ©guler localement le dÃ©bit d'Ã©lectricitÃ© en fonction de l'Ã©tat des diffÃ©rents noeuds du rÃ©seau.
 
-`r icon::fa("readme", size = 1)` [Reconnaissance faciale en Chine, réalisée par une startup de Shanghai :](https://www.technologyreview.com/s/611815/who-needs-democracy-when-you-have-data/)
+---
+
+Pour certains, Smart City rime aussi avec *Big Brother*, notamment vidÃ©osurveillance et sÃ©curitÃ© publique. Les images peuvent Ãªtre interprÃ©tÃ©es par des ordinateurs afin d'identifier des attroupements mais aussi des individus. 
+
+`r icon::fa("readme", size = 1)` [Article de la Quadrature du Net : "La Smart City policiÃ¨re se rÃ©pand comme une traÃ®nÃ©e de poudre"](https://www.laquadrature.net/fr/nice-smart-city-surveillance)
+
+`r icon::fa("readme", size = 1)` [Reconnaissance faciale en Chine, rÃ©alisÃ©e par une startup de Shanghai :](https://www.technologyreview.com/s/611815/who-needs-democracy-when-you-have-data/)
 <center><img src=https://cdn.technologyreview.com/i/images/so18-china-3.jpg?sw=1080&cx=0&cy=0&cw=2109&ch=1406 width=70%></img></center>
 
 ---
 class: center, middle, inverse
 
-# Les données et le citoyen
+# Les donnÃ©es et le citoyen
 
 ---
 class: center, middle
 
-#A votre avis, quelles données transmettez-vous, parfois à votre insu ?
+#A votre avis, quelles donnÃ©es transmettez-vous, parfois Ã  votre insu ?
 
 ---
 
-## L'individu base de données
-Un citoyen connecté à internet alimente, parfois sans le savoir, les bases de données de sociétés ayant monopole sur le réseau. Les données qu'il émet peuvent concerner :
+## L'individu base de donnÃ©es
+Un citoyen connectÃ© Ã  internet alimente, parfois sans le savoir, les bases de donnÃ©es de sociÃ©tÃ©s ayant monopole sur le rÃ©seau. Les donnÃ©es qu'il Ã©met peuvent concerner :
 
 --
 
-- Tout d'abord, ses **envies**, ses désirs, ses besoins et ses interrogations, par le biais d'un moteur de recherche tel que Google.
+- Tout d'abord, ses **envies**, ses dÃ©sirs, ses besoins et ses interrogations, par le biais d'un moteur de recherche tel que Google.
 
 --
 
-- Les **informations personnelles** partagées sur un réseau social comme Facebook ou bien Gmail.
+- Les **informations personnelles** partagÃ©es sur un rÃ©seau social comme Facebook ou bien Gmail.
 
 --
 
-- Sa **localisation**, s'il a activé le GPS de son smartphone
+- Sa **localisation**, s'il a activÃ© le GPS de son smartphone
 
 --
 
-- Ses **goûts**, notamment musicaux, s'il se connecte à Spotify ou a commandé des disques sur Amazon.
+- Ses **goÃ»ts**, notamment musicaux, s'il se connecte Ã  Spotify ou a commandÃ© des disques sur Amazon.
 
 ---
 
-Le citoyen est tellement connecté et parfois si mal informé que des données personnelles échappent à sa vigilance et sont transmises à des tiers. Les conséquences en cascade de ces fuites peuvent largement s'étendre hors de sa sphère intime.
+Le citoyen est tellement connectÃ© et parfois si mal informÃ© que des donnÃ©es personnelles Ã©chappent Ã  sa vigilance et sont transmises Ã  des tiers. Les consÃ©quences en cascade de ces fuites peuvent largement s'Ã©tendre hors de sa sphÃ¨re intime.
 
-En l'occurrence, peu de personnes lisent les Conditions Générales d'Utilisation d'applications Internet avant de les approuver.
+En l'occurrence, peu de personnes lisent les *Conditions GÃ©nÃ©rales d'Utilisation* d'applications Internet avant de les approuver.
 
 ![](https://017qndpynh-flywheel.netdna-ssl.com/wp-content/uploads/2018/04/military-base-mali.png)
 
-[La société Bellingcat a réussi à déterminer les zones d'entraînement de militaires](https://www.bellingcat.com/resources/articles/2018/07/08/strava-polar-revealing-homes-soldiers-spies/)
+[La sociÃ©tÃ© Bellingcat a rÃ©ussi Ã  dÃ©terminer les zones d'entraÃ®nement de militaires](https://www.bellingcat.com/resources/articles/2018/07/08/strava-polar-revealing-homes-soldiers-spies/)
 
 ---
 
-## Impact des données
-### Pour ceux qui s'intéressent aux citoyens
-L'essor d'internet et de ses grands groupes est intimement lié à l'accès aux données personnelles des individus, d'où le fait de qualifier les données comme de l'*or noir du XXIe siècle*.
+## Impact des donnÃ©es
+### Pour ceux qui s'intÃ©ressent aux citoyens
+L'essor d'internet et de ses grands groupes est intimement liÃ© Ã  l'accÃ¨s aux donnÃ©es personnelles des individus, d'oÃ¹ le fait de qualifier les donnÃ©es comme de l'*or noir du XXIe siÃ¨cle*.
 
-Les GAFA et BATX en tirent bénéfice en **personnalisant** les pubs que nous recevons et en recueillant des informations au sujet de nos envies et préférences.
+Les GAFA et BATX en tirent bÃ©nÃ©fice en **personnalisant** les pubs que nous recevons et en recueillant des informations au sujet de nos envies et prÃ©fÃ©rences.
 
-**Les données individuelles sont précieuses pour les villes intelligentes**. En effet, la cohérence des décisions prises par l'ordinateur central dépendra de la qualité, de la fraîcheur et de la fréquence des données recueillies auprès des individus eux-mêmes ou de l'environnement plus ou moins proche de ces derniers : immeuble, bloc, quartier, ville,...
+**Les donnÃ©es individuelles sont prÃ©cieuses pour les villes intelligentes**. En effet, la cohÃ©rence des dÃ©cisions prises par l'ordinateur central dÃ©pendra de la qualitÃ©, de la fraÃ®cheur et de la frÃ©quence des donnÃ©es recueillies auprÃ¨s des individus eux-mÃªmes ou de l'environnement plus ou moins proche de ces derniers : immeuble, bloc, quartier, ville,...
 
 ---
 class: center, middle
 
-#A votre avis, quel avantage peut avoir un gouvernement ou une société à ouvrir ses données ?
+#A votre avis, quel avantage peut avoir un gouvernement ou une sociÃ©tÃ© Ã  ouvrir ses donnÃ©es ?
 
 ---
 
-### Pour les citoyens qui s'intéressent à la société ou à leur environnement
-Enfin, la livraison de données est un des éléments de la démocratie où les citoyens ont le **droit d'avoir accès** à certaines décisions publiques, aux budgets.
+### Pour les citoyens qui s'intÃ©ressent Ã  la sociÃ©tÃ© ou Ã  leur environnement
+Enfin, la livraison de donnÃ©es est un des Ã©lÃ©ments de la dÃ©mocratie oÃ¹ les citoyens ont le **droit d'avoir accÃ¨s** Ã  certaines dÃ©cisions publiques, aux budgets.
 
-De plus en plus, l'ouverture des données confère aux pays, voire, aux collectivités qui la mettent en oeuvre, un caractère d'**exemplarité**.
+De plus en plus, l'ouverture des donnÃ©es confÃ¨re aux pays, voire, aux collectivitÃ©s qui la mettent en oeuvre, un caractÃ¨re d'**exemplaritÃ©**.
 
-Nous le verrons plus tard : les données, lorsqu'elles sont ouvertes, permettent même de voir fleurir des entreprises qui bâtissent des services basés sur leur exploitation. **L'ouverture des données dynamise l'économie**.
+Nous le verrons plus tard : les donnÃ©es, lorsqu'elles sont ouvertes, permettent mÃªme de voir fleurir des entreprises qui bÃ¢tissent des services basÃ©s sur leur exploitation. **L'ouverture des donnÃ©es dynamise l'Ã©conomie**.
 
 ---
 
-## Protection des données
+## Protection des donnÃ©es
 ### CNIL
-La Commission Nationale de l'informatique et des libertés est une autorité administrative française chargée de veiller à ce que l'informatique soit au service du citoyen et **qu'elle ne porte atteinte ni à l'identité humaine, ni aux droits de l'Homme, ni à la vie privée, ni aux libertés individuelles ou publiques**.
+La Commission Nationale de l'Informatique et des LibertÃ©s est une autoritÃ© administrative franÃ§aise chargÃ©e de veiller Ã  ce que l'informatique soit au service du citoyen et **qu'elle ne porte atteinte ni Ã  l'identitÃ© humaine, ni aux droits de l'Homme, ni Ã  la vie privÃ©e, ni aux libertÃ©s individuelles ou publiques**.
 
 ### RGPD
-Face au commerce lucratif des **données personnelles** réalisé parfois à l'insu des utilisateurs et la sensibilité de certaines données à caractère personnel, l'Union Européenne s'est dotée cette année du Règlement Général sur la Protection des données (RGPD)
+Face au commerce lucratif des **donnÃ©es personnelles** rÃ©alisÃ© parfois Ã  l'insu des utilisateurs et la sensibilitÃ© de certaines donnÃ©es Ã  caractÃ¨re personnel, l'Union EuropÃ©enne s'est dotÃ©e cette annÃ©e du RÃ¨glement GÃ©nÃ©ral sur la Protection des donnÃ©es (RGPD)
 
 ---
 
-## La culture des données ou Data Literacy
+## La culture des donnÃ©es ou Data Literacy
 
-Ce n'est pas parce qu'une donnée est en libre accès qu'elle est accessible.
+Ce n'est pas parce qu'une donnÃ©e est en libre accÃ¨s qu'elle est accessible.
 
-L'accès et l'exploitation des données est **souvent l'affaire de spécialistes de la donnée** alors que le contenu de celles-ci est censé intéresser tout le monde.
+L'accÃ¨s et l'exploitation des donnÃ©es est **souvent l'affaire de spÃ©cialistes de la donnÃ©e** alors que le contenu de celles-ci est censÃ© intÃ©resser tout le monde.
 
-Afin de se départir d'une vision élitiste de la donnée, la Data Literacy (Littératie des données, ou plus simplement la culture de la donnée), a pour but d'amener à s'intéresser aux données des personnes non-spécialistes.
+Afin de se dÃ©partir d'une vision Ã©litiste de la donnÃ©e, la Data Literacy (LittÃ©ratie des donnÃ©es, ou plus simplement la culture de la donnÃ©e), a pour but d'amener Ã  s'intÃ©resser aux donnÃ©es des personnes non-spÃ©cialistes.
 
 Cela passe par la **formation**, la **sensibilisation** des individus.
 
-`r icon::fa("mouse-pointer", size = 1)` [Testez votre culture des données avec dataposition](https://dataposition.accatone.net/)
+`r icon::fa("mouse-pointer", size = 1)` [Testez votre culture des donnÃ©es avec dataposition](https://dataposition.accatone.net/)

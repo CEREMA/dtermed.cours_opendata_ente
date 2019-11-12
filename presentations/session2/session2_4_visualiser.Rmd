@@ -113,10 +113,6 @@ class:exo
 
 - la part des déplacements domicile-travail effectués en voiture (%)
 
---
-
-![](../images/deplacements.png)
-
 ---
 class:exo 
 
@@ -151,7 +147,7 @@ class: center, middle, inverse
 class:exo
 
 ##Exo 12
-&#9658; Réaliser des graphiques en lignes qui montrent l'évolution, de 2000 à 2018, du nombre jours avec une qualité de l'air médiocre pour les agglomérations concernées de PACA
+&#9658; Réaliser des graphiques en lignes qui montrent l'évolution, de 2000 à 2012, du nombre jours avec une qualité de l'air médiocre pour les agglomérations concernées de PACA
 
 --
 

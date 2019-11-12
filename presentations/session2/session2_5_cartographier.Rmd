@@ -24,7 +24,7 @@ class: center, middle, inverse
 ---
 class: center, middle
 
-# Quelle carte préférez-vous, et pourquoi ?
+# Quelle carte prÃ©fÃ©rez-vous, et pourquoi ?
 
 ---
 class: middle
@@ -34,40 +34,35 @@ class: middle
 ---
 class: center, middle
 
-# Dessiner la région PACA
+# Dessiner la rÃ©gion PACA
 
 ---
 class: center, middle
 
-# Selon vous, que peut-on utiliser, visuellement, pour représenter des quantités, des classes ?
+# Selon vous, que peut-on utiliser, visuellement, pour reprÃ©senter des quantitÃ©s, des classes ?
 
 ---
 class: center, middle
 
-# Rechercher la population par département en PACA et en faire un tableau
+# Rechercher la population par dÃ©partement en PACA et en faire un tableau
 
 ---
-#Faire une carte de la population en PACA par département :
+#Faire une carte de la population en PACA par dÃ©partement :
 
 - Utiliser des couleurs
-- Utiliser des formes géométriques
-- Utiliser des hâchures
+- Utiliser des formes gÃ©omÃ©triques
+- Utiliser des hÃ¢chures
 - Quel pictogramme utiliseriez-vous pour la population ? Dessiner la carte avec un pictogramme
 
 ---
-<!-- Carte parlante / pas parlante, avec ou sans contexte
-PACA au sein de France
-Route avec bâtiments, forêts
--->
----
 class: exo
-Dans cet exercice, nous allons nous intéresser à :
+Dans cet exercice, nous allons nous intÃ©resser Ã  :
 
-<div class=file>`r icon::fa("file", size = 1)` <a href=https://trouver.datasud.fr/dataset/implantations-des-etablissements-denseignement-superieur-publics-en-provence-alpes-cote-dazur>La localisation des établissements supérieurs publics en PACA</a></div>
+<div class=file>`r icon::fa("file", size = 1)` <a href=https://trouver.datasud.fr/dataset/implantations-des-etablissements-denseignement-superieur-publics-en-provence-alpes-cote-dazur>La localisation des Ã©tablissements supÃ©rieurs publics en PACA</a></div>
 
-Nous allons représenter l'effectif de ces établissements de façon visuelle sur une carte. 
+Nous allons reprÃ©senter l'effectif de ces Ã©tablissements de faÃ§on visuelle sur une carte. 
 
-`r icon::fa("arrow-circle-down", size = 1)` Cliquez sur télécharger au niveau fichier spatial GeoJSON afin de récupérer la donnée sur votre ordinateur.
+`r icon::fa("arrow-circle-down", size = 1)` Cliquez sur tÃ©lÃ©charger au niveau fichier spatial GeoJSON afin de rÃ©cupÃ©rer la donnÃ©e sur votre ordinateur.
 <center><img src=../images/datasud_etablissements.png width=50%></img></center>
 
 
@@ -75,68 +70,68 @@ Nous allons représenter l'effectif de ces établissements de façon visuelle sur u
 ## Magrit
 <center><img src=https://neocarto.hypotheses.org/files/2017/01/magrit_visuel2.png width=30%></img></center>
 
-Nous allons utiliser l'outil [Magrit (http://magrit.cnrs.fr/)](http://magrit.cnrs.fr/) du CNRS. Magrit est un outil de création de cartes en ligne. Il ne nécessite aucune installation. Il permet de visualiser des données géographiques et d'en réaliser des cartes, notamment statistiques,.
+Nous allons utiliser l'outil [Magrit (http://magrit.cnrs.fr/)](http://magrit.cnrs.fr/) du CNRS. Magrit est un outil de crÃ©ation de cartes en ligne. Il ne nÃ©cessite aucune installation. Il permet de visualiser des donnÃ©es gÃ©ographiques et d'en rÃ©aliser des cartes, notamment statistiques,.
 
-Pour démarrer, allez sur le site de [Magrit](http://magrit.cnrs.fr/) et cliquez sur démarrer:
+Pour dÃ©marrer, allez sur le site de [Magrit](http://magrit.cnrs.fr/) et cliquez sur dÃ©marrer:
 <br>
 <center><img src=../images/magrit_demarrer.png width=30%></img></center>
 
-Dans un premier temps, il faut créer un nouveau projet
+Dans un premier temps, il faut crÃ©er un nouveau projet
 <br>
 <center><img src=../images/magrit_projet.png width=20%></img></center>
 
 ---
 ## Ajout d'un fonds Communes de PACA
-On ouvre un fonds de carte et on choisit le fonds Provence Alpes Côte d'Azur. Ce dernier affiche les contours des communes de la Région.
+On ouvre un fonds de carte et on choisit le fonds Provence Alpes CÃ´te d'Azur. Ce dernier affiche les contours des communes de la RÃ©gion.
 
 <center><img src=../images/magrit_fond.png width=20%></img>   <img src=../images/magrit_fond2.png width=45%></img></center>
 
-On définit ce fonds comme étant, non le fonds principal, mais un *fonds d'habillage*.
+On dÃ©finit ce fonds comme Ã©tant, non le fonds principal, mais un *fonds d'habillage*.
 <center><img src=../images/magrit_fond_habillage.png width=20%></img></center>
 
 ---
-## Ajout des établissements
-On ajoute ensuite un jeu de données préalablement téléchargé
+## Ajout des Ã©tablissements
+On ajoute ensuite un jeu de donnÃ©es prÃ©alablement tÃ©lÃ©chargÃ©
 <center><img src=../images/magrit_jeu.png width=20%></img>      <img src=../images/magrit_etablissements.png width=60%></img></center>
 
-On définit cette donnée comme constituant le *fonds principal* de notre carte
+On dÃ©finit cette donnÃ©e comme constituant le *fonds principal* de notre carte
 <br><center><img src=../images/magrit_fond_principal.png width=20%></img></center>
 
 ---
-On doit définir de quel type sont chacun des champs. Cela est nécessaire afin de pouvoir représenter visuellement des variables (colonnes) de façon correcte. Dans notre cas, on s'intéresse à l'**effectif** des établissements.
+On doit dÃ©finir de quel type sont chacun des champs. Cela est nÃ©cessaire afin de pouvoir reprÃ©senter visuellement des variables (colonnes) de faÃ§on correcte. Dans notre cas, on s'intÃ©resse Ã  l'**effectif** des Ã©tablissements.
 <br><center><img src=../images/magrit_type_champ.png width=40%></img></center>
 
 ---
-## Choix d'une représentation
-Ensuite, nous allons dans *Choix de la représentation* et nous cliquons sur la représentation en *bulles*, avec l'objectif de faire apparaître un établissement dans une bulle d'autant plus grosse qu'elle compte d'élèves.
+## Choix d'une reprÃ©sentation
+Ensuite, nous allons dans *Choix de la reprÃ©sentation* et nous cliquons sur la reprÃ©sentation en *bulles*, avec l'objectif de faire apparaÃ®tre un Ã©tablissement dans une bulle d'autant plus grosse qu'elle compte d'Ã©lÃ¨ves.
 <br><center><img src=../images/magrit_bulles.png width=15%></img></center>
 
-Nous choisissons l'effectif comme variable à représenter, puis nous cliquons sur *Dessiner le résultat*
+Nous choisissons l'effectif comme variable Ã  reprÃ©senter, puis nous cliquons sur *Dessiner le rÃ©sultat*
 <br><center><img src=../images/magrit_effectif.png width=20%></img></center>
 
 ---
-## Visualiser le tableau des données
-Il est aussi possible d'explorer les données avec l'icône *Explorer*
+## Visualiser le tableau des donnÃ©es
+Il est aussi possible d'explorer les donnÃ©es avec l'icÃ´ne *Explorer*
 <br><center><img src=../images/magrit_explorer.png width=25%></img></center>
 
-Il s'affiche alors un tableau des données
+Il s'affiche alors un tableau des donnÃ©es
 <br><center><img src=../images/magrit_tableau.png width=70%></img></center>
 
 ---
-## Représentation des communes en fonction du département
-On peut aussi représenter des variables qualitatives sur la carte.
+## ReprÃ©sentation des communes en fonction du dÃ©partement
+On peut aussi reprÃ©senter des variables qualitatives sur la carte.
 
-Pour cela, il faut déjà définir la couche `Communes PACA` en tant que carte/Donnée principale
+Pour cela, il faut dÃ©jÃ  dÃ©finir la couche `Communes PACA` en tant que carte/DonnÃ©e principale
 <br><center><img src=../images/magrit_carte_principale.png width=25%></img></center>
 
-On choisit une représentation sur variable qualitative en nous appuyant sur le nom de département
+On choisit une reprÃ©sentation sur variable qualitative en nous appuyant sur le nom de dÃ©partement
 
 <center><img src=../images/magrit_qualitative.png width=25%></img>     <img src=../images/magrit_nom_dept.png width=25%></img></center>
 
 ---
 ## Export
-On peut exporter la carte à différents formats, notamment en image
+On peut exporter la carte Ã  diffÃ©rents formats, notamment en image
 <center><img src=../images/magrit_export.png width=20%></img></center>
 
-Voici le résultat final
+Voici le rÃ©sultat final
 <br><center><img src=../images/export.png width=60%></img></center>

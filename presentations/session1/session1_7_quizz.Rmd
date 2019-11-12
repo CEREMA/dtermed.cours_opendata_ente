@@ -21,39 +21,39 @@ class: center, middle, inverse
 ---
 
 - Citez trois modes de transmission d'un message
-- Comment appelle-t-on les "grands" de la donnée aux USA, et en Chine ?
+- Comment appelle-t-on les "grands" de la donnÃ©e aux USA, et en Chine ?
 - Qu'est-ce que la domotique ?
 - Qu'est-ce qu'une ville intelligente ?
-- Donnez trois élements d'une ville intelligente
+- Donnez trois Ã©lements d'une ville intelligente
 
 ---
-- Quelle déclaration donne droit aux citoyens de demander un document à l'administration ? De quant date-t-elle ?
-- Quel organisme a été créé en 2011 pour promouvoir l'ouverture des données publiques ?
-- Quelle est la différence entre data et opendata ?
-- Remplir les pointillés : production -> ... -> ... -> réutilisation
+- Quelle dÃ©claration donne droit aux citoyens de demander un document Ã  l'administration ? De quand date-t-elle ?
+- Quel organisme a Ã©tÃ© crÃ©Ã© en 2011 pour promouvoir l'ouverture des donnÃ©es publiques ?
+- Quelle est la diffÃ©rence entre *data* et *opendata* ?
+- Remplir les pointillÃ©s : production -> ... -> ... -> rÃ©utilisation
 - Qu'est-ce qu'une licence ?
 
 ---
-- Comment s'appelle le site national où trouver des données ouvertes ?
-- Donnez le nom de deux organismes fournissant des données de référence
+- Comment s'appelle le site national oÃ¹ trouver des donnÃ©es ouvertes ?
+- Donnez le nom de deux organismes fournissant des donnÃ©es de rÃ©fÃ©rence
 - Donnez le nom de trois sites OpenData
-- Quel organisme dois-je contacter si mes données personnelles sont diffusées sur internet
+- Quel organisme dois-je contacter si mes donnÃ©es personnelles sont diffusÃ©es sur internet ?
 
 ---
-- Comment est structuré un tableau de données ?
+- Comment est structurÃ© un tableau de donnÃ©es ?
 - Mettre dans un tableau les informations suivantes :
-  - Aix en Provence, de code INSEE 13090, appartient au département des Bouches-du-Rhône, et compte 141438 habitants
-  - Marseille compte 850726 habitants, du département des Bouches-du-Rhône, compte 850726 habitants. Son code INSEE est 13055
-  - Nice compte 343304 habitants. Son code INSEE est 06088. Cette ville appartient au département des Alpes Maritimes.
+  - Aix en Provence, de code INSEE 13090, appartient au dÃ©partement des Bouches-du-RhÃ´ne, et compte 141438 habitants
+  - Marseille compte 850726 habitants, du dÃ©partement des Bouches-du-RhÃ´ne, compte 850726 habitants. Son code INSEE est 13055
+  - Nice compte 343304 habitants. Son code INSEE est 06088. Cette ville appartient au dÃ©partement des Alpes Maritimes.
 
 ---
-- Que sont les données brutes ?
-- Comment s'appellent des données détenues par le privé mais devant être rendues publiques ?
-- Comment appelle-t-on des données fréquemment actualisées ? Et son contraire ?
-- Comment appelle-t-on des données récentes ?
+- Que sont les donnÃ©es brutes ?
+- Comment s'appellent des donnÃ©es dÃ©tenues par le privÃ© mais devant Ãªtre rendues publiques ?
+- Comment appelle-t-on des donnÃ©es frÃ©quemment actualisÃ©es ? Et son contraire ?
+- Comment appelle-t-on des donnÃ©es rÃ©centes ?
 
 ---
-- Citez trois formats de fichiers de données, et les classer par ordre de préférence.
-- Qu'est-ce qu'un systèmede gestion de base de données relationnelles ?
+- Citez trois formats de fichiers de donnÃ©es, et les classer par ordre de prÃ©fÃ©rence.
+- Qu'est-ce qu'un systÃ¨me de gestion de base de donnÃ©es relationnelles ?
 - Qu'est-ce qu'un identifiant ?
 - Donnez deux raisons d'utiliser un identifiant

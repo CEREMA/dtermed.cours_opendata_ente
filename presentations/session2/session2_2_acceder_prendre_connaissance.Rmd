@@ -78,28 +78,28 @@ class: exo
 
 &#9658; `r icon::fa("file", size = 1)` Pour le jeu de données sur l'exposition des populations aux polluants, répondre à ces questions :
 
-1. **Comment** la donnée a-t-elle été obtenue ? <!-- par modélisation depuis des données de mesure -->
+1. La donnée mise à disposition a-t-elle été mesurée ou estimée/modélisée ? (Question *comment*) <!-- par modélisation depuis des données de mesure -->
 
 --
 
-2. La donnée prend-elle en compte l'exposition sur le lieu de travail ? <!-- l'estimation ne tient pas compte de l'exposition sur son lieu de
+2. Puis-je connaître mon exposition aux polluants sur mon lieu de travail ? <!-- l'estimation ne tient pas compte de l'exposition sur son lieu de
 travail/école, les lieux de loisirs ou lors de ses déplacements-->
 
 --
 
-3. Qui est l'**auteur** de la donnée ? Semble-t-il être de confiance ? Si j'ai une question à poser sur cette donnée, qui contacter ?
+3. Qui est l'**auteur** de la donnée ? Semble-t-il être de confiance ? Si j'ai une question à poser sur cette donnée, qui contacter ? (Question *qui*)
 
 --
 
-4. De **quand** datent les données ? Quelle est leur fréquence de mise à jour ? <!-- créées le 05 07 2017 avec fréquence annuelle-->
+4. De **quand** datent les données ? Puis-je disposer de la donnée d'il y a un mois ? (Question *quand*)<!-- créées le 05 07 2017 avec fréquence annuelle-->
 
 --
 
-5. A quel **format** se trouvent ces données ? <!--CSV, GeoJSON, WFS-->
+5. Le **formats** de la donnée garantit-il son intégration ? <!--CSV, GeoJSON, WFS-->
 
 --
 
-6. Quelle est la **licence** d'utilisation ? <!-- OpenDataCommons - ODbL-->
+6. Puis-je croiser la donnée avec une autre et diffuser le produit du croisement sous une licence ouverte ? <!-- OpenDataCommons - ODbL-->
 
 --
 
@@ -126,7 +126,7 @@ caractéristiques de la voie. -->
 --
   
 - volet **Qualité de l'air**
-  2. L'indicateur de qualité de l'air concerne des agglomérations de combien d'habitants ? Permet-il de mettre en valeur la pollution à proximité d'une industrie ? 
+  2. Puis-je obtenir une valeur de polluants exact à proximité de l'usine de Gardanne ? 
   <!-- voir nb de jours dans l'année avec un indice de qualité de l'air mauvais.
   L’indice Atmo est un indicateur journalier qui fournit une
 information synthétique sur la qualité de l’air des agglomérations de 100 000 habitants et plus 
@@ -137,7 +137,7 @@ automobile…
   
 --
   
-  3. Combien de polluants sont concernés ? <!--  Il est basé
+  3. Le monoxyde de carbone figure-t-il parmi les polluants mesurés en continu ? <!--  Il est basé
 sur les concentrations dans l’air de quatre polluants mesurés en continu par des appareils automatiques :
 dioxyde de soufre (SO2), dioxyde d’azote (NO2), ozone (O3) et particules de diamètre inférieur à 10 μm
 (PM10).  -->
