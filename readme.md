@@ -46,7 +46,7 @@ Mathieu Rajerison, du service GTIE (Géomatique, Trafics, ITS et Exploitation) d
 
 ### Licence
 [Licence Ouverte Etalab](https://www.etalab.gouv.fr/licence-ouverte-open-licence)
-![](https://www.etalab.gouv.fr/wp-content/uploads/2011/10/licence-ouverte-open-licence.gif | width=20)
+![](https://www.etalab.gouv.fr/wp-content/uploads/2011/10/licence-ouverte-open-licence.gif|width=20)
 
 ### :thumbsup: Remerciements, crédits
 - [L'École Nationale des Techniciens de l'Équipement d'Aix en Provence (ENTE)](http://www.ente.developpement-durable.gouv.fr/aix-en-provence-r41.html)
