@@ -27,6 +27,7 @@ Supports d'un cours sur l'Open Data réalisé en 2018 pour les apprenants de l'E
 - Outils (annexe)  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_6_annexe_outils.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_6_annexe_outils.pdf)
 
 ## Téléchargement des supports
+Réaliser la manipulation suivante. Les supports sont présents dans le dossier **presentations**
 ![](images/téléchargement_zip.png)
 
 ## Réalisation
