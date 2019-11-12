@@ -27,7 +27,7 @@ Supports d'un cours sur l'Open Data réalisé en 2018 pour les apprenants de l'E
 - Outils (annexe)  [html](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_6_annexe_outils.html) [pdf](https://github.com/CEREMA/dtermed.cours_opendata_ente/blob/master/presentations/session2/session2_6_annexe_outils.pdf)
 
 ## Téléchargement des supports
-Réaliser la manipulation suivante.  
+Réaliser la manipulation suivante :  
 Télécharger le zip.  
 Les supports seront présents dans le dossier **presentations**
 ![](images/téléchargement_zip.png)
@@ -37,8 +37,8 @@ Les supports seront présents dans le dossier **presentations**
 Mathieu Rajerison, du service GTIE (Géomatique, Trafics, ITS et Exploitation) du CEREMA Med (Centre d'Études et d'Expertise sur les Risques, l'Environnement, la Mobilité et l'Améngament de la région Méditerranée)
 
 ### Version
-- Dernière mise à jour : 6 Février 2019
-- Création : 24 août 2018
+- Dernière mise à jour : 12 Novembre 2019
+- Création :             24 Août 2018
 
 ### Format
 - html & pdf
