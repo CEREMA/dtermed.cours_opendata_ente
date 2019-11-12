@@ -156,23 +156,3 @@ class:exo
 --
 
 ![](../images/graphique_qualite_air.png)
-
----
-class: center, middle, inverse
-
-# Corréler
-
-
-`r icon::fa("chart-line", size = 4)`
-
----
-class:exo
-
-<div class=file>`r icon::fa("file", size = 1)` Prendre le fichier : <a href=https://trouver.datasud.fr/dataset/indicateurs-communaux-de-qualite-de-lair-en-region-sud-provence-alpes-cote-dazur>Populations exposées au dépassement des valeurs de référence des PM10, NO2 et O3</a></div>
-
-##Exo 13 
-- Existe-t-il un lien entre le nombre d'habitants et l'indicateur ISA ?
-
---
-
-<center><img src=../images/isa_population.png width=85%></img></center>
