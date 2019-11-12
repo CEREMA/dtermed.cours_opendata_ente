@@ -1,6 +1,0 @@
-git init
-git remote add origin https://github.com/CEREMA/dtermed.cours_opendata_ente.git
-git push -u origin master
-
-login : mathieu.rajerison@cerema.fr ou mrajerisoncerema
-passwd : xxxxxxx
