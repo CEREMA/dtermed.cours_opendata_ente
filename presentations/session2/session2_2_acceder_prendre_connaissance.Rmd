@@ -160,4 +160,7 @@ class: center, middle, inverse
 
 ---
 ## Outils
-Utiliser l'outil [WTFCSV](https://databasic.io/en/wtfcsv/) ou [CSVLint](https://csvlint.io/) afin d'avoir un aperçu des données.
+
+Les outils CSV Good Generator d'Etalab et [CSVLint](https://csvlint.io/) permettent de contrôler la qualité des données.
+
+[WTFCSV](https://databasic.io/en/wtfcsv/) permet d'avoir un aperçu rapide des données.
