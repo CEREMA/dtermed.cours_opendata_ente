@@ -31,28 +31,28 @@ class: middle
 
 ![](../images/comparaison_cartes.png)
 
----
-class: center, middle
+<!-- --- -->
+<!-- class: center, middle -->
 
-# Dessiner la région PACA
+<!-- # Dessiner la région PACA -->
 
----
-class: center, middle
+<!-- --- -->
+<!-- class: center, middle -->
 
-# Selon vous, que peut-on utiliser, visuellement, pour représenter des quantités, des classes ?
+<!-- # Selon vous, que peut-on utiliser, visuellement, pour représenter des quantités, des classes ? -->
 
----
-class: center, middle
+<!-- --- -->
+<!-- class: center, middle -->
 
-# Rechercher la population par département en PACA et en faire un tableau
+<!-- # Rechercher la population par département en PACA et en faire un tableau -->
 
----
-#Faire une carte de la population en PACA par département :
+<!-- --- -->
+<!-- #Faire une carte de la population en PACA par département : -->
 
-- Utiliser des couleurs
-- Utiliser des formes géométriques
-- Utiliser des hâchures
-- Quel pictogramme utiliseriez-vous pour la population ? Dessiner la carte avec un pictogramme
+<!-- - Utiliser des couleurs -->
+<!-- - Utiliser des formes géométriques -->
+<!-- - Utiliser des hâchures -->
+<!-- - Quel pictogramme utiliseriez-vous pour la population ? Dessiner la carte avec un pictogramme -->
 
 ---
 class: exo
@@ -68,70 +68,51 @@ Nous allons représenter l'effectif de ces établissements de façon visuelle su
 
 ---
 ## Magrit
-<center><img src=https://neocarto.hypotheses.org/files/2017/01/magrit_visuel2.png width=30%></img></center>
 
 Nous allons utiliser l'outil [Magrit (http://magrit.cnrs.fr/)](http://magrit.cnrs.fr/) du CNRS. Magrit est un outil de création de cartes en ligne. Il ne nécessite aucune installation. Il permet de visualiser des données géographiques et d'en réaliser des cartes, notamment statistiques,.
 
-Pour démarrer, allez sur le site de [Magrit](http://magrit.cnrs.fr/) et cliquez sur démarrer:
-<br>
-<center><img src=../images/magrit_demarrer.png width=30%></img></center>
+Pour démarrer, allez sur le site de [Magrit](http://magrit.cnrs.fr/) et cliquez sur `démarrer`
 
-Dans un premier temps, il faut créer un nouveau projet
-<br>
-<center><img src=../images/magrit_projet.png width=20%></img></center>
+<center><img src=../images/magrit_gifs/magrit_1_ouvrir_projet.gif width=100%></img></center>
 
 ---
 ## Ajout d'un fonds Communes de PACA
 On ouvre un fonds de carte et on choisit le fonds Provence Alpes Côte d'Azur. Ce dernier affiche les contours des communes de la Région.
 
-<center><img src=../images/magrit_fond.png width=20%></img>   <img src=../images/magrit_fond2.png width=45%></img></center>
-
 On définit ce fonds comme étant, non le fonds principal, mais un *fonds d'habillage*.
-<center><img src=../images/magrit_fond_habillage.png width=20%></img></center>
+<br><center><img src=../images/magrit_gifs/magrit_2_ajouter_fonds.gif width=100%></img></center>
 
 ---
 ## Ajout des établissements
 On ajoute ensuite un jeu de données préalablement téléchargé
-<center><img src=../images/magrit_jeu.png width=20%></img>      <img src=../images/magrit_etablissements.png width=60%></img></center>
 
 On définit cette donnée comme constituant le *fonds principal* de notre carte
-<br><center><img src=../images/magrit_fond_principal.png width=20%></img></center>
 
----
 On doit définir de quel type sont chacun des champs. Cela est nécessaire afin de pouvoir représenter visuellement des variables (colonnes) de façon correcte. Dans notre cas, on s'intéresse à l'**effectif** des établissements.
-<br><center><img src=../images/magrit_type_champ.png width=40%></img></center>
+
+<center><img src=../images/magrit_gifs/magrit_3_ajouter_geojson.gif width=100%></img></center>
 
 ---
 ## Choix d'une représentation
 Ensuite, nous allons dans *Choix de la représentation* et nous cliquons sur la représentation en *bulles*, avec l'objectif de faire apparaître un établissement dans une bulle d'autant plus grosse qu'elle compte d'élèves.
-<br><center><img src=../images/magrit_bulles.png width=15%></img></center>
 
 Nous choisissons l'effectif comme variable à représenter, puis nous cliquons sur *Dessiner le résultat*
-<br><center><img src=../images/magrit_effectif.png width=20%></img></center>
+<center><img src=../images/magrit_gifs/magrit_4_representation.gif width=100%></img></center>
 
 ---
 ## Visualiser le tableau des données
-Il est aussi possible d'explorer les données avec l'icône *Explorer*
-<br><center><img src=../images/magrit_explorer.png width=25%></img></center>
+Il est aussi possible d'explorer les données avec l'icône *Explorer*.
 
 Il s'affiche alors un tableau des données
-<br><center><img src=../images/magrit_tableau.png width=70%></img></center>
+<center><img src=../images/magrit_gifs/magrit_5_explorer.gif width=100%></img></center>
 
 ---
 ## Représentation des communes en fonction du département
-On peut aussi représenter des variables qualitatives sur la carte.
+On peut aussi représenter des variables qualitatives sur la carte, par exemple sur la couche `Communes PACA` qu'on définit comme `Fonds principal`. Puis on choisit son mode de représentation.
 
-Pour cela, il faut déjà définir la couche `Communes PACA` en tant que carte/Donnée principale
-<br><center><img src=../images/magrit_carte_principale.png width=25%></img></center>
-
-On choisit une représentation sur variable qualitative en nous appuyant sur le nom de département
-
-<center><img src=../images/magrit_qualitative.png width=25%></img>     <img src=../images/magrit_nom_dept.png width=25%></img></center>
-
+<center><img src=../images/magrit_gifs/magrit_6_communes.gif width=100%></img></center>
 ---
 ## Export
 On peut exporter la carte à différents formats, notamment en image
-<center><img src=../images/magrit_export.png width=20%></img></center>
 
-Voici le résultat final
-<br><center><img src=../images/export.png width=60%></img></center>
+<br><center><img src=../images/magrit_gifs/magrit_7_export.gif width=100%></img></center>
