@@ -46,7 +46,7 @@ Mathieu Rajerison, du service GTIE (Géomatique, Trafics, ITS et Exploitation) d
 
 ### Licence
 <img src=https://www.etalab.gouv.fr/wp-content/uploads/2011/10/licence-ouverte-open-licence.gif width=150></img>  
-[Licence Ouverte Etalab](https://www.etalab.gouv.fr/licence-ouverte-open-licence)
+[Creative Commons BY-NC-SA](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by-nc-sa.markdown)
 
 
 ### :thumbsup: Remerciements, crédits
