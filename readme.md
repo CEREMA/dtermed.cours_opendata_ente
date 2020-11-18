@@ -45,7 +45,6 @@ Mathieu Rajerison, du service GTIE (Géomatique, Trafics, ITS et Exploitation) d
 - Sources : format [R Markdown](https://rmarkdown.rstudio.com/), librairie [xaringan](https://github.com/yihui/xaringan)
 
 ### Licence
-<img src=https://www.etalab.gouv.fr/wp-content/uploads/2011/10/licence-ouverte-open-licence.gif width=150></img>  
 [Creative Commons BY-NC-SA](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by-nc-sa.markdown)
 
 
