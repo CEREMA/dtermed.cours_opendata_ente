@@ -8,75 +8,11 @@ output:
     css: ["../css/my_css.css", "../css/my_css_session2.css", "default", "default-fonts"]
     seal: true
     lib_dir: libs
-    self_contained: true
+    self_contained: false
     nature:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
-
----
-class: center, middle, inverse
-
-# `r icon::fa("pencil-alt", size = 1)` À vous de jouer
-
----
-class: center, middle
-
-# Créer un tableau depuis les instructions suivantes :
-
-- Aix-en-Provence compte 141438 habitants. Son code INSEE est 13090 et elle appartient aux Bouches-du-Rhône.
-- Marseille appartient au même département. Elle compte 850726 habitants. Son code INSEE est 13055
-- Nice (06088) est une commune des Alpes-Maritimes. Elle compte 343304 habitants.
-
----
-class: center, middle
-
-# Récupérer la population par département sur la région PACA et en faire un tableau en faisant apparaître également le code INSEE de chaque département
-
----
-class: center, middle
-
-# Quelle caractéristique de l'OpenData peut influencer la façon de structurer la donnée ?
-
---
-Voici les consignes de réalisation d'un tableau pour que ce dernier soit traitable par une machine :
-
-- Souvent, un logiciel s'attend à ce qui est le plus conventionnel, soit que les variables, champs apparaissent en colonnes, et les entités, enregistrements, en lignes
-- Noms de champs courts, voire abréviés, pour faciliter le travail des programmeurs
-- Pas d'espaces, ni d'accents dans les noms d'attributs, ni de majuscules, sinon les logiciels de traitement peuvent planter
-
----
-class: center, middle
-
-# Refaire le tableau en respectant ces préceptes
-
----
-class: center, middle
-
-# Quel est le département le plus peuplé
-# Quelle est la population totale en PACA ?
-
-
-
-<!-- --- -->
-<!-- class: center, middle -->
-
-<!-- # Prendre les données de population à Marseille, Aix en Provence, Nice et en faire un tableau -->
-
-<!-- --- -->
-<!-- class: center, middle -->
-
-<!-- # Quelle ville compte le plus d'habitants ? -->
-
-<!-- --- -->
-<!-- class: center, middle -->
-
-<!-- # Rechercher sur Internet les informations sur Toulon et compléter le tableau -->
-
-<!-- --- -->
-<!-- class: center, middle -->
-
-<!-- # Calculer le nombre d'habitants total sur ces 4 villes -->
 
 ---
 class: center, middle, inverse
@@ -168,3 +104,51 @@ class:exo
 
 3. **Classer les grandes agglomérations de PACA** en fonction de la qualité de l'air en 2012 et dire quelles communes sont les 3 communes les plus polluées et les 3 communes les moins polluées</div>
 <!-- Marseille, Cannes Grasse Antibes, puis Toulon -->
+
+---
+class: exo
+
+## Exo 7
+
+&#9658; `r icon::fa("file", size = 1)` Pour le jeu de données sur les indicateurs d'épanouissement, Trouver le fichier qui contient la documentation associée au jeu de données et répondre à ces questions
+ et répondre à ces questions :
+
+- volet **Bruit**
+  1. Les niveaux de bruit sont-ils relevés par mesure locale ou calculés grâce à des modèles numériques ? 
+  <!-- p.42
+  Les cartes de bruit ne sont pas le reflet de mesures réellement effectuées dans les zones considérées. Les
+niveaux de bruit sont évalués au moyen de modèles numériques intégrant les principaux paramètres qui
+influencent le bruit et sa propagation : densité et nature du trafic, vitesse autorisée, configuration des lieux,
+caractéristiques de la voie. -->
+  
+--
+  
+- volet **Qualité de l'air**
+  2. Puis-je obtenir une valeur de polluants exact à proximité de l'usine de Gardanne ? 
+  <!-- p.44
+  voir nb de jours dans l'année avec un indice de qualité de l'air mauvais.
+  L’indice Atmo est un indicateur journalier qui fournit une
+information synthétique sur la qualité de l’air des agglomérations de 100 000 habitants et plus 
+Il ne
+permet pas de mettre en évidence des phénomènes localisés : pollution en proximité industrielle,
+automobile… 
+-->
+  
+--
+  
+  3. Le monoxyde de carbone figure-t-il parmi les polluants mesurés en continu ? 
+  <!-- p.44
+  Il est basé
+sur les concentrations dans l’air de quatre polluants mesurés en continu par des appareils automatiques :
+dioxyde de soufre (SO2), dioxyde d’azote (NO2), ozone (O3) et particules de diamètre inférieur à 10 μm
+(PM10).  -->
+  
+--
+  
+  4. Peut-on avoir un détail par polluant ?
+<!-- p.44 
+L'indicateur est le nombre de jours par an où l'indice Atmo de la qualité de l'air est médiocre, mauvais ou très
+mauvais (indice de 6 à 10), en moyenne sur 3 ans.
+L’indice Atmo prend en compte le polluant le plus pénalisant (pour une même journée, plusieurs polluants
+peuvent être responsables de l’indice Atmo). Toutefois, les concentrations des autres polluants peuvent
+également être élevées -->

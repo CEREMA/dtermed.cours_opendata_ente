@@ -1,0 +1,46 @@
+---
+title: "OpenData (Exos)"
+subtitle: "#TableauChallenge"
+author: "CEREMA Med > Mathieu Rajerison"
+date: "<span style='font-size:0.5em;'>06/02/2019</span>"
+output:
+  xaringan::moon_reader:
+    css: ["../css/my_css.css", "../css/my_css_session2.css", "default", "default-fonts"]
+    seal: true
+    lib_dir: libs
+    self_contained: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+class: center, middle, inverse
+
+# `r icon::fa("pencil-alt", size = 1)` À vous de jouer
+
+---
+class: center, middle
+
+# Créer un tableau depuis les instructions suivantes :
+
+- Aix-en-Provence compte 141438 habitants. Son code INSEE est 13090 et elle appartient aux Bouches-du-Rhône.
+- Marseille appartient au même département. Elle compte 850726 habitants. Son code INSEE est 13055
+- Nice (06088) est une commune des Alpes-Maritimes. Elle compte 343304 habitants.
+
+---
+class: center, middle
+
+# Récupérer la population par département sur la région PACA et en faire un tableau en faisant apparaître également le code INSEE de chaque département
+
+---
+class: center, middle
+
+# Quelle caractéristique de l'OpenData peut influencer la façon de structurer la donnée ?
+
+--
+Voici les consignes de réalisation d'un tableau pour que ce dernier soit traitable par une machine :
+
+- Souvent, un logiciel s'attend à ce qui est le plus conventionnel, soit que les variables, champs apparaissent en colonnes, et les entités, enregistrements, en lignes
+- Noms de champs courts, voire abréviés, pour faciliter le travail des programmeurs
+- Pas d'espaces, ni d'accents dans les noms d'attributs, ni de majuscules, sinon les logiciels de traitement peuvent planter

@@ -8,7 +8,7 @@ output:
     css: ["../css/my_css.css", "../css/my_css_session1.css", "default", "default-fonts"]
     seal: true
     lib_dir: libs
-    self_contained: true
+    self_contained: false
     nature:
       highlightStyle: github
       highlightLines: true
@@ -96,7 +96,7 @@ Il ne permet d'accéder qu'à des données ouvertes spatialisées, à savoir ré
 
 ---
 
-### Recensement réalisé par dactivist
+### Recensement réalisé par Datactivist
 
 [![](https://cdn-images-1.medium.com/max/800/1*BaP37ooj9uhcpP1Hm5AA8g.gif)](https://docs.google.com/spreadsheets/d/1-0qBnEfwBrq8Lfj0WCl4G7V3uL9lVHDDCpsH8VXc1_M/edit#gid=0)
 
@@ -144,6 +144,7 @@ De nombreux bureaux d'études sur l'environnement accèdent aux données institu
 ## GéoIDD
 .pull-left[
 ![](https://img.over-blog-kiwi.com/2/27/17/52/20180515/ob_d59398_cgdd.jpg)
+]
 
 .pull-right[
 L'outil [GéoIDD](http://www.statistiques.developpement-durable.gouv.fr/cartographie/ar/cartographie-interactive-geoidd-france.html) est un outil de cartographie interactivee qui permet d'accéder à de nombreux indicateurs liés au développement durable sur la métropole et les cinq départements d'outre mer.

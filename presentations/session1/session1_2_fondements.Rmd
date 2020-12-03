@@ -1,6 +1,6 @@
 ---
 title: "OpenData"
-subtitle: "Législation et fondements"
+subtitle: "LÃ©gislation et fondements"
 author: "CEREMA Med > Mathieu Rajerison"
 date: "<span style='font-size:0.5em;'>02/08/2018</span>"
 output:
@@ -8,70 +8,70 @@ output:
     css: ["../css/my_css.css", "../css/my_css_session1.css", "default", "default-fonts"]
     seal: true
     lib_dir: libs
-    self_contained: true
+    self_contained: false
     nature:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
 ---
 class: center, middle, inverse
-# Histoire et législation autour de l'ouverture des données
+# Histoire et lÃ©gislation autour de l'ouverture des donnÃ©es
 ---
-## 18 e siècle
-- <span class=date>1789</span> **Déclaration des Droits de l'Homme et du Citoyen** - Art. 15
+## 18 e siÃ¨cle
+- <span class=date>1789</span> **DÃ©claration des Droits de l'Homme et du Citoyen** - Art. 15
 
 <blockquote>
-La Société a la droit de demander compte à tout Agent public de son administration
+La SociÃ©tÃ© a le droit de demander compte Ã  tout Agent public de son administration
 </blockquote>
 
 <center><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Le_Barbier_Dichiarazione_dei_diritti_dell%27uomo.jpg/220px-Le_Barbier_Dichiarazione_dei_diritti_dell%27uomo.jpg></img></center>
 
 ---
 
-## 20e siècle
+## 20e siÃ¨cle
 
 - <span class=date>1966</span> **Freedom of Information Act USA**
-- <span class=date>Janvier 1978</span> **Loi Informatique & Libertés**
-- <span class=date>Juillet 1978</span> **CADA** (Commission d'Accès aux Documents Administratifs) et la liberté d'accès aux documents administratifs
-- <span class=date>1992</span> **Code de la propriété intellectuelle**
+- <span class=date>Janvier 1978</span> **Loi Informatique & LibertÃ©s**
+- <span class=date>Juillet 1978</span> **CADA** (Commission d'AccÃ¨s aux Documents Administratifs) et la libertÃ© d'accÃ¨s aux documents administratifs
+- <span class=date>1992</span> **Code de la propriÃ©tÃ© intellectuelle**
 
 <center><img src=https://upload.wikimedia.org/wikipedia/commons/c/cc/Freedom_of_Information_logo.gif width=30%></img></center>
 
 ---
 
-## 21e siècle
-- <span class=date>2002</span> Convention européenne d'**Aarhus**, **code de l'environnement et information environnementale**
+## 21e siÃ¨cle
+- <span class=date>2002</span> Convention europÃ©enne d'**Aarhus**, **code de l'environnement et information environnementale**
 - <span class=date>2003</span> **directive PSI** (public sector information) - loi du 6 Juin 2005
-- <span class=date>2007</span>  **Directive Inspire**, information géographique et code de l'environnement
-- <span class=date>2011</span>  **Etalab** et informations publiques à redevance
-- <span class=date>2013</span>  **PSI 2** et numérisation des fonds et collections des bibliothèques
+- <span class=date>2007</span>  **Directive Inspire**, information gÃ©ographique et code de l'environnement
+- <span class=date>2011</span>  **Etalab** et informations publiques Ã  redevance
+- <span class=date>2013</span>  **PSI 2** et numÃ©risation des fonds et collections des bibliothÃ¨ques
 - <span class=date>2013</span>  **G8** et charte sur l'OpenData
 - <span class=date>2014</span>  **France membre du OGP** (Open Government Partnership)
-- <span class=date>2015</span>  **Loi Valter** et gratuité par défaut des informations publiques et gratuité de la réutilisation des données publiques
+- <span class=date>2015</span>  **Loi Valter** et gratuitÃ© par dÃ©faut des informations publiques et gratuitÃ© de la rÃ©utilisation des donnÃ©es publiques
 - <span class=date>Janvier 2016</span> **CRPA** : Code des relations entre le public et l'administration
-- <span class=date>Octobre 2016</span> **LPRN ou Loi Lemaire** : Loi pour une République Numérique et Opendata
-- <span class=date> Mai 2018</span>  **RGPD** : Règlement européen sur la protection des données personnelles
+- <span class=date>Octobre 2016</span> **LPRN ou Loi Lemaire** : Loi pour une RÃ©publique NumÃ©rique et Opendata
+- <span class=date> Mai 2018</span>  **RGPD** : RÃ¨glement europÃ©en sur la protection des donnÃ©es personnelles
 
 ---
 class: center, middle, inverse
 
-# Quelques définitions
+# Quelques dÃ©finitions
 
 ---
 ## Information publique
->Les informations publiques figurant dans des documents communiqués ou publiés par les administrations mentionnées au premier alinéa de l'article L. 300-2 peuvent être utilisées <b>par toute personne qui le souhaite à d'autres fins que celles de la mission de service public pour les besoins de laquelle les documents ont été produits ou reçus</b>.
-Les limites et conditions de cette réutilisation sont régies par le présent titre.
+>Les informations publiques figurant dans des documents communiquÃ©s ou publiÃ©s par les administrations mentionnÃ©es au premier alinÃ©a de l'article L. 300-2 peuvent Ãªtre utilisÃ©es <b>par toute personne qui le souhaite Ã  d'autres fins que celles de la mission de service public pour les besoins de laquelle les documents ont Ã©tÃ© produits ou reÃ§us</b>.
+Les limites et conditions de cette rÃ©utilisation sont rÃ©gies par le prÃ©sent titre.
 <div class=reference>
 <a href=https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000032255214&dateTexte=&categorieLien=cid>CRPA > Article L321-1</a>
 </div>
 
 ---
 ### Information publique (suite)
->Ne sont pas considérées comme des informations publiques, pour l'application du présent titre, les informations contenues dans des documents :
-<br>a) <b>Dont la communication ne constitue pas un droit pour toute personne</b> en application du titre Ier ou d'autres dispositions législatives, sauf si ces informations font l'objet d'une diffusion publique conforme aux prescriptions des articles L. 312-1 à L. 312-1-2 ;
-<br>b) (Abrogé) [Ou produits ou reçus par les administrations mentionnées à l'article 1er dans l'exercice d'une <b>mission de service public à caractère industriel ou commercial ;</b>]
-<br>c) Ou sur lesquels des tiers détiennent des <b>droits de propriété intellectuelle</b>.
-L'échange d'informations publiques entre les administrations, aux fins de l'exercice de leur mission de service public, ne constitue pas une réutilisation au sens du présent titre.
+>Ne sont pas considÃ©rÃ©es comme des informations publiques, pour l'application du prÃ©sent titre, les informations contenues dans des documents :
+<br>a) <b>Dont la communication ne constitue pas un droit pour toute personne</b> en application du titre Ier ou d'autres dispositions lÃ©gislatives, sauf si ces informations font l'objet d'une diffusion publique conforme aux prescriptions des articles L. 312-1 Ã  L. 312-1-2 ;
+<br>b) (AbrogÃ©) [Ou produits ou reÃ§us par les administrations mentionnÃ©es Ã  l'article 1er dans l'exercice d'une <b>mission de service public Ã  caractÃ¨re industriel ou commercial ;</b>]
+<br>c) Ou sur lesquels des tiers dÃ©tiennent des <b>droits de propriÃ©tÃ© intellectuelle</b>.
+L'Ã©change d'informations publiques entre les administrations, aux fins de l'exercice de leur mission de service public, ne constitue pas une rÃ©utilisation au sens du prÃ©sent titre.
 <div class=reference>
 <a href=https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000032255214&dateTexte=&categorieLien=cid>
 CRPA > Article L321-2
@@ -81,7 +81,7 @@ CRPA > Article L321-2
 ---
 
 ## Documents administratifs
->Sont considérés comme documents administratifs, au sens des titres Ier, III et IV du présent livre, quels que soient leur date, leur lieu de conservation, leur forme et leur support, <b>les documents produits ou reçus, dans le cadre de leur mission de service public, par l'Etat, les collectivités territoriales ainsi que par les autres personnes de droit public ou les personnes de droit privé chargées d'une telle mission</b>. Constituent de tels documents notamment les dossiers, rapports, études, comptes rendus, procès-verbaux, statistiques, instructions, circulaires, notes et réponses ministérielles, correspondances, avis, prévisions, codes sources et décisions.
+>Sont considÃ©rÃ©s comme documents administratifs, au sens des titres Ier, III et IV du prÃ©sent livre, quels que soient leur date, leur lieu de conservation, leur forme et leur support, <b>les documents produits ou reÃ§us, dans le cadre de leur mission de service public, par l'Etat, les collectivitÃ©s territoriales ainsi que par les autres personnes de droit public ou les personnes de droit privÃ© chargÃ©es d'une telle mission</b>. Constituent de tels documents notamment les dossiers, rapports, Ã©tudes, comptes rendus, procÃ¨s-verbaux, statistiques, instructions, circulaires, notes et rÃ©ponses ministÃ©rielles, correspondances, avis, prÃ©visions, codes sources et dÃ©cisions.
 <div class=reference>
 <a href=https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367689&dateTexte=&categorieLien=cid>
 CRPA > Article L300-2
@@ -90,8 +90,8 @@ CRPA > Article L300-2
 
 ---
 ### Documents administratifs (suite)
->Art. L. 311-3-1.-Sous réserve de l'application du 2° de l'article L. 311-5, <b>une décision individuelle prise sur le fondement d'un traitement algorithmique</b> comporte une mention explicite en informant l'intéressé. <b>Les règles définissant ce traitement</b> ainsi que les principales caractéristiques de sa mise en oeuvre sont communiquées par l'administration à l'intéressé s'il en fait la demande.
-« Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+>Art. L. 311-3-1.-Sous rÃ©serve de l'application du 2Â° de l'article L. 311-5, <b>une dÃ©cision individuelle prise sur le fondement d'un traitement algorithmique</b> comporte une mention explicite en informant l'intÃ©ressÃ©. <b>Les rÃ¨gles dÃ©finissant ce traitement</b> ainsi que les principales caractÃ©ristiques de sa mise en oeuvre sont communiquÃ©es par l'administration Ã  l'intÃ©ressÃ© s'il en fait la demande.
+Â« Les conditions d'application du prÃ©sent article sont fixÃ©es par dÃ©cret en Conseil d'Etat.
 <div class=reference>
 <a href=https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=7A7AC27AD80B13EE2F60B2AE2D6F3051.tplgfr31s_2?idArticle=JORFARTI000033202959&cidTexte=JORFTEXT000033202746&dateTexte=29990101&categorieLien=id>
 LPRN > Article 4
@@ -101,12 +101,12 @@ LPRN > Article 4
 ---
 
 ## Information environnementale
->Est considérée comme information relative à l'environnement au sens du présent chapitre toute information disponible, quel qu'en soit le support, qui a pour objet :  
-<br>1° L'état des éléments de l'environnement, notamment l'air, l'atmosphère, l'eau, le sol, les terres, les paysages, les sites naturels, les zones côtières ou marines et la diversité biologique, ainsi que les interactions entre ces éléments ;  
-<br>2° Les décisions, les activités et les facteurs, notamment les substances, l'énergie, le bruit, les rayonnements, les déchets, les émissions, les déversements et autres rejets, susceptibles d'avoir des incidences sur l'état des éléments visés au 1° ;  
-<br>3° L'état de la santé humaine, la sécurité et les conditions de vie des personnes, les constructions et le patrimoine culturel, dans la mesure où ils sont ou peuvent être altérés par des éléments de l'environnement, des décisions, des activités ou des facteurs mentionnés ci-dessus ;  
-<br>4° Les analyses des coûts et avantages ainsi que les hypothèses économiques utilisées dans le cadre des décisions et activités visées au 2° ; 
-<br>5° Les rapports établis par les autorités publiques ou pour leur compte sur l'application des dispositions législatives et réglementaires relatives à l'environnement." 
+>Est considÃ©rÃ©e comme information relative Ã  l'environnement au sens du prÃ©sent chapitre toute information disponible, quel qu'en soit le support, qui a pour objet :  
+<br>1Â° L'Ã©tat des Ã©lÃ©ments de l'environnement, notamment l'air, l'atmosphÃ¨re, l'eau, le sol, les terres, les paysages, les sites naturels, les zones cÃ´tiÃ¨res ou marines et la diversitÃ© biologique, ainsi que les interactions entre ces Ã©lÃ©ments ;  
+<br>2Â° Les dÃ©cisions, les activitÃ©s et les facteurs, notamment les substances, l'Ã©nergie, le bruit, les rayonnements, les dÃ©chets, les Ã©missions, les dÃ©versements et autres rejets, susceptibles d'avoir des incidences sur l'Ã©tat des Ã©lÃ©ments visÃ©s au 1Â° ;  
+<br>3Â° L'Ã©tat de la santÃ© humaine, la sÃ©curitÃ© et les conditions de vie des personnes, les constructions et le patrimoine culturel, dans la mesure oÃ¹ ils sont ou peuvent Ãªtre altÃ©rÃ©s par des Ã©lÃ©ments de l'environnement, des dÃ©cisions, des activitÃ©s ou des facteurs mentionnÃ©s ci-dessus ;  
+<br>4Â° Les analyses des coÃ»ts et avantages ainsi que les hypothÃ¨ses Ã©conomiques utilisÃ©es dans le cadre des dÃ©cisions et activitÃ©s visÃ©es au 2Â° ; 
+<br>5Â° Les rapports Ã©tablis par les autoritÃ©s publiques ou pour leur compte sur l'application des dispositions lÃ©gislatives et rÃ©glementaires relatives Ã  l'environnement." 
 <div class=reference>
 <a href=https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&idArticle=LEGIARTI000006832921&dateTexte=&categorieLien=cid>
 Code de l'Environnement > Article L124-2
@@ -115,21 +115,21 @@ Code de l'Environnement > Article L124-2
 
 ---
 class: center, middle, inverse
-# Ce qu'il faut retenir des textes réglementaires
+# Ce qu'il faut retenir des textes rÃ©glementaires
 
 ---
 
-## Les collectivités de plus de 3500 habitants
->« Art. L. 312-1-1.-Sous réserve des articles L. 311-5 et L. 311-6 et lorsque ces documents sont disponibles sous forme électronique, les administrations mentionnées au premier alinéa de l'article L. 300-2, <b>à l'exception des personnes morales dont le nombre d'agents ou de salariés est inférieur à un seuil fixé par décret</b>, publient en ligne les documents administratifs suivants : 
+## Les collectivitÃ©s de plus de 3500 habitants
+>Â« Art. L. 312-1-1.-Sous rÃ©serve des articles L. 311-5 et L. 311-6 et lorsque ces documents sont disponibles sous forme Ã©lectronique, les administrations mentionnÃ©es au premier alinÃ©a de l'article L. 300-2, <b>Ã  l'exception des personnes morales dont le nombre d'agents ou de salariÃ©s est infÃ©rieur Ã  un seuil fixÃ© par dÃ©cret</b>, publient en ligne les documents administratifs suivants : 
 <br>
-« 1° <b>Les documents qu'elles communiquent en application des procédures prévues au présent titre</b>, ainsi que leurs versions mises à jour ;   
+Â« 1Â° <b>Les documents qu'elles communiquent en application des procÃ©dures prÃ©vues au prÃ©sent titre</b>, ainsi que leurs versions mises Ã  jour ;   
 <br>
-« 2° Les <b>documents qui figurent dans le répertoire mentionné au premier alinéa</b> de l'article L. 322-6 ;   
+Â« 2Â° Les <b>documents qui figurent dans le rÃ©pertoire mentionnÃ© au premier alinÃ©a</b> de l'article L. 322-6 ;   
 <br>
-« 3° Les <b>bases de données</b>, mises à jour de façon régulière, qu'elles produisent ou qu'elles reçoivent et qui ne font pas l'objet d'une diffusion publique par ailleurs ;   
+Â« 3Â° Les <b>bases de donnÃ©es</b>, mises Ã  jour de faÃ§on rÃ©guliÃ¨re, qu'elles produisent ou qu'elles reÃ§oivent et qui ne font pas l'objet d'une diffusion publique par ailleurs ;   
 <br>
-« 4° Les données, mises à jour de façon régulière, dont la publication présente un intérêt économique, social, sanitaire ou environnemental.   
-<br><b>«Le présent article ne s'applique pas aux collectivités territoriales de moins de 3 500 habitants.</b>
+Â« 4Â° Les donnÃ©es, mises Ã  jour de faÃ§on rÃ©guliÃ¨re, dont la publication prÃ©sente un intÃ©rÃªt Ã©conomique, social, sanitaire ou environnemental.   
+<br><b>Â«Le prÃ©sent article ne s'applique pas aux collectivitÃ©s territoriales de moins de 3 500 habitants.</b>
 <div class=reference>
 <a href=https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=7A7AC27AD80B13EE2F60B2AE2D6F3051.tplgfr31s_2?idArticle=JORFARTI000033202965&cidTexte=JORFTEXT000033202746&dateTexte=29990101&categorieLien=id>
 LPRN > Article 6
@@ -138,14 +138,14 @@ LPRN > Article 6
 ---
 
 ## L'ouverture des codes source
->« Art. L. 300-4.-Toute mise à disposition effectuée sous forme électronique en application du présent livre se fait dans un <b>standard ouvert</b>, <b>aisément réutilisable et exploitable par un système de traitement automatisé</b>. » ;
+>Â« Art. L. 300-4.-Toute mise Ã  disposition effectuÃ©e sous forme Ã©lectronique en application du prÃ©sent livre se fait dans un <b>standard ouvert</b>, <b>aisÃ©ment rÃ©utilisable et exploitable par un systÃ¨me de traitement automatisÃ©</b>. Â» ;
 <div class=reference>
 <a href=https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=7A7AC27AD80B13EE2F60B2AE2D6F3051.tplgfr31s_2?idArticle=JORFARTI000033202952&cidTexte=JORFTEXT000033202746&dateTexte=29990101&categorieLien=i>
 LPRN > Article 3
 </a>
 </div>
 
->Elles encouragent l'utilisation des <b>logiciels libres et des formats ouverts</b> lors du développement, de l'achat ou de l'utilisation, de tout ou partie, de ces systèmes d'information. Elles encouragent la migration de l'ensemble des composants de ces systèmes d'information vers le protocole IPV6, sous réserve de leur compatibilité, à compter du 1er janvier 2018.
+>Elles encouragent l'utilisation des <b>logiciels libres et des formats ouverts</b> lors du dÃ©veloppement, de l'achat ou de l'utilisation, de tout ou partie, de ces systÃ¨mes d'information. Elles encouragent la migration de l'ensemble des composants de ces systÃ¨mes d'information vers le protocole IPV6, sous rÃ©serve de leur compatibilitÃ©, Ã  compter du 1er janvier 2018.
 <div class=reference>
 <a href=https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=7A7AC27AD80B13EE2F60B2AE2D6F3051.tplgfr31s_2?idArticle=JORFARTI000033203039&cidTexte=JORFTEXT000033202746&dateTexte=29990101&categorieLien=id>
 LPRN > Article 16
@@ -153,16 +153,16 @@ LPRN > Article 16
 
 ---
 
-## Le caractère personnel
->La réutilisation d'informations publiques comportant des données à caractère personnel est subordonnée au respect des <b>dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.</b>
-Loi Informatique et Libertés Janvier 1978
+## Le caractÃ¨re personnel
+>La rÃ©utilisation d'informations publiques comportant des donnÃ©es Ã  caractÃ¨re personnel est subordonnÃ©e au respect des <b>dispositions de la loi nÂ° 78-17 du 6 janvier 1978 relative Ã  l'informatique, aux fichiers et aux libertÃ©s.</b>
+Loi Informatique et LibertÃ©s Janvier 1978
 <div class=reference>
 <a href=https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000033219000&cidTexte=LEGITEXT000031366350&dateTexte=&categorieLien=cid>
 CRPA > L322-2
 </a></div>
 
 ### Privacy By Design
-Le Privacy by Design est l'une des notions au coeur du RGPD, le nouveau règlement encadrant la protection des données. Sommairement, c'est un concept qui impose aux entreprises d'intégrer les principes du RGPD dès la conception d'un projet, d'un service ou de tout autre outil lié à la manipulation de données personnelles.
+Le Privacy by Design est l'une des notions au coeur du RGPD, le nouveau rÃ¨glement encadrant la protection des donnÃ©es. Sommairement, c'est un concept qui impose aux entreprises d'intÃ©grer les principes du RGPD dÃ¨s la conception d'un projet, d'un service ou de tout autre outil liÃ© Ã  la manipulation de donnÃ©es personnelles.
 
 <div class=reference>
 <a href=https://www.dpms.eu/rgpd/explication-privacy-by-design/>https://www.dpms.eu/rgpd/explication-privacy-by-design/</a>
@@ -170,9 +170,9 @@ Le Privacy by Design est l'une des notions au coeur du RGPD, le nouveau règlemen
 
 ---
 
-## Mission de service public soumise à concurrence 
->Ne sont communicables qu'à l'intéressé les documents administratifs :
-1° Dont la communication porterait atteinte à la protection de la vie privée, au secret médical et <b>au secret en matière commerciale et industrielle</b>, lequel comprend le secret des procédés, des informations économiques et financières et des stratégies commerciales ou industrielles et est apprécié en tenant compte, le cas échéant, du fait que la mission de service public de l'administration mentionnée au premier alinéa de l'article L. 300-2 est soumise à la concurrence ;
+## Mission de service public soumise Ã  concurrence 
+>Ne sont communicables qu'Ã  l'intÃ©ressÃ© les documents administratifs :
+1Â° Dont la communication porterait atteinte Ã  la protection de la vie privÃ©e, au secret mÃ©dical et <b>au secret en matiÃ¨re commerciale et industrielle</b>, lequel comprend le secret des procÃ©dÃ©s, des informations Ã©conomiques et financiÃ¨res et des stratÃ©gies commerciales ou industrielles et est apprÃ©ciÃ© en tenant compte, le cas Ã©chÃ©ant, du fait que la mission de service public de l'administration mentionnÃ©e au premier alinÃ©a de l'article L. 300-2 est soumise Ã  la concurrence ;
 <div class=reference>
 <a href=https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000033218964>
 CRPA > Article L311-6
@@ -181,10 +181,10 @@ CRPA > Article L311-6
 
 ---
 
-## Les données d'intérêt général
->« Art. 53-1. - Lorsque la gestion d'un service public est <b>déléguée</b>, le concessionnaire fournit à l'autorité concédante, sous format électronique, dans un standard ouvert librement réutilisable et exploitable par un système de traitement automatisé, les données et les bases de données collectées ou produites à l'occasion de l'exploitation du service public faisant l'objet du contrat et qui sont indispensables à son exécution. L'autorité concédante ou un tiers désigné par celle-ci peut <b>extraire et exploiter librement tout ou partie de ces données et bases de données</b>, notamment en vue de leur mise à disposition à titre gratuit à des fins de réutilisation à titre gratuit ou onéreux.
-« La mise à disposition ou la publication des données et bases de données fournies par le concessionnaire se fait dans le respect des articles L. 311-5 à L. 311-7 du code des relations entre le public et l'administration.
-« L'autorité concédante peut, dès la conclusion du contrat ou au cours de son exécution, exempter le concessionnaire de tout ou partie des obligations prévues au présent article par une <b>décision motivée fondée sur des motifs d'intérêt général et rendue publique</b>. » ;
+## Les donnÃ©es d'intÃ©rÃªt gÃ©nÃ©ral
+>Â« Art. 53-1. - Lorsque la gestion d'un service public est <b>dÃ©lÃ©guÃ©e</b>, le concessionnaire fournit Ã  l'autoritÃ© concÃ©dante, sous format Ã©lectronique, dans un standard ouvert librement rÃ©utilisable et exploitable par un systÃ¨me de traitement automatisÃ©, les donnÃ©es et les bases de donnÃ©es collectÃ©es ou produites Ã  l'occasion de l'exploitation du service public faisant l'objet du contrat et qui sont indispensables Ã  son exÃ©cution. L'autoritÃ© concÃ©dante ou un tiers dÃ©signÃ© par celle-ci peut <b>extraire et exploiter librement tout ou partie de ces donnÃ©es et bases de donnÃ©es</b>, notamment en vue de leur mise Ã  disposition Ã  titre gratuit Ã  des fins de rÃ©utilisation Ã  titre gratuit ou onÃ©reux.
+Â« La mise Ã  disposition ou la publication des donnÃ©es et bases de donnÃ©es fournies par le concessionnaire se fait dans le respect des articles L. 311-5 Ã  L. 311-7 du code des relations entre le public et l'administration.
+Â« L'autoritÃ© concÃ©dante peut, dÃ¨s la conclusion du contrat ou au cours de son exÃ©cution, exempter le concessionnaire de tout ou partie des obligations prÃ©vues au prÃ©sent article par une <b>dÃ©cision motivÃ©e fondÃ©e sur des motifs d'intÃ©rÃªt gÃ©nÃ©ral et rendue publique</b>. Â» ;
 <div class=reference>
 <a href=https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=7A7AC27AD80B13EE2F60B2AE2D6F3051.tplgfr31s_2?idArticle=JORFARTI000033203041&cidTexte=JORFTEXT000033202746&dateTexte=29990101&categorieLien=id>
 LPRN > Article 17
@@ -198,14 +198,14 @@ class: center, middle, inverse
 ---
 
 ## Selon l'OpenKnowledge Foundation
-Pour l'Open Knowledge Foundation, l'OpenData doit obéir à ces conditions:
+Pour l'Open Knowledge Foundation, l'OpenData doit obÃ©ir Ã  ces conditions:
 
 <blockquote>
-- « Disponibilité et accès : les données doivent être <b>disponibles</b> dans leur ensemble et à un tarif ne dépassant pas le coût raisonnable de reproduction, de préférence par téléchargement sur Internet. Les données doivent également être disponibles sous une forme <b>commode</b> et <b>modifiable</b>.
+- Â« DisponibilitÃ© et accÃ¨s : les donnÃ©es doivent Ãªtre <b>disponibles</b> dans leur ensemble et Ã  un tarif ne dÃ©passant pas le coÃ»t raisonnable de reproduction, de prÃ©fÃ©rence par tÃ©lÃ©chargement sur Internet. Les donnÃ©es doivent Ã©galement Ãªtre disponibles sous une forme <b>commode</b> et <b>modifiable</b>.
 <br>
-- La réutilisation et la redistribution : les <b>données</b> doivent être fournies dans des conditions qui permettent la <b>réutilisation</b>, la <b>redistribution</b>, ainsi que la possibilité de mélanger celles-ci avec d'autres ensembles de données. »
+- La rÃ©utilisation et la redistribution : les <b>donnÃ©es</b> doivent Ãªtre fournies dans des conditions qui permettent la <b>rÃ©utilisation</b>, la <b>redistribution</b>, ainsi que la possibilitÃ© de mÃ©langer celles-ci avec d'autres ensembles de donnÃ©es. Â»
 <br>
-- Participation universelle : chacun doit être en mesure d'utiliser, réutiliser et redistribuer. Il ne doit y avoir <b>aucune discrimination</b> sur des <b>thématiques</b> ou des <b>personnes</b>, comme, par exemple, des restrictions « non commerciales » ou des restrictions d'utilisation à certaines fins (par exemple uniquement dans l'éducation).
+- Participation universelle : chacun doit Ãªtre en mesure d'utiliser, rÃ©utiliser et redistribuer. Il ne doit y avoir <b>aucune discrimination</b> sur des <b>thÃ©matiques</b> ou des <b>personnes</b>, comme, par exemple, des restrictions Â« non commerciales Â» ou des restrictions d'utilisation Ã  certaines fins (par exemple uniquement dans l'Ã©ducation).
 </blockquote>
 <div class=reference><a href=https://blog.okfn.org/2013/10/03/defining-open-data/  
 https://okfn.org/opendata>https://blog.okfn.org/2013/10/03/defining-open-data/  
@@ -214,9 +214,9 @@ https://okfn.org/opendata</a></div>
 
 ## Les 8 principes de l'Open Government Data
 
-Les 8 principes de l'[OpenGovData](https://opengovdata.org/) stipulent que la donnée doit être :
+Les 8 principes de l'[OpenGovData](https://opengovdata.org/) stipulent que la donnÃ©e doit Ãªtre :
 
-1. Complète
+1. ComplÃ¨te
 
 --
 
@@ -224,7 +224,7 @@ Les 8 principes de l'[OpenGovData](https://opengovdata.org/) stipulent que la do
 
 --
 
-3. Fraîche
+3. FraÃ®che
 
 --
 
@@ -240,10 +240,10 @@ Les 8 principes de l'[OpenGovData](https://opengovdata.org/) stipulent que la do
 
 --
 
-7. Non propriétaire
+7. Non propriÃ©taire
 
 --
 
 8. Avec une license libre
 
-`r icon::fa("readme", size = 1)` [Lire la charte internationale sur les données ouvertes](https://opendatacharter.net/principles-fr/)
+`r icon::fa("readme", size = 1)` [Lire la charte internationale sur les donnÃ©es ouvertes](https://opendatacharter.net/principles-fr/)

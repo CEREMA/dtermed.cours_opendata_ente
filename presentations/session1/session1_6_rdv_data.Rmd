@@ -8,7 +8,7 @@ output:
     css: ["../css/my_css.css", "../css/my_css_session1.css", "default", "default-fonts"]
     seal: true
     lib_dir: libs
-    self_contained: true
+    self_contained: false
     nature:
       highlightStyle: github
       highlightLines: true
@@ -108,8 +108,7 @@ Selon le type de données rencontré, on n'utilisera pas forcément le même typ
 ### Cartographie
 Aussi, quand cela est possible, la cartographie permet de voir des **dynamiques spatiales** à l'oeuvre et de **croiser des informations territorialiées** par le jeu des superpositions de couches d'informations
 
-Voici par exemple une carte du nombre de bises :
-<center><img src=http://www.cartesfrance.fr/cartes/carte-france-bises.gif width=40%></img></center>
+<center><img src=https://i2.wp.com/francaisdenosregions.com/wp-content/uploads/2016/12/avec-corse.png?resize=664%2C659&ssl=1 width=60%></img></center>
 
 ---
 class: center, middle, inverse
